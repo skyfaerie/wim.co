@@ -1,0 +1,321 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+// @import "compass/reset";
+
+
+/*****************************************************************************/
+/*
+/* GLOBAL RESET
+/*
+/*****************************************************************************/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  // position: relative;
+  width: 100%;
+  min-height: 100%;
+  background-color: #fefefe;
+}
+
+body { 
+	font-family: 'Lucida Sans';
+	font-size: 12pt;
+	color: #666666;
+  /* margin: 0 auto 100px; /* bottom = footer height */
+}
+
+h1, h2, h3, h4 { color: #57267C; }
+
+h1 {
+	font-size: 2.157em;
+	line-height: 2.618em;
+}
+
+h2 {
+	font-size: 1.618em;
+	line-height: 2.157em;
+}
+
+h3 {
+	font-size: 1.333em;
+	line-height: 1.618em; 
+}
+
+h4 {
+	font-size: 1em;
+	line-height: 1.333em; 
+	padding-bottom: 0.824em;
+}
+
+h5 {
+	font-size: 0.824em;
+	line-height: 1.4em; 
+}
+
+h6 {
+	font-size: 0.618em;
+	line-height: 0.824em;
+}
+/*
+h6 {
+	font-size: 0.509em;
+	line-height: 0.618em;
+}
+*/
+
+p {
+	font-size: 1em;
+	line-height: 1.333em;
+	padding-bottom: 0.824em;
+	color: #666666;
+}
+
+a {
+	text-decoration: none; 
+	color: #57267C;
+}
+
+/*****************************************************************************/
+/*
+/* COMMON 
+/*
+/*****************************************************************************/
+
+.container {
+	width: 100%;
+	height: 100%;
+}
+header{
+	border-bottom: 1px solid #663981;
+	width: 100%;
+	height: 125px;
+	margin-bottom: 1px;
+}
+
+.alt-color-light {
+	background-color: #fefefe;
+	border-bottom: 1px solid #663981;
+}
+
+.alt-color-dark {
+	background-color: #f4f4f4;
+	border-bottom: 1px solid #663981;
+}
+
+
+.logo {
+	float: left;
+}
+
+nav {               /// FIND A WAY TO DO THIS WITHOUT THE FLOAT!!!!!
+	display: inline;
+	 // background-color: #676767;
+	 float: right; 
+	color: #666;
+	margin-right: 120px;
+	padding: 70px 0px 0px 0px;
+
+	li {
+		display: inline;
+		margin: 10px 35px;
+	}
+
+	a {
+		text-decoration: none;
+		color: #666;
+	}
+}
+
+main {
+	background-color: #f7f7f7;
+	width: 100%;
+}
+
+.content { 
+	// background-color: #feffef;
+	width: 75%;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+footer {
+	background-color: #444;
+	color: #aeaeae;
+	// position: absolute;
+	position: relative;
+  left: 0;
+  bottom: 0;
+  min-height: 100px;
+  width: 100%;
+  text-align: center;
+	padding: 10px 0px;
+ }
+
+
+/*****************************************************************************/
+/*
+/* HOME
+/*
+/*****************************************************************************/
+
+section {
+	margin: 0 auto;
+}
+
+#intro {
+	//background-color: #f9ebb6;
+	width: 50%;
+	padding-bottom: 30px; 
+	margin: 0 auto;
+}
+
+#spotlight{
+	//background-color: #f9ebb6;
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px 0px;
+}
+
+#sponsors{
+	//background-color: #f9ebb6;
+	width: 78%;
+	margin: 0 auto;
+}
+
+.highlight {
+	width: 300px;
+	height: 300px;
+	background-color: #ebeaea;
+	margin-bottom: 70px;
+
+	-webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+	box-shadow: 0px 5px 5px 1px #d3d1d1;
+
+	img {
+		width:  100%;
+
+		-webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+		box-shadow: 0px 5px 5px 1px #d3d1d1;
+	}
+
+	h4 {
+		text-align: center;
+		padding-top: 15px;
+	}
+}
+
+
+/*****************************************************************************/
+/*
+/* 
+/*
+/*****************************************************************************/
+
+
+
+/*****************************************************************************/
+/*
+/* MENTORS
+/*
+/*****************************************************************************/
+
+.content-masonry { 
+	// background-color: #feffef;
+	width: 90%;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+#mentors {
+	// background-color: #343432;
+	margin: 0 auto;
+	width: 93%;
+}
+
+.mentor {
+	width: 340px;
+	height: 450px;
+	background-color: #ebeaea;
+	margin-bottom: 30px;
+
+	-webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+	box-shadow: 0px 5px 5px 1px #d3d1d1;
+
+	img {
+
+		width:  100%;
+		height: 55%;
+
+		-webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+		box-shadow: 0px 5px 5px 1px #d3d1d1;
+	}
+
+	h3 { 
+		text-align: center; 
+		padding-top: 15px;
+		color: #57267C;
+	}
+
+	h3:after {
+		content: "";
+		margin: 5px auto 20px;
+		display: block;
+		width: 70px;
+		height: 5px;
+		background: #57267C;
+	}
+
+	h5 { 
+		text-align: center; 
+		padding-top: 5px;
+	}
+}
+
+
+/*****************************************************************************/
+/*
+/* BLOG
+/*
+/*****************************************************************************/
+
+
+
+/*****************************************************************************/
+/*
+/* PARTNERS
+/*
+/*****************************************************************************/
+
+#partners {
+	//background-color: #efb3b3;
+	width: 85%;
+}
+
+.partner {
+	width: 200px;
+	height: 250px;
+	background-color: #fff;
+	margin-bottom: 10px;
+
+	img {
+		border-right: 1px solid #eee;
+		border-bottom: 1px solid #eee;
+
+		-webkit-box-shadow: 40px 40px 20px 2px #aeaeae;
+		box-shadow: 2px 2px 5px 3px #aeaeae;
+	}
+
+	h5 { 
+		text-align: center; 
+		padding-top: 5px;
+	}
+}
+
+

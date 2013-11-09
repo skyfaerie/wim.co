@@ -1,0 +1,20 @@
+---
+layout: default
+title: blog
+---
+
+<!-- <div class="posts"> -->
+<div class="content">	
+  {% for post in site.posts %}
+    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+    
+    <a href="{{ post.url }}">
+      <h3 class="title">{{ post.title }}</h3>
+    </a>
+
+    <p>{{ post.excerpt }}</p>
+
+    <p>{{ post.date |  date: "%B %d, %Y "}}</p>
+  {% endfor %}
+</div>
+

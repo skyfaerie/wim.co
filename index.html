@@ -1,0 +1,62 @@
+---
+layout: default
+title: Women Innovate Mobile
+---
+<section class="alt-color-light">
+	<div id="intro">
+		<h1 style="text-align: center;">Acceleration. Reinvented.</h1>
+		<p style="text-align: center; font-size: 2.157em; padding-bottom: 12px;">...</p>
+
+		<p style="text-align: center;">We invest in gender-diverse founding teams with a focus in the mobile space.</p>
+	</div>
+</section>
+
+<section class="alt-color-dark">
+	<div id="spotlight">
+
+		<div class="highlight">
+			<img src="{{ site.baseurl }}/img/highlights/hangout.png">
+			<h4>G+ Women Who Tech Series</h4>
+		</div>
+
+		<div class="highlight">
+			<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg">
+			<h4>Founder's Breakfast</h4>
+		</div>
+
+		<div class="highlight">
+			<img src="{{ site.baseurl }}/img/highlights/apple.jpg">
+			<h4>Apple Meet the Innovators</h4>
+		</div>
+
+		{% for post in site.posts  limit: 3%}
+			<div class="highlight">
+		    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+		    
+		    <a href="{{ post.url }}">
+		      <h4 class="title">{{ post.title }}</h4>
+		    </a>
+	  	</div>
+	  {% endfor %}
+	
+	</div>
+	</section>
+
+<section class="alt-color-light">
+	<div id="sponsors">
+		sponsor bar images go here:
+
+		<ul>
+			<li>Google</li>
+			<li>Turnstone</li>
+			<li>TriNet</li>
+			<li>Pitchbook</li>
+			<li>Lowenstein Sandler</li>
+			<li>American Airlines</li>
+			<li>Grind</li>
+			<li>Silicon Valley Bank</li>
+			<li>Apple</li>
+			<li>Redstamp</li>
+		</ul>
+	</div>
+</section>

@@ -1,0 +1,318 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/*****************************************************************************/
+/*
+/* GLOBAL RESET
+/*
+/*****************************************************************************/
+/* line 15, ../_sass/screen.scss */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 20, ../_sass/screen.scss */
+html {
+  width: 100%;
+  min-height: 100%;
+  background-color: #fefefe;
+}
+
+/* line 27, ../_sass/screen.scss */
+body {
+  font-family: 'Lucida Sans';
+  font-size: 12pt;
+  color: #666666;
+  /* margin: 0 auto 100px; /* bottom = footer height */
+}
+
+/* line 34, ../_sass/screen.scss */
+h1, h2, h3, h4 {
+  color: #57267C;
+}
+
+/* line 36, ../_sass/screen.scss */
+h1 {
+  font-size: 2.157em;
+  line-height: 2.618em;
+}
+
+/* line 41, ../_sass/screen.scss */
+h2 {
+  font-size: 1.618em;
+  line-height: 2.157em;
+}
+
+/* line 46, ../_sass/screen.scss */
+h3 {
+  font-size: 1.333em;
+  line-height: 1.618em;
+}
+
+/* line 51, ../_sass/screen.scss */
+h4 {
+  font-size: 1em;
+  line-height: 1.333em;
+  padding-bottom: 0.824em;
+}
+
+/* line 57, ../_sass/screen.scss */
+h5 {
+  font-size: 0.824em;
+  line-height: 1.4em;
+}
+
+/* line 62, ../_sass/screen.scss */
+h6 {
+  font-size: 0.618em;
+  line-height: 0.824em;
+}
+
+/*
+h6 {
+	font-size: 0.509em;
+	line-height: 0.618em;
+}
+*/
+/* line 73, ../_sass/screen.scss */
+p {
+  font-size: 1em;
+  line-height: 1.333em;
+  padding-bottom: 0.824em;
+  color: #666666;
+}
+
+/* line 80, ../_sass/screen.scss */
+a {
+  text-decoration: none;
+  color: #57267C;
+}
+
+/*****************************************************************************/
+/*
+/* COMMON 
+/*
+/*****************************************************************************/
+/* line 91, ../_sass/screen.scss */
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+/* line 95, ../_sass/screen.scss */
+header {
+  border-bottom: 1px solid #663981;
+  width: 100%;
+  height: 125px;
+  margin-bottom: 1px;
+}
+
+/* line 102, ../_sass/screen.scss */
+.alt-color-light {
+  background-color: #fefefe;
+  border-bottom: 1px solid #663981;
+}
+
+/* line 107, ../_sass/screen.scss */
+.alt-color-dark {
+  background-color: #f4f4f4;
+  border-bottom: 1px solid #663981;
+}
+
+/* line 113, ../_sass/screen.scss */
+.logo {
+  float: left;
+}
+
+/* line 117, ../_sass/screen.scss */
+nav {
+  display: inline;
+  float: right;
+  color: #666;
+  margin-right: 120px;
+  padding: 70px 0px 0px 0px;
+}
+/* line 125, ../_sass/screen.scss */
+nav li {
+  display: inline;
+  margin: 10px 35px;
+}
+/* line 130, ../_sass/screen.scss */
+nav a {
+  text-decoration: none;
+  color: #666;
+}
+
+/* line 136, ../_sass/screen.scss */
+main {
+  background-color: #f7f7f7;
+  width: 100%;
+}
+
+/* line 141, ../_sass/screen.scss */
+.content {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+/* line 148, ../_sass/screen.scss */
+footer {
+  background-color: #444;
+  color: #aeaeae;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  min-height: 100px;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+/*****************************************************************************/
+/*
+/* HOME
+/*
+/*****************************************************************************/
+/* line 168, ../_sass/screen.scss */
+section {
+  margin: 0 auto;
+}
+
+/* line 172, ../_sass/screen.scss */
+#intro {
+  width: 50%;
+  padding-bottom: 30px;
+  margin: 0 auto;
+}
+
+/* line 179, ../_sass/screen.scss */
+#spotlight {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px 0px;
+}
+
+/* line 186, ../_sass/screen.scss */
+#sponsors {
+  width: 78%;
+  margin: 0 auto;
+}
+
+/* line 192, ../_sass/screen.scss */
+.highlight {
+  width: 300px;
+  height: 300px;
+  background-color: #ebeaea;
+  margin-bottom: 70px;
+  -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+  box-shadow: 0px 5px 5px 1px #d3d1d1;
+}
+/* line 201, ../_sass/screen.scss */
+.highlight img {
+  width: 100%;
+  -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+  box-shadow: 0px 5px 5px 1px #d3d1d1;
+}
+/* line 208, ../_sass/screen.scss */
+.highlight h4 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+/*****************************************************************************/
+/*
+/* 
+/*
+/*****************************************************************************/
+/*****************************************************************************/
+/*
+/* MENTORS
+/*
+/*****************************************************************************/
+/* line 229, ../_sass/screen.scss */
+.content-masonry {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+/* line 236, ../_sass/screen.scss */
+#mentors {
+  margin: 0 auto;
+  width: 93%;
+}
+
+/* line 242, ../_sass/screen.scss */
+.mentor {
+  width: 340px;
+  height: 450px;
+  background-color: #ebeaea;
+  margin-bottom: 30px;
+  -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+  box-shadow: 0px 5px 5px 1px #d3d1d1;
+}
+/* line 251, ../_sass/screen.scss */
+.mentor img {
+  width: 100%;
+  height: 55%;
+  -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
+  box-shadow: 0px 5px 5px 1px #d3d1d1;
+}
+/* line 260, ../_sass/screen.scss */
+.mentor h3 {
+  text-align: center;
+  padding-top: 15px;
+  color: #57267C;
+}
+/* line 266, ../_sass/screen.scss */
+.mentor h3:after {
+  content: "";
+  margin: 5px auto 20px;
+  display: block;
+  width: 70px;
+  height: 5px;
+  background: #57267C;
+}
+/* line 275, ../_sass/screen.scss */
+.mentor h5 {
+  text-align: center;
+  padding-top: 5px;
+}
+
+/*****************************************************************************/
+/*
+/* BLOG
+/*
+/*****************************************************************************/
+/*****************************************************************************/
+/*
+/* PARTNERS
+/*
+/*****************************************************************************/
+/* line 296, ../_sass/screen.scss */
+#partners {
+  width: 85%;
+}
+
+/* line 301, ../_sass/screen.scss */
+.partner {
+  width: 200px;
+  height: 250px;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+/* line 307, ../_sass/screen.scss */
+.partner img {
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  -webkit-box-shadow: 40px 40px 20px 2px #aeaeae;
+  box-shadow: 2px 2px 5px 3px #aeaeae;
+}
+/* line 315, ../_sass/screen.scss */
+.partner h5 {
+  text-align: center;
+  padding-top: 5px;
+}
