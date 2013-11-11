@@ -110,8 +110,25 @@ header{
 }
 
 nav {
+	display: block;
+	padding: 20px 25px 20px 0px;
 
-	padding-top: 60px;
+	ul { 
+		float: right;
+		list-style-type: none;
+
+		li { 
+			display: inline-block; 
+		}
+	}
+
+	img {
+		width: 25px;
+	}
+}
+
+.menu {
+	display: block;
 
 	ul {
 		margin: 0;
