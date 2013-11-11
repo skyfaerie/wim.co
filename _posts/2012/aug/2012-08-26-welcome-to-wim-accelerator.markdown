@@ -2,7 +2,7 @@
 layout: post
 title:  "Women Innovate Mobile"
 date:   2012-08-26
-image: logo.png
+image: placeholder.png
 categories: "welcome"
 ---
 

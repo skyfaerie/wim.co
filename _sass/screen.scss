@@ -21,7 +21,7 @@ html {
   // position: relative;
   width: 100%;
   min-height: 100%;
-  background-color: #fefefe;
+  background-color: #f4f4f4;
 }
 
 body { 
@@ -93,43 +93,72 @@ a {
 	height: 100%;
 }
 header{
-	border-bottom: 1px solid #663981;
+	// border-bottom: 1px solid #663981;
 	width: 100%;
 	height: 125px;
 	margin-bottom: 1px;
 }
 
-.alt-color-light {
+.alt-color {
 	background-color: #fefefe;
 	border-bottom: 1px solid #663981;
+	border-top: 1px solid #663981;
 }
-
-.alt-color-dark {
-	background-color: #f4f4f4;
-	border-bottom: 1px solid #663981;
-}
-
 
 .logo {
 	float: left;
 }
 
-nav {               /// FIND A WAY TO DO THIS WITHOUT THE FLOAT!!!!!
-	display: inline;
-	 // background-color: #676767;
-	 float: right; 
-	color: #666;
-	margin-right: 120px;
-	padding: 70px 0px 0px 0px;
+nav {
 
-	li {
-		display: inline;
-		margin: 10px 35px;
+	padding-top: 60px;
+
+	ul {
+		margin: 0;
+		padding: 0;
+		float: right;
+		//background-color: #edbdbd;
+	
+		li {
+	//		background-color: #edbdbd;
+			margin-right: 2px;
+			display: inline-block;
+			position: relative;
+
+			a { 
+			 	display:block;
+				width: 5em;
+				text-align: center;
+				text-decoration: none;
+				color: #777;
+				padding: 20px 30px 20px 15px;
+				position:relative;
+				margin: 0 auto;
+			}
+
+			a:hover { 
+				background-color: #f4f4f4;
+				color: #666666;
+				border-bottom: 2px solid #666;
+			}
+
+			ul { display: none; }
+		}
 	}
 
-	a {
-		text-decoration: none;
-		color: #666;
+	li:hover ul {
+		display: block;
+		position: absolute;
+	}
+
+	li:hover a { 
+		background-color: #57267C; //main
+		color: #f4f4f4;
+	}
+
+	li:hover li a:hover { 
+		background-color: #9738e0;   // submenu highlight
+		color: #f4f4f4;
 	}
 }
 
@@ -174,6 +203,16 @@ section {
 	width: 50%;
 	padding-bottom: 30px; 
 	margin: 0 auto;
+
+	h1 { text-align: center; }
+
+	#dots {
+		text-align: center; 
+		font-size: 2.157em; 
+		padding-bottom: 12px;
+	}
+
+	p { text-align: center; }
 }
 
 #spotlight{
@@ -187,6 +226,13 @@ section {
 	//background-color: #f9ebb6;
 	width: 78%;
 	margin: 0 auto;
+	padding: 10px 0px;
+
+	img { width: 90px; }
+
+	ul { li { display: inline; } }
+
+	h5 { text-align: center; }
 }
 
 .highlight {
@@ -214,7 +260,7 @@ section {
 
 /*****************************************************************************/
 /*
-/* 
+/*  ABOUT
 /*
 /*****************************************************************************/
 
@@ -281,7 +327,23 @@ section {
 
 /*****************************************************************************/
 /*
+/* COMPANIES
+/*
+/*****************************************************************************/
+
+
+
+/*****************************************************************************/
+/*
 /* BLOG
+/*
+/*****************************************************************************/
+
+
+
+/*****************************************************************************/
+/*
+/* EVENTS
 /*
 /*****************************************************************************/
 
@@ -317,5 +379,16 @@ section {
 		padding-top: 5px;
 	}
 }
+
+
+/*****************************************************************************/
+/*
+/* MEDIA QUERIES
+/*
+/*****************************************************************************/
+
+
+
+
 
 
