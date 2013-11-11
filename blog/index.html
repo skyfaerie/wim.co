@@ -6,13 +6,13 @@ title: blog
 <!-- <div class="posts"> -->
 <div class="content">	
   {% for post in site.posts %}
-    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+    <img src="{{ site.baseurl }}/img/blog/{{ site.baseurl }}{{ post.image }}">
     
     <a href="{{ post.url }}">
-      <h3 class="title">{{ post.title }}</h3>
+      <h3 class="title">{{ site.baseurl }}{{ post.title }}</h3>
     </a>
 
-    <p>{{ post.excerpt }}</p>
+    <p>{{ site.baseurl }}{{ post.excerpt }}</p>
 
     <p>{{ post.date |  date: "%B %d, %Y "}}</p>
   {% endfor %}
