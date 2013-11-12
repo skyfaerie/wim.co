@@ -61,7 +61,7 @@ h5 {
 
 h6 {
 	font-size: 0.618em;
-	line-height: 0.824em;
+	line-height: 1.4em;
 }
 /*
 h6 {
@@ -111,7 +111,9 @@ header{
 
 nav {
 	display: block;
-	padding: 20px 25px 20px 0px;
+	//padding: 20px 25px 20px 0px;
+
+	padding: 20px 25px;
 
 	ul { 
 		float: right;
@@ -148,7 +150,8 @@ nav {
 				text-align: center;
 				text-decoration: none;
 				color: #777;
-				padding: 20px 30px 20px 15px;
+				//padding: 20px 30px 20px 15px;
+				padding: 10px 10px;
 				position:relative;
 				margin: 0 auto;
 			}
@@ -193,6 +196,7 @@ main {
 
 footer {
 	background-color: #444;
+	// background-color: #333333;
 	color: #aeaeae;
 	// position: absolute;
 	position: relative;
@@ -200,9 +204,20 @@ footer {
   bottom: 0;
   min-height: 100px;
   width: 100%;
-  text-align: center;
+  //text-align: center;
 	padding: 10px 0px;
- }
+
+	a { color: #a381c1; }
+
+	p { color: #d1d1d1;  }
+	
+	h6 { text-align: center; }
+
+	#footer-content { 
+		margin: 0 auto; 
+		width: 75%;
+	}
+}
 
 
 /*****************************************************************************/
