@@ -400,14 +400,13 @@ section {
 /*****************************************************************************/
 /* line 394, ../_sass/screen.scss */
 #partners {
-  width: 85%;
+  width: 78%;
 }
 
 /* line 399, ../_sass/screen.scss */
 .partner {
   width: 200px;
   height: 250px;
-  background-color: #fff;
   margin-bottom: 10px;
 }
 /* line 405, ../_sass/screen.scss */

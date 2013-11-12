@@ -11,7 +11,7 @@ $(function(){
 
   $('#partners').masonry({
       columnWidth: 25,
-      gutter: 20,
+      gutter: 40,
       itemSelector: '.partner'
     });
 
