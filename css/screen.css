@@ -323,25 +323,36 @@ section {
 /*  ABOUT
 /*
 /*****************************************************************************/
+/* line 303, ../_sass/screen.scss */
+#founder-bio {
+  margin: 0 auto;
+}
+/* line 307, ../_sass/screen.scss */
+#founder-bio img {
+  max-width: 100%;
+  float: right;
+  padding-left: 5%;
+}
+
 /*****************************************************************************/
 /*
 /* MENTORS
 /*
 /*****************************************************************************/
-/* line 311, ../_sass/screen.scss */
+/* line 320, ../_sass/screen.scss */
 .content-masonry {
   width: 90%;
   margin: 0 auto;
   padding-top: 50px;
 }
 
-/* line 318, ../_sass/screen.scss */
+/* line 327, ../_sass/screen.scss */
 #mentors {
   margin: 0 auto;
   width: 93%;
 }
 
-/* line 324, ../_sass/screen.scss */
+/* line 333, ../_sass/screen.scss */
 .mentor {
   width: 340px;
   height: 450px;
@@ -350,20 +361,20 @@ section {
   -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
   box-shadow: 0px 5px 5px 1px #d3d1d1;
 }
-/* line 333, ../_sass/screen.scss */
+/* line 342, ../_sass/screen.scss */
 .mentor img {
   width: 100%;
   height: 55%;
   -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
   box-shadow: 0px 5px 5px 1px #d3d1d1;
 }
-/* line 342, ../_sass/screen.scss */
+/* line 351, ../_sass/screen.scss */
 .mentor h3 {
   text-align: center;
   padding-top: 15px;
   color: #57267C;
 }
-/* line 348, ../_sass/screen.scss */
+/* line 357, ../_sass/screen.scss */
 .mentor h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -372,7 +383,7 @@ section {
   height: 5px;
   background: #57267C;
 }
-/* line 357, ../_sass/screen.scss */
+/* line 366, ../_sass/screen.scss */
 .mentor h5 {
   text-align: center;
   padding-top: 5px;
@@ -383,16 +394,16 @@ section {
 /* COMPANIES
 /*
 /*****************************************************************************/
-/* line 370, ../_sass/screen.scss */
+/* line 379, ../_sass/screen.scss */
 .company {
   margin-bottom: 10px;
   min-height: 300px;
 }
-/* line 375, ../_sass/screen.scss */
+/* line 384, ../_sass/screen.scss */
 .company img {
   float: right;
 }
-/* line 377, ../_sass/screen.scss */
+/* line 386, ../_sass/screen.scss */
 .company p {
   width: 50%;
 }
@@ -412,25 +423,25 @@ section {
 /* PARTNERS
 /*
 /*****************************************************************************/
-/* line 402, ../_sass/screen.scss */
+/* line 411, ../_sass/screen.scss */
 #partners {
   width: 78%;
 }
 
-/* line 407, ../_sass/screen.scss */
+/* line 416, ../_sass/screen.scss */
 .partner {
   width: 200px;
   height: 250px;
   margin-bottom: 10px;
 }
-/* line 413, ../_sass/screen.scss */
+/* line 422, ../_sass/screen.scss */
 .partner img {
   border-right: 1px solid #eee;
   border-bottom: 1px solid #eee;
   -webkit-box-shadow: 40px 40px 20px 2px #aeaeae;
   box-shadow: 2px 2px 5px 3px #aeaeae;
 }
-/* line 421, ../_sass/screen.scss */
+/* line 430, ../_sass/screen.scss */
 .partner h5 {
   text-align: center;
   padding-top: 5px;
