@@ -297,6 +297,27 @@ section {
   padding-top: 15px;
 }
 
+/* line 277, ../_sass/screen.scss */
+#community {
+  margin: 0 auto;
+  padding: 10px 0px;
+  width: 50%;
+}
+/* line 284, ../_sass/screen.scss */
+#community h2 {
+  text-align: center;
+}
+/* line 286, ../_sass/screen.scss */
+#community .signup {
+  display: inline-block;
+  margin: 0 auto;
+  background-color: #008B4C;
+  padding: 5px 7px;
+  font-size: 16px;
+  border-radius: 5px;
+  border-color: #026d3b;
+}
+
 /*****************************************************************************/
 /*
 /*  ABOUT
@@ -307,20 +328,20 @@ section {
 /* MENTORS
 /*
 /*****************************************************************************/
-/* line 292, ../_sass/screen.scss */
+/* line 311, ../_sass/screen.scss */
 .content-masonry {
   width: 90%;
   margin: 0 auto;
   padding-top: 50px;
 }
 
-/* line 299, ../_sass/screen.scss */
+/* line 318, ../_sass/screen.scss */
 #mentors {
   margin: 0 auto;
   width: 93%;
 }
 
-/* line 305, ../_sass/screen.scss */
+/* line 324, ../_sass/screen.scss */
 .mentor {
   width: 340px;
   height: 450px;
@@ -329,20 +350,20 @@ section {
   -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
   box-shadow: 0px 5px 5px 1px #d3d1d1;
 }
-/* line 314, ../_sass/screen.scss */
+/* line 333, ../_sass/screen.scss */
 .mentor img {
   width: 100%;
   height: 55%;
   -webkit-box-shadow: 0px 5px 5px 1px #d3d1d1;
   box-shadow: 0px 5px 5px 1px #d3d1d1;
 }
-/* line 323, ../_sass/screen.scss */
+/* line 342, ../_sass/screen.scss */
 .mentor h3 {
   text-align: center;
   padding-top: 15px;
   color: #57267C;
 }
-/* line 329, ../_sass/screen.scss */
+/* line 348, ../_sass/screen.scss */
 .mentor h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -351,7 +372,7 @@ section {
   height: 5px;
   background: #57267C;
 }
-/* line 338, ../_sass/screen.scss */
+/* line 357, ../_sass/screen.scss */
 .mentor h5 {
   text-align: center;
   padding-top: 5px;
@@ -377,26 +398,26 @@ section {
 /* PARTNERS
 /*
 /*****************************************************************************/
-/* line 375, ../_sass/screen.scss */
+/* line 394, ../_sass/screen.scss */
 #partners {
   width: 85%;
 }
 
-/* line 380, ../_sass/screen.scss */
+/* line 399, ../_sass/screen.scss */
 .partner {
   width: 200px;
   height: 250px;
   background-color: #fff;
   margin-bottom: 10px;
 }
-/* line 386, ../_sass/screen.scss */
+/* line 405, ../_sass/screen.scss */
 .partner img {
   border-right: 1px solid #eee;
   border-bottom: 1px solid #eee;
   -webkit-box-shadow: 40px 40px 20px 2px #aeaeae;
   box-shadow: 2px 2px 5px 3px #aeaeae;
 }
-/* line 394, ../_sass/screen.scss */
+/* line 413, ../_sass/screen.scss */
 .partner h5 {
   text-align: center;
   padding-top: 5px;

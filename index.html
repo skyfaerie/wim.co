@@ -29,7 +29,7 @@ title: Women Innovate Mobile
 			<h4>Apple Meet the Innovators</h4>
 		</div>
 
-		{% for post in site.posts  limit: 3%}
+		{% for post in site.posts  limit: 3 %}
 			<div class="highlight">
 		    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
 		    
@@ -40,9 +40,21 @@ title: Women Innovate Mobile
 	  {% endfor %}
 	
 	</div>
-	</section>
+</section>
 
 <section class="alt-color">
+	<div id="community">
+		
+		<h2>Be Part of Our Community</h2>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pharetra orci quis.</p>
+
+		<button class="signup">WIM Newsletter</button>
+		<button class="signup">Founder's Breakfasts</button>
+
+	</div>
+</section>
+
+<section>
 	<div id="sponsors">
 
 		<ul>
@@ -62,3 +74,5 @@ title: Women Innovate Mobile
 		
 	</div>
 </section>
+
+
