@@ -15,25 +15,31 @@ title: Women Innovate Mobile
 	<div id="spotlight">
 
 		<div class="highlight">
-			<img src="{{ site.baseurl }}/img/highlights/hangout.png">
-			<h4>G+ Women Who Tech Series</h4>
+			<a href="#">
+				<img src="{{ site.baseurl }}/img/highlights/hangout.png">
+				<h4>G+ Women Who Tech Series</h4>
+			</a>
 		</div>
 
 		<div class="highlight">
-			<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg">
-			<h4>Founder's Breakfast</h4>
+			<a href="#">
+				<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg">
+				<h4>Founder's Breakfast</h4>
+			</a>
 		</div>
 
 		<div class="highlight">
-			<img src="{{ site.baseurl }}/img/highlights/apple.jpg">
-			<h4>Apple Meet the Innovators</h4>
+			<a href="#">
+				<img src="{{ site.baseurl }}/img/highlights/apple.jpg">
+				<h4>Apple Meet the Innovators</h4>
+		</a>
 		</div>
 
 		{% for post in site.posts  limit: 3 %}
 			<div class="highlight">
-		    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-		    
-		    <a href="{{ post.url }}">
+
+				<a href="{{ post.url }}">
+		    	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
 		      <h4 class="title">{{ post.title }}</h4>
 		    </a>
 	  	</div>
