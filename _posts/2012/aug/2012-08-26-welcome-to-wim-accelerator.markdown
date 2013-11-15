@@ -12,6 +12,5 @@ Women Innovate Mobile (WIM) is the first startup accelerator and mentorship-driv
 
 Follow WIM on Twitter: [@WIMAccelerator][twitter]
 
-
 [twitter]: https://twitter.com/WIMAccelerator
-[wimlogo]: {{ site.baseurl }}/img/logo/logo.png "WIM Logo"
+[wimlogo]: {{site.url}}/img/blog/logo.png
