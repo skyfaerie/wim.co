@@ -318,6 +318,7 @@ section {
 #founder-bio {
 	//background-color: #fee3ee;
 	margin: 0 auto;
+	margin-bottom: 3em;
 
 	img {
 		max-width: 100%;
@@ -394,11 +395,8 @@ section {
 .company {
 	//background-color: #987789;
 	margin-bottom: 10px;
-	min-height: 300px;
 
-	img { float: right }
-
-	p { width: 50%; }
+	img { margin: 1em 0em;}
 }
 
 /*****************************************************************************/
