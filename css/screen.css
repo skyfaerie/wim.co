@@ -171,7 +171,6 @@ nav img {
 .menu ul li a:hover {
   background-color: #f4f4f4;
   color: #666666;
-  border-bottom: 2px solid #666;
 }
 /* line 165, ../_sass/screen.scss */
 .menu ul li ul {
@@ -184,8 +183,8 @@ nav img {
 }
 /* line 174, ../_sass/screen.scss */
 .menu li:hover a {
-  background-color: #57267C;
-  color: #f4f4f4;
+  background-color: #ccc;
+  color: #555;
 }
 /* line 179, ../_sass/screen.scss */
 .menu li:hover li a:hover {

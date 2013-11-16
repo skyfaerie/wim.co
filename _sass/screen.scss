@@ -159,7 +159,7 @@ nav {
 			a:hover { 
 				background-color: #f4f4f4;
 				color: #666666;
-				border-bottom: 2px solid #666;
+				//border-bottom: 2px solid #9738e0; //#57267C;
 			}
 
 			ul { display: none; }
@@ -172,8 +172,8 @@ nav {
 	}
 
 	li:hover a { 
-		background-color: #57267C; //main
-		color: #f4f4f4;
+		background-color: #ccc; //main
+		color: #555; //#f4f4f4;
 	}
 
 	li:hover li a:hover { 
