@@ -2,7 +2,7 @@
 layout: post
 title: "Celebrating Female Founders"
 date: 2012-08-27
-image: placeholder.png
+image: plumalley.png
 categories: "female founders"
 ---
 

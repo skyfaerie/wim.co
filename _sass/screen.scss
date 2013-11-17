@@ -405,7 +405,26 @@ section {
 /*
 /*****************************************************************************/
 
+.post {
+	//background-color: #9ef9ef;
+	//border: 1px solid #000;
+	min-height: 200px;
+	max-width: 81%;
+	margin: 0 auto;
+	padding-bottom: 1em;
 
+	img {
+		display: block; 
+		float: left;
+	//	background-color: #666;
+		margin-right: 3em;
+	}
+
+	div {
+	//	background-color:  #aeaeae;
+	//	max-width: 75%;
+	}
+}
 
 /*****************************************************************************/
 /*

@@ -424,6 +424,20 @@ section {
 /* BLOG
 /*
 /*****************************************************************************/
+/* line 408, ../_sass/screen.scss */
+.post {
+  min-height: 200px;
+  max-width: 81%;
+  margin: 0 auto;
+  padding-bottom: 1em;
+}
+/* line 416, ../_sass/screen.scss */
+.post img {
+  display: block;
+  float: left;
+  margin-right: 3em;
+}
+
 /*****************************************************************************/
 /*
 /* EVENTS
@@ -434,25 +448,25 @@ section {
 /* PARTNERS
 /*
 /*****************************************************************************/
-/* line 424, ../_sass/screen.scss */
+/* line 443, ../_sass/screen.scss */
 #partners {
   width: 78%;
 }
 
-/* line 429, ../_sass/screen.scss */
+/* line 448, ../_sass/screen.scss */
 .partner {
   width: 200px;
   height: 250px;
   margin-bottom: 10px;
 }
-/* line 435, ../_sass/screen.scss */
+/* line 454, ../_sass/screen.scss */
 .partner img {
   border-right: 1px solid #eee;
   border-bottom: 1px solid #eee;
   -webkit-box-shadow: 40px 40px 20px 2px #aeaeae;
   box-shadow: 2px 2px 5px 3px #aeaeae;
 }
-/* line 443, ../_sass/screen.scss */
+/* line 462, ../_sass/screen.scss */
 .partner h5 {
   text-align: center;
   padding-top: 5px;
