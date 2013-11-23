@@ -274,23 +274,36 @@ section {
 	margin: 0 auto;
 }
 
+.huge1 { 
+	background-image: url('../img/photo2.jpg'); 
+	min-height: 500px;
+}
+
 .huge { min-height: 500px; }
 
 #intro {
-	//background-color: #f9ebb6;
 	width: 50%;
 	padding-bottom: 30px; 
 	margin: 0 auto;
+	font-size: 22px;
 
-	h1 { text-align: center; }
+	h1 { 
+		text-align: center; 
+		color: #fff;
+		padding-top: 30px;
+	}
+
 
 	#dots {
 		text-align: center; 
-		font-size: 2.157em; 
+		font-size: 24px; 
 		padding-bottom: 12px;
 	}
 
-	p { text-align: center; }
+	p { 
+		text-align: center; 
+		color: #fff;
+	}
 }
 
 .no-border {border-top: none; }
@@ -304,7 +317,7 @@ section {
 
 #sponsors{
 	//background-color: #f9ebb6;
-	width: 78%;
+	//width: 90%;
 	margin: 0 auto;
 	padding: 10px 0px;
 
