@@ -1,24 +1,25 @@
 
 $(function(){
   
-  // masonry 
+  // if masonry is on the first page
+  // $('#spotlight').masonry({
+  //     columnWidth: 160,
+  //     gutter: 10,
+  //     itemSelector: '.highlight'
+  //   });
 
-  $('#spotlight').masonry({
-      columnWidth: 160,
-      gutter: 10,
-      itemSelector: '.highlight'
+  $('#mentors').masonry({
+      columnWidth: 25,
+      gutter: 40,
+      itemSelector: '.mentor'
     });
 
   $('#partners').masonry({
-      columnWidth: 25,
+      columnWidth: 33,
       gutter: 40,
       itemSelector: '.partner'
     });
 
-  $('#mentors').masonry({
-      columnWidth: 21,
-      gutter: 40,
-      itemSelector: '.mentor'
-    });
+  
 });
 
