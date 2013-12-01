@@ -46,6 +46,17 @@ header {
 
 .inline-list{ li:last-child{ padding-right: 0; } }
 
+.social-nav {
+  filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
+}
+
+.social-nav:hover {
+  filter: none;
+  -webkit-filter: none;
+}
+
 main { background-color: #f8f8f8; }
 
 footer {
