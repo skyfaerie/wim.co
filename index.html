@@ -16,35 +16,37 @@ title: Women Innovate Mobile
 </section>
 
 <section class="home-section">
-	<div class="row">
-		
-		<ul class="small-block-grid-3">
-		  <li><a href="#">
-					<img src="{{ site.baseurl }}/img/highlights/g+icon.png">
-					<h5>G+ Women Who Tech Series</h5>
-				</a>
-			</li>
+	<div class="row">	
+		<div class="small-12 medium-4 columns">
+	  	<a href="#">
+				<img src="{{ site.baseurl }}/img/highlights/g+icon.png">
+				<h5>G+ Women Who Tech Series</h5>
+			</a>
+		</div>
 
-		  <li><a href="#">
-					<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg">
-					<h5>Founder's Breakfast</h5>
-				</a>
-		  </li>
+  	<div class="small-12 medium-4 columns">
+	  	<a href="#">
+				<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg">
+				<h5>Founder's Breakfast</h5>
+			</a>
+		</div>
 
-		  <li><a href="#">
-					<img src="{{ site.baseurl }}/img/highlights/apple.png">
-					<h5>Apple Meet the Innovators</h5>
-				</a>
-		  </li>
-		 
-		  {% for post in site.posts  limit: 3 %}
-			  <li><a href="{{ post.url }}">
-			    	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-			      <h5 class="title">{{ post.title }}</h5>
-			    </a>
-			 	</li>
-		  {% endfor %}	
-		</ul>
+
+  	<div class="small-12 medium-4 columns">
+	  	<a href="#">
+				<img src="{{ site.baseurl }}/img/highlights/apple.png">
+				<h5>Apple Meet the Innovators</h5>
+			</a>
+		</div>
+	</div>
+	
+	<div class="row">		
+	  {% for post in site.posts  limit: 3 %}
+		  <a href="{{ post.url }}" class="small-12 medium-4 columns">
+		    	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+		      <h5 class="title">{{ post.title }}</h5>
+		  </a>
+	  {% endfor %}	
 	</div>
 </section>
 
