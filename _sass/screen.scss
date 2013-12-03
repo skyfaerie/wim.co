@@ -61,7 +61,7 @@ main { background-color: #f8f8f8; }
 
 footer {
 	background-image: url('../img/backgrounds/map.png');
-	min-height: 32.813em;
+	min-height: 40em;
 	text-align: right;
 	color: #cecece;
 	position: relative; 
@@ -72,7 +72,7 @@ footer {
 
 .footer {
 	background-color: rgba(0, 0, 0, 0.8);
-	min-height: 32.813em;
+	min-height: 40em;
   // position: absolute;
   top: 0;
   left: 0;
@@ -105,11 +105,22 @@ section {
 /*
 /*****************************************************************************/
 
-.home-section { 
+.top-section { 
 	min-height: 35em; 
 
 	h1 { 
-		color: #bebebe; 
+		color: #dedede; 
+		font-size: 5em; 
+	}
+
+	p { font-size: 2em; }
+}
+
+.home-section { 
+	min-height: 41em; 
+
+	h1 { 
+		color: #dedede; 
 		font-size: 5em; 
 	}
 
