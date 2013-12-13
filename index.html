@@ -15,38 +15,41 @@ title: Women Innovate Mobile
 	</div>
 </section>
 
-<section class="home-section">
+<section>
 	<div class="row">	
 		<div class="small-12 medium-4 columns">
-	  	<a href="#">
-				<img src="{{ site.baseurl }}/img/highlights/g+icon.png">
-				<h5>G+ Women Who Tech Series</h5>
-			</a>
+  		<div class="highlight">
+  			<h4>G+ Women Who Tech</h4>
+				<img src="{{ site.baseurl }}/img/highlights/g+icon.png" width="200">	
+
+				<p>Duis nec bibendum felis, egestas fringilla ante. Donec id sodales magna. Cras cursus ornare placerat. Nulla facilisi. In hac habitasse platea dictumst.</p>	
+
+				<a href="#" class="button tiny round">Learn More >></a>
+  		</div>
 		</div>
+
+  	<div class="small-12 medium-4 columns hborders">
+  		<div class="highlight">
+  			<h4>Founder's Breakfast</h4>
+	  		<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg" width="200">
+		  	
+		  	<p>Duis nec bibendum felis, egestas fringilla ante. Donec id sodales magna. Cras cursus ornare placerat. Nulla facilisi. In hac habitasse platea dictumst.</p>	
+
+				<a href="#" class="button tiny round">Default Button</a>
+  		</div>
+		</div>
+
 
   	<div class="small-12 medium-4 columns">
-	  	<a href="#">
-				<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg">
-				<h5>Founder's Breakfast</h5>
-			</a>
-		</div>
+  		<div class="highlight">
+  			<h4>Meet the Innovators</h4>
+	  		<img src="{{ site.baseurl }}/img/highlights/apple.png" width="200">
 
+				<p>Duis nec bibendum felis, egestas fringilla ante. Donec id sodales magna. Cras cursus ornare placerat. Nulla facilisi. In hac habitasse platea dictumst.</p>	
 
-  	<div class="small-12 medium-4 columns">
-	  	<a href="#">
-				<img src="{{ site.baseurl }}/img/highlights/apple.png">
-				<h5>Apple Meet the Innovators</h5>
-			</a>
+				<a href="#" class="button tiny round">Default Button</a>
+  		</div>
 		</div>
-	</div>
-	
-	<div class="row">		
-	  {% for post in site.posts  limit: 3 %}
-		  <a href="{{ post.url }}" class="small-12 medium-4 columns">
-		    	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-		      <h5 class="title">{{ post.title }}</h5>
-		  </a>
-	  {% endfor %}	
 	</div>
 </section>
 
@@ -56,8 +59,19 @@ title: Women Innovate Mobile
 			<div class="small-12 large-12 columns">
 				<h1>Our Ecosystem</h1>
 				<a href="#" class="button [radius round]">Join Our Ecosystem!</a>
-		</div>	
+			</div>	
 		</div>
+	</div>
+</section>
+
+<section>
+	<div class="row">		
+	  {% for post in site.posts  limit: 3 %}
+		  <a href="{{ post.url }}" class="small-12 medium-4 columns">
+		    	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+		      <h5 class="title">{{ post.title }}</h5>
+		  </a>
+	  {% endfor %}	
 	</div>
 </section>
 

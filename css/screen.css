@@ -38,7 +38,7 @@ header {
 .top-nav {
   padding: 0 1em 1em 0;
   color: #999;
-  font-size: 1.250em;
+  font-size: 1.875em;
 }
 /* line 44, ../_sass/screen.scss */
 .top-nav a:hover {
@@ -151,12 +151,12 @@ section h5 {
 
 /* line 130, ../_sass/screen.scss */
 .tagline {
-  background-image: url("../img/backgrounds/photo2.jpg");
+  background-image: url("../img/backgrounds/photo1.jpg");
 }
 
 /* line 132, ../_sass/screen.scss */
 .ecosystem {
-  background-image: url("../img/backgrounds/photo1.jpg");
+  background-image: url("../img/backgrounds/photo2.jpg");
 }
 /* line 135, ../_sass/screen.scss */
 .ecosystem .button {
@@ -165,13 +165,30 @@ section h5 {
   margin-right: 0.5em;
 }
 
-/* line 143, ../_sass/screen.scss */
+/* line 142, ../_sass/screen.scss */
+.highlight {
+  width: 75%;
+  margin: 0 auto;
+  padding: 1.5em 0em;
+}
+/* line 147, ../_sass/screen.scss */
+.highlight p {
+  font-size: 14px;
+}
+
+/* line 150, ../_sass/screen.scss */
+.hborders {
+  border-left: solid 1px #ccc;
+  border-right: solid 1px #ccc;
+}
+
+/* line 156, ../_sass/screen.scss */
 .sponsors h1 {
   font-size: 5em;
   color: #5e2f7b;
   margin-top: -0.2em;
 }
-/* line 149, ../_sass/screen.scss */
+/* line 162, ../_sass/screen.scss */
 .sponsors img {
   width: 150px;
 }
@@ -181,11 +198,11 @@ section h5 {
 /* ABOUT
 /*
 /*****************************************************************************/
-/* line 158, ../_sass/screen.scss */
+/* line 171, ../_sass/screen.scss */
 .about {
   background-image: url("../img/backgrounds/photo3.jpg");
 }
-/* line 161, ../_sass/screen.scss */
+/* line 174, ../_sass/screen.scss */
 .about h1, .about p {
   color: #d0d0d0;
 }
@@ -195,7 +212,7 @@ section h5 {
 /* MENTORS
 /*
 /*****************************************************************************/
-/* line 171, ../_sass/screen.scss */
+/* line 184, ../_sass/screen.scss */
 .mentor {
   width: 300px;
   height: 400px;
@@ -204,14 +221,14 @@ section h5 {
   -webkit-box-shadow: 0px 3px 3px 1px #d3d1d1;
   box-shadow: 0px 3px 3px 1px #d3d1d1;
 }
-/* line 180, ../_sass/screen.scss */
+/* line 193, ../_sass/screen.scss */
 .mentor img {
   width: 100%;
   height: 55%;
   -webkit-box-shadow: 0px 1px 1px 1px #d3d1d1;
   box-shadow: 0px 1px 1px 1px #d3d1d1;
 }
-/* line 188, ../_sass/screen.scss */
+/* line 201, ../_sass/screen.scss */
 .mentor h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -231,11 +248,11 @@ section h5 {
 /* ABOUT
 /*
 /*****************************************************************************/
-/* line 212, ../_sass/screen.scss */
+/* line 225, ../_sass/screen.scss */
 .faq {
   background-image: url("../img/backgrounds/photo3.jpg");
 }
-/* line 215, ../_sass/screen.scss */
+/* line 228, ../_sass/screen.scss */
 .faq h1, .faq p {
   color: #d0d0d0;
 }
@@ -245,16 +262,16 @@ section h5 {
 /* BLOG
 /*
 /*****************************************************************************/
-/* line 224, ../_sass/screen.scss */
+/* line 237, ../_sass/screen.scss */
 .blog {
   background-image: url("../img/backgrounds/photo3.jpg");
 }
-/* line 227, ../_sass/screen.scss */
+/* line 240, ../_sass/screen.scss */
 .blog h1, .blog p {
   color: #d0d0d0;
 }
 
-/* line 230, ../_sass/screen.scss */
+/* line 243, ../_sass/screen.scss */
 .post {
   padding: 1em 0em;
 }
@@ -264,11 +281,11 @@ section h5 {
 /* EVENTS
 /*
 /*****************************************************************************/
-/* line 240, ../_sass/screen.scss */
+/* line 253, ../_sass/screen.scss */
 .events {
   background-image: url("../img/backgrounds/photo3.jpg");
 }
-/* line 243, ../_sass/screen.scss */
+/* line 256, ../_sass/screen.scss */
 .events h1, .events p {
   color: #d0d0d0;
 }
@@ -278,18 +295,18 @@ section h5 {
 /* PARTNERS
 /*
 /*****************************************************************************/
-/* line 252, ../_sass/screen.scss */
+/* line 265, ../_sass/screen.scss */
 #partners {
   margin-left: 3em;
 }
 
-/* line 254, ../_sass/screen.scss */
+/* line 267, ../_sass/screen.scss */
 .partner {
   width: 190px;
   height: 250px;
   margin-bottom: 10px;
 }
-/* line 259, ../_sass/screen.scss */
+/* line 272, ../_sass/screen.scss */
 .partner img {
   border-right: 1px solid #eee;
   border-bottom: 1px solid #eee;

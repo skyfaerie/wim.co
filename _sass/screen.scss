@@ -39,7 +39,7 @@ header {
 .top-nav{ 
 	padding: 0 1em 1em 0;
 	color: #999;
-	font-size: 1.250em;
+	font-size: 1.875em;
 
 	a:hover { color: #5e2f7b; }
 }
@@ -127,16 +127,29 @@ section {
 	p { font-size: 2em; }
 }
 
-.tagline { background-image: url('../img/backgrounds/photo2.jpg'); }
+.tagline { background-image: url('../img/backgrounds/photo1.jpg'); }
 
 .ecosystem { 
-	background-image: url('../img/backgrounds/photo1.jpg'); 
+	background-image: url('../img/backgrounds/photo2.jpg'); 
 
 	.button { 
 		background-color: #5e2f7b; 
 		font-size: 1.5em;
 		margin-right: 0.5em;
 	}
+}
+
+.highlight {
+	width: 75%;
+	margin: 0 auto; 
+	padding: 1.5em 0em; 
+
+	p { font-size: 14px }
+}
+
+.hborders {
+	border-left: solid 1px #ccc; 
+	border-right: solid 1px #ccc;
 }
 
 .sponsors { 
