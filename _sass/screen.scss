@@ -98,7 +98,6 @@ section {
 	color: #aeaeae;
 	text-align: center;
 }
-
 /*****************************************************************************/
 /*
 /* HOME
@@ -132,10 +131,15 @@ section {
 .ecosystem { 
 	background-image: url('../img/backgrounds/photo2.jpg'); 
 
-	.button { 
-		background-color: #5e2f7b; 
+	button { 
+		background-color: #008d41;
 		font-size: 1.5em;
 		margin-right: 0.5em;
+	}
+
+	button:hover {
+		background-color: #008d41; 
+		opacity: 0.8;
 	}
 }
 
@@ -145,6 +149,15 @@ section {
 	padding: 1.5em 0em; 
 
 	p { font-size: 14px }
+
+	button { 
+		background-color: #008d41; 
+	}
+
+	button:hover {
+		background-color: #008d41; 
+		opacity: 0.8;
+	}
 }
 
 .hborders {
