@@ -17,10 +17,9 @@ html {
 
 body {	
 	font-size: 12pt; 
-
 }
 
-h1, h2, h3, h4, h5 { 
+h1, h2, h3, h4, h5, h6 { 
 	color: #5e2f7b; 
 }
 
@@ -62,7 +61,7 @@ main { background-color: #f8f8f8; }
 footer {
 	background-image: url('../img/backgrounds/map.png');
 	min-height: 40em;
-	text-align: right;
+	text-align: left;
 	color: #cecece;
 	position: relative; 
   width: 100%;

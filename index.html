@@ -8,9 +8,9 @@ title: Women Innovate Mobile
 		<div class="row">
 			<div class="small-12 large-12 columns">
 				<h1>Acceleration. Reinvented.</h1>
-				<p>...</p>
+				<img src="">
 				<p>Women Innovate Mobile is the first tech accelerator and alternative funding ecosystem dedicated to diverse founding teams of mobile and mobile-first technologies.</p>
-		</div>	
+			</div>	
 		</div>
 	</div>
 </section>
@@ -53,24 +53,24 @@ title: Women Innovate Mobile
 	</div>
 </section>
 
-<section class="home-section ecosystem">
-	<div class="section-content">
+<section class="ecosystem">
 		<div class="row">
-			<div class="small-12 large-12 columns">
-				<h1>Our Ecosystem</h1>
-				<!-- <a href="#" class="button [radius round]">Join Our Ecosystem!</a> -->
-				<button href="#" class=" radius">Join Our Ecosystem!</button>
-			</div>	
-		</div>
+		<div class="small-12 large-12 columns">
+			<!-- <h1>Our Ecosystem</h1> -->
+			<button href="#" class="radius">Join Our Ecosystem!</button>
+		</div>	
 	</div>
 </section>
 
 <section>
-	<div class="row">		
+	<div class="row">	
+		<h1>Our Blog</h1>
+
 	  {% for post in site.posts  limit: 3 %}
 		  <a href="{{ post.url }}" class="small-12 medium-4 columns">
-		    	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-		      <h5 class="title">{{ post.title }}</h5>
+		    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+		    <h5 class="title">{{ post.title }}</h5>
+		    <p class="">{{ post.summary }}</p>
 		  </a>
 	  {% endfor %}	
 	</div>
@@ -79,19 +79,28 @@ title: Women Innovate Mobile
 <section class="home-section sponsors">
 	<div class="row">
 		<div class="small-12 large-12 columns">	
+			
 			<h1>Our Sponsors</h1>
-			 <div id="mcts1">
-	        <a href="http://www.aa.com/homePage.do"><img src="{{ site.baseurl }}/img/sponsors/american-airlines-logo.png"></a>
-	        <a href="http://www.apple.com/"><img src="{{ site.baseurl }}/img/sponsors/apple-logo.png"></a>
-	        <a href="https://www.google.com/"><img src="{{ site.baseurl }}/img/sponsors/google-logo.png"></a>
-	        <a href="http://grindspaces.com/"><img src="{{ site.baseurl }}/img/sponsors/grind-logo.png"></a>
-	        <a href="http://www.lowenstein.com/"><img src="{{ site.baseurl }}/img/sponsors/lowenstein-sandler-logo.png"></a>
-	        <a href="http://pitchbook.com/"><img src="{{ site.baseurl }}/img/sponsors/pitchbook-logo.png"></a>
-	        <a href="https://redstamp.com/"><img src="{{ site.baseurl }}/img/sponsors/red-stamp-logo.png"></a>
-	        <a href="http://www.svb.com/"><img src="{{ site.baseurl }}/img/sponsors/silicon-valley-bank-logo.png"></a>
-	        <a href="http://www.trinet.com/"><img src="{{ site.baseurl }}/img/sponsors/trinet-logo.png"></a>
-	        <a href="http://myturnstone.com/"><img src="{{ site.baseurl }}/img/sponsors/turnstone-logo.png"></a>
-	    	</div>
+      
+      <a href="http://www.aa.com/homePage.do"><img src="{{ site.baseurl }}/img/sponsors/american-airlines-logo.png"></a>
+      
+      <a href="http://www.apple.com/"><img src="{{ site.baseurl }}/img/sponsors/apple-logo.png"></a>
+      
+      <a href="https://www.google.com/"><img src="{{ site.baseurl }}/img/sponsors/google-logo.png"></a>
+      
+      <a href="http://grindspaces.com/"><img src="{{ site.baseurl }}/img/sponsors/grind-logo.png"></a>
+      
+      <a href="http://www.lowenstein.com/"><img src="{{ site.baseurl }}/img/sponsors/lowenstein-sandler-logo.png"></a>
+      
+      <a href="http://pitchbook.com/"><img src="{{ site.baseurl }}/img/sponsors/pitchbook-logo.png"></a>
+      
+      <a href="https://redstamp.com/"><img src="{{ site.baseurl }}/img/sponsors/red-stamp-logo.png"></a>
+      
+      <a href="http://www.svb.com/"><img src="{{ site.baseurl }}/img/sponsors/silicon-valley-bank-logo.png"></a>
+      
+      <a href="http://www.trinet.com/"><img src="{{ site.baseurl }}/img/sponsors/trinet-logo.png"></a>
+
+      <a href="http://myturnstone.com/"><img src="{{ site.baseurl }}/img/sponsors/turnstone-logo.png"></a>
 
 	    	<h6>Want to become a sponsor? Email Shala AT wim DOT co for more info.</h6>		
 		</div>
