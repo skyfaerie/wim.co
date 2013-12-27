@@ -2,7 +2,7 @@
 layout: post
 title:  "WIM – The First 14 Months"
 date:   2013-03-04
-image: placeholder.png
+image: timeline.png
 categories: ""
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Passion & Perseverance"
 date:   2013-03-19
-image: placeholder.png
+image: perserverance.jpg
 categories: ""
 ---
 

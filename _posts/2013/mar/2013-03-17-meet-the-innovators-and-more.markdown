@@ -2,7 +2,7 @@
 layout: post
 title:  "Meet the Innovators and More"
 date:   2013-03-17
-image: placeholder.png
+image: sxswinnovation.jpeg
 categories: ""
 ---
 

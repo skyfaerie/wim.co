@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Is WIM A Mobile Focused Accelerator?"
 date:   2013-03-18
-image: placeholder.png
+image: mobile.jpg
 categories: ""
 ---
 

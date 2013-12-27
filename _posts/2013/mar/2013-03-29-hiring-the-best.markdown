@@ -2,7 +2,7 @@
 layout: post
 title:  "Hiring the Best: Top Tips for Attracting & Retaining Top Talent"
 date:   2013-03-29
-image: placeholder.png
+image: hired.jpg
 categories: ""
 ---
 
