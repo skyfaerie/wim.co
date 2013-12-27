@@ -2,7 +2,7 @@
 layout: post
 title:  "Female Founder Watch: Empower Me! Corporation’s Adrienne Graham"
 date:   2013-04-02
-image:  placeholder.png
+image:  pickmybrain.jpg
 categories: ""
 ---
 

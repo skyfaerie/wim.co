@@ -2,7 +2,7 @@
 layout: post
 title:  "Tech & More"
 date:   2013-04-22
-image:  placeholder.png
+image:  techmap.gif
 categories: ""
 ---
 

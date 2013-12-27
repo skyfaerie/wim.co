@@ -2,7 +2,7 @@
 layout: post
 title:  "#BehindThePitch: Advice From Women VCs"
 date:   2013-04-15
-image:  placeholder.png
+image:  vcwordmap.jpg
 categories: ""
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "#BehindThePitch: Advice From Female Founders"
 date:   2013-04-15
-image:  placeholder.png
+image:  pitch.gif
 categories: ""
 ---
 

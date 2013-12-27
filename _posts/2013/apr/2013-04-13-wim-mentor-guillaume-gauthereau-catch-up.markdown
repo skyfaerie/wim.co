@@ -2,7 +2,7 @@
 layout: post
 title:  "Catching Up With WIM Mentor Guillaume Gauthereau, Founder of TOTSY.COM"
 date:   2013-04-13
-image:  placeholder.png
+image:  guilaume_gauthereau.jpg
 categories: "mentor in the room"
 ---
 

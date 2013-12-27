@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mentor In The Room: Christine Ekman, VP & Founder, Mobile Pulse"
 date:   2013-04-13
-image:  placeholder.png
+image:  mobilepulse.jpg
 categories: "mentor in the room"
 ---
 

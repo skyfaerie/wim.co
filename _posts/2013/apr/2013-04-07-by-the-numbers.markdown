@@ -2,7 +2,7 @@
 layout: post
 title:  "By The Numbers"
 date:   2013-04-07
-image:  placeholder.png
+image:  codecracked.jpg
 categories: ""
 ---
 

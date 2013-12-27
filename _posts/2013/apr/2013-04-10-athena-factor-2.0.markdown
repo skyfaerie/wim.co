@@ -2,7 +2,7 @@
 layout: post
 title:  "Athena Factor 2.0: Participate in a research project with the Center for Talent Innovation"
 date:   2013-04-10
-image:  placeholder.png
+image:  athenacoin.jpeg
 categories: ""
 ---
 

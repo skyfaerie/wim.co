@@ -2,7 +2,7 @@
 layout: post
 title:  "#BehindThePitch"
 date:   2013-04-23
-image:  placeholder.png
+image:  behindthepitch.jpeg
 categories: ""
 ---
 

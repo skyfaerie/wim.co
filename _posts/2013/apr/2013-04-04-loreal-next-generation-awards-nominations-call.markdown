@@ -2,7 +2,7 @@
 layout: post
 title:  "L’Oréal Next Generation Awards Call for Nominations"
 date:   2013-04-04
-image:  placeholder.png
+image:  loreal.jpg
 categories: ""
 ---
 

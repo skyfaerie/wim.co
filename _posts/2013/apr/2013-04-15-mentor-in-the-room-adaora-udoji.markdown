@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mentor In The Room: Adaora Udoji"
 date:   2013-04-15
-image:  placeholder.png
+image:  adaoraudoji.jpg
 categories: ""
 ---
 

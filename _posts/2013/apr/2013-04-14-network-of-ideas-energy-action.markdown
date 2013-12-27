@@ -2,7 +2,7 @@
 layout: post
 title:  "A Network of Ideas, Energy & Action"
 date:   2013-04-14
-image:  placeholder.png
+image:  networkideas.jpg
 categories: ""
 ---
 

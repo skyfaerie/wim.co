@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mentor In The Room: Jordan Schaffel, Co-Founder Say It Visually and Fast Forward Stories"
 date:   2013-04-13
-image:  placeholder.png
+image:  astronaut.jpg
 categories: "mentor in the room"
 ---
 
