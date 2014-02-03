@@ -3,7 +3,7 @@ layout: post
 title:  "The Mentor in the Room: Claudia Batten"
 date:   2013-10-31
 image: claudiabatten.jpg
-categories: ""
+categories: "mentor in the room"
 ---
 
 **Why are you an entrepreneur?** 

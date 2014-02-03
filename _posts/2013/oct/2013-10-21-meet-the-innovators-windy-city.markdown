@@ -3,7 +3,7 @@ layout: post
 title:  "Meet The Innovators Lands In The Windy City"
 date:   2013-10-21
 image: chicagomti.jpg
-categories: ""
+categories: "meet the innovators"
 ---
 
 **Here's the 30,000 ft/11 Hour Question: Can a single transatlantic flight help change the world?**   In June, British Airways put 100 brilliant innovators on one plane for 11 hours to find out. Join us at the [Apple Retail Store on North Michigan Avenue in Chicago](http://www.apple.com/retail/northmichiganavenue/) at **6:00 pm on Wednesday, October 24** as we reunite 3 travelers from that UnGrounded flight for a conversation on the challenges and creative solutions of hacking at 30,000 feet. Peter Sheehan, Director of Sales, TeraMedica and Laura Pincus Hartman, Vincent de Paul Professor of Business Ethics, DePaul University are joined by WIM's Kelly Hoey, for a discussion of what happens when some of the most forward-thinking founders, CEOs, venture capitalists, and technology game-changers, are hand-picked and put on a flight from San Francisco to London.

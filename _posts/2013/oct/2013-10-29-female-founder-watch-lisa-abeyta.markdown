@@ -3,7 +3,7 @@ layout: post
 title:  "Female Founder Watch: APPCityLife’s Lisa Abeyta"
 date:   2013-10-29
 image: lisaabeyta.jpg
-categories: ""
+categories: "female founder watch"
 ---
 
 **What lessons did you learn during your childhood that you carried into your career?**
