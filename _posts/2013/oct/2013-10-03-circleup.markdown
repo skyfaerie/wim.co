@@ -2,6 +2,52 @@
 layout: post
 title:  "Meet the e-Trade of Private Companies: CircleUp"
 date:   2013-10-03
-image: 
+image: CircleUp.jpg
 categories: ""
 ---
+
+**What is CircleUp, how does it function, and who makes that happen?**
+
+We’re an online investment platform that allows accredited investors to invest directly into consumer retail companies that lie between one and ten million in revenue. We work with companies that fall under consumer retail such as food, beverage, health, home products, beauty, etc. For example, we recently just closed a company that is trying to be a mashup of Whole Foods and 7/11. We only pick 2% of companies that apply to our program and the whole CircleUp team has private equity experience—and they look at everything that a traditional private equity firm would look at—financials, marketing plans, the management teams, etc.
+
+It’s essentially an e-trade of private companies. Once investors log on, they get access to deals on our site. All legal documents are on our site, and investors can take conference calls with CEOs. Any investor can go online and buy/sell at any time. The only restriction for investors is that they need to be accredited.
+
+**Who are CircleUp’s founders, how did the idea come about and when did it get up and running?**
+
+The company was founded in December of 2011 and the website launched in April of 2012. Its two founders, Ryan Caldbeck and Rory Eakin met at Stanford Business School. Ryan was working in traditional equity within consumer retail. He would meet small companies that were great brands and they would always ask him where they could go for funding. He didn’t have an answer to give them. There was a complete funding gap for companies within that industry. Rory was working for a nonprofit, handling their investments and looking for those types of deals that Ryan’s clients could offer. The two thought, what if we created an online platform that matched these two needs? They could create a space for investors who are looking for different financial assets besides the stock market and fixed income bonds. So they decided to combine the two perspectives and founded CircleUp.
+
+**How was CircleUp funded?**
+
+CircleUp’s core investors were Maveron Capital, a small VC fund and Clayton Christensen, the Kim B. Clark Professor of Business Administration at the Harvard Business School who focuses on disruptive technology. We also just went through a series A round this spring.
+
+**What does CircleUp offer to investors and how is it different from its competitors?**
+
+It’s different from other sites because it’s a broker dealer that’s registered with FINRA. Anyone from CircleUp who talks to investors is licensed. Our minimums for investment are between $5,000-$50,000. So we’re an equity crowdfunding site and what you get is a direct equity stake in a company. If the company does well than the investor makes money.
+
+**What are the requirements for startups that want to apply?**
+
+The company needs to fall under the consumer and retail industry. There is also the sweet spot, of having between one to ten million dollars in revenue. We’re looking for a company that has sales and is seeking growth equity. We focus on the one to ten million range because these are companies that have already had some success but there is a dearth of capital for consumer and retail companies that are within that range. Larger private equity firms will not typically buy or consume a company that makes less than within that range. For those companies that are smaller though, we just launched another program called CircleUp Feeds where we are going to work with earlier stage companies.
+
+**Who can gain access to CircleUp?**
+
+We work with investors from places all over the world—Germany, China, the Caribbean, Idaho–everywhere. We serve a lot of different audiences who previously did not have access to these types of deals.
+
+**What additional benefits do “members” gain access to?**
+
+Our deals close faster than deals normally do in the offline world and we’re able to raise capital for entrepreneurs faster than more traditional ways. Since we’ve attracted investors who are interested specifically in consumer and retail, we have investors who are very knowledgeable in these areas. One of our investors worked at retail stores his whole life, helping these companies find real estate to put their stores in. One of our companies needed someone to help pick the best location for their product so they receive not only capital but also insight.
+
+In addition we have formal partnerships with companies, such as Proctor & Gamble. We had an event recently called Incubator Day. Representatives from companies such as Proctor & Gamble will sit down with companies that have been funded on our site and offer mentoring services. Employees can discuss trends they’ve seen and strategize best practices from finance to packaging and branding to marketing.
+
+**What results has CircleUp seen so far?**
+
+Eighteen companies have been fully funded and those companies have reached their funding goals. In addition, out of the eighteen companies that we’ve helped get funding for, ten of those have been female-founded companies and nine out of those ten were all female teams.
+
+**Does CircleUp/its founders have an ultimate goal in mind/point they’re aiming to reach?**
+
+We’re continuing to grow the platform with number of investors and companies. We’re looking for the best consumer retail companies that are looking for funding.
+
+**For more info on CircleUp, you can tweet @CircleUp or find them on Facebook**
+
+-----
+
+*This post was created by Raine Dalton, WIM’s editorial and community innovation intern. Raine is passionate about finding creative ways to empower women globally through tech. In addition to WIM, Raine has written, tweeted, and posted for the Global Banking Alliance for Women, WITNESS, and 90.7 WFUV News. You can find her work at [www.rainedalton.com](www.rainedalton.com) or get in touch with her through Twitter @rainedalton, or by emailing raine@wim.co.*
