@@ -7778,12 +7778,29 @@ body {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 93, ../scss/app.scss */
+/* line 89, ../scss/app.scss */
+#eco-content {
+  margin: 0 auto;
+  margin-top: 3em;
+  background-color: rgba(0, 0, 0, 0.5);
+  max-width: 75%;
+  border-radius: 1em;
+  padding: 3px 15px 3px 15px;
+  color: #ccc;
+}
+/* line 98, ../scss/app.scss */
+#eco-content button {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+
+/* line 109, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 97, ../scss/app.scss */
+/* line 113, ../scss/app.scss */
 footer {
   position: relative;
   background-color: #000;
