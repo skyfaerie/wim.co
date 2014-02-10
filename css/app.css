@@ -7771,6 +7771,50 @@ body {
 }
 
 /* line 82, ../scss/app.scss */
+.series {
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+/* line 87, ../scss/app.scss */
+.series img {
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+}
+/* line 93, ../scss/app.scss */
+.series .content {
+  padding-top: 0.5em;
+}
+/* line 96, ../scss/app.scss */
+.series .content h4 {
+  text-align: center;
+}
+
+@media (min-width: 550px) {
+  /* line 101, ../scss/app.scss */
+  .series {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 1em;
+  }
+  /* line 106, ../scss/app.scss */
+  .series img {
+    float: left;
+    padding-right: 1em;
+    display: inline-block;
+    width: 175px;
+  }
+  /* line 113, ../scss/app.scss */
+  .series .content {
+    padding-top: 0;
+  }
+  /* line 116, ../scss/app.scss */
+  .series .content h4 {
+    text-align: left;
+  }
+}
+/* line 121, ../scss/app.scss */
 #ecosystem {
   background-image: url("../img/backgrounds/nyc.jpg");
   background-repeat: no-repeat;
@@ -7778,7 +7822,7 @@ body {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 89, ../scss/app.scss */
+/* line 128, ../scss/app.scss */
 #eco-content {
   margin: 0 auto;
   margin-top: 3em;
@@ -7788,19 +7832,19 @@ body {
   padding: 3px 15px 3px 15px;
   color: #ccc;
 }
-/* line 98, ../scss/app.scss */
+/* line 137, ../scss/app.scss */
 #eco-content button {
   display: block;
   margin: 0 auto;
   margin-bottom: 2em;
 }
 
-/* line 109, ../scss/app.scss */
+/* line 148, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 113, ../scss/app.scss */
+/* line 152, ../scss/app.scss */
 footer {
   position: relative;
   background-color: #000;

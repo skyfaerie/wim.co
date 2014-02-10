@@ -79,6 +79,45 @@ body {
 
 }
 
+.series {
+	width: 80%;
+	margin: 0 auto;
+	padding-bottom: 2em;
+
+	img {
+		width: 150px;
+		margin: 0 auto;
+		display: block;
+	}
+
+	.content {
+		padding-top: 0.5em;
+
+		h4 { text-align: center; }
+	}
+}
+
+@media(min-width:550px){
+	.series {
+		width: 90%;
+		margin: 0 auto;
+		padding-bottom: 1em;
+
+		img {
+			float: left;
+			padding-right: 1em;
+			display: inline-block;
+			width: 175px;
+		}
+
+		.content {
+			padding-top: 0;
+
+			h4 { text-align: left; }
+		}
+	}
+}
+
 #ecosystem {
 	background-image: url('../img/backgrounds/nyc.jpg');
 	background-repeat: no-repeat;
