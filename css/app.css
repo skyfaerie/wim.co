@@ -7751,18 +7751,26 @@ body {
 
 /* line 61, ../scss/app.scss */
 .splash {
-  min-height: 100%;
+  min-height: 90%;
+  background-image: url("../img/backgrounds/femalefounders1.jpg");
   background-color: #ccc;
+  background-repeat: no-repeat;
+  background-size: 100%;
   text-align: center;
+  color: #fff;
+}
+/* line 70, ../scss/app.scss */
+.splash .row {
+  padding: 15em 0;
 }
 
-/* line 67, ../scss/app.scss */
+/* line 73, ../scss/app.scss */
 .main-section {
-  min-height: 70%;
+  min-height: 80%;
   border-bottom: 1px solid #333;
 }
 
-/* line 72, ../scss/app.scss */
+/* line 78, ../scss/app.scss */
 footer {
   position: relative;
   background-color: #000;
