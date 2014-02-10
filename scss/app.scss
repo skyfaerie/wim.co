@@ -1,4 +1,4 @@
-@import "settings";
+// @import "settings";
 @import "foundation";
 
 // Or selectively include components
@@ -39,16 +39,38 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
-body{
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
 	background-color: #f8f8f8;
 }
 
-.top-bar, .top-bar-section {
+#main-wrapper {
+	height: 100%;
+}
+
+.top-bar {
 	background-color: #502472;
 }
 
+.splash {
+	min-height: 100%;
+	background-color: #ccc;
+	text-align: center;
+}
+
+.main-section {
+	min-height: 70%;
+	border-bottom: 1px solid #333;
+}
 
 footer{
+	position: relative;
 	background-color: #000;
 	color: #bbb;
 	text-align: right;

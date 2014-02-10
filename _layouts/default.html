@@ -18,17 +18,18 @@
 
     </head>
     <body>
-      <header>
-        {% include nav.html %}
-      </header>
+      <div id="main-wrapper">
 
-      <main>
+        {% include header.html %}
+
         {{ content }}
-      </main>
 
-      <footer>
         {% include footer.html %}
-      </footer>
+
+
+      </div><!---/main-wrapper-->
+
+
     </body>
 
     <script src="bower_components/jquery/jquery.js"></script>
