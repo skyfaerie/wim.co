@@ -59,20 +59,39 @@ body {
 }
 
 .splash {
-	min-height: 90%;
+	min-height: 100%;
 	background-image: url('../img/backgrounds/femalefounders1.jpg');
 	background-color: #ccc;
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-position-x: center;
 	text-align: center;
 	color: #fff;
+	box-shadow: 0 2px 9px 0 #333;
 
 	.row { padding: 15em 0; }
 }
 
 .main-section {
-	min-height: 80%;
-	border-bottom: 1px solid #333;
+	min-height: 95%;
+}
+
+#highlights {
+
+}
+
+#ecosystem {
+	background-image: url('../img/backgrounds/nyc.jpg');
+	background-repeat: no-repeat;
+	background-position-x: center;
+	box-shadow: 0 2px 13px 3px #333;
+}
+
+#blog {
+
+}
+
+#sponsors {
+	box-shadow: 0 2px 13px 3px #333;
 }
 
 footer{
