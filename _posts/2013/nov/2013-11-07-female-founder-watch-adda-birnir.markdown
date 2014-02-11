@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Female Founder to Watch: Skillcrush’s Adda Birnir"
+title:  "Female Founder Watch: Adda Birnir"
 date:   2013-11-08
 image: adda-birnir.jpg
+summary: Skillcrush co-founder Adda Birnir shares her insights on being an entrepreneur and women in tech
 categories: "female founder watch"
 ---
 

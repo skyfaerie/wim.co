@@ -16,7 +16,6 @@ title: Women Innovate Mobile
 	<div class="row">
 		<div class="small-12 columns">
 			<h1 class="text-center">Our Series</h1>
-
 			<p>WIM has a few series they do</p>
 
 			<div class="row">
@@ -81,16 +80,18 @@ title: Women Innovate Mobile
 <section id="blog" class="main-section">
 	<div class="row">
 		<div class="small-12 columns">
-			<h1>BLOG</h1>
+			<h1 class="text-center">Our Blog</h1>
+			<p>WIM has a blog. Check  out our recent posts.</p>
 
 			{% for post in site.posts  limit: 3 %}
-		  <a href="{{ post.url }}" class="small-12 medium-4 columns">
-		    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-		    <h5 class="title">{{ post.title }}</h5>
-		    <p class="">{{ post.summary }}</p>
-		  </a>
-	  {% endfor %}
-
+				<div class="small-12 medium-4 columns">
+				  <a href="{{ post.url }}">
+				    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+				    <h5 class="title">{{ post.title }}</h5>
+				    <p class="">{{ post.summary }}</p>
+				  </a>
+				</div>
+	  	{% endfor %}
 		</div>
 	</div>
 </section>

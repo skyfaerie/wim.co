@@ -142,7 +142,16 @@ body {
 }
 
 #blog {
+	padding-top: 3em;
+	text-align: center;
 
+	img {
+		height: 200px;
+	}
+
+	h5 {
+		padding-top: 1em;
+	}
 }
 
 #sponsors {
