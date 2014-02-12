@@ -7854,11 +7854,17 @@ body {
 }
 
 /* line 157, ../scss/app.scss */
+.blog {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+/* line 162, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 161, ../scss/app.scss */
+/* line 166, ../scss/app.scss */
 footer {
   position: relative;
   background-color: #000;

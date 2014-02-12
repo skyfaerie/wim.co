@@ -85,11 +85,13 @@ title: Women Innovate Mobile
 
 			{% for post in site.posts  limit: 3 %}
 				<div class="small-12 medium-4 columns">
-				  <a href="{{ post.url }}">
+				  <div class="blog">
+				  	<a href="{{ post.url }}">
 				    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
 				    <h5 class="title">{{ post.title }}</h5>
 				    <p class="">{{ post.summary }}</p>
 				  </a>
+				  </div>
 				</div>
 	  	{% endfor %}
 		</div>
