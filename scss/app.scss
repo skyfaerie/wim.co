@@ -187,8 +187,32 @@ body {
 
 footer{
 	position: relative;
+	min-height: 50%;
 	background-color: #000;
 	color: #bbb;
 	text-align: right;
 }
 
+.sm-color {
+	padding-left: 4em;
+	float: right;
+	padding-right: 0.7em;
+
+	li {
+		margin: 0;
+		padding-left: 7px;
+	}
+}
+
+#address {
+	list-style-type: none;
+}
+
+footer span {
+  position: absolute;
+	bottom: 0;
+	left: 5%;
+	font-size: 0.666em;
+	text-align: left;
+	padding-bottom: 1em;
+}
