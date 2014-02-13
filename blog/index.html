@@ -1,0 +1,33 @@
+---
+layout: default
+title: blog
+---
+
+<section class="blog">
+	<div class="section-content">
+		<div class="row">
+			<div class="small-12 columns">
+				<h1>BLOG</h1>
+
+				<p>Read our blog to keep up with stuff</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+{% for post in site.posts %}  
+  <div class="row post">	 
+    <div class="small-12 large-4 columns">
+	    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+	  </div>
+	    
+    <div class="small-12 large-8 columns">
+    	<a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
+    	<p>{{ post.date |  date: "%B %d, %Y "}}</p>
+    	<p>{{ site.baseurl }}{{ post.excerpt }}</p>
+  	</div>
+  </div>
+{% endfor %}
+
