@@ -7935,3 +7935,35 @@ footer span {
 .founder-bio img {
   padding-top: 1em;
 }
+
+/* line 241, ../scss/app.scss */
+#mentors {
+  margin: 0 auto;
+}
+
+/* line 245, ../scss/app.scss */
+.mentor {
+  width: 300px;
+  height: 400px;
+  background-color: #ebeaea;
+  margin-bottom: 30px;
+  -webkit-box-shadow: 0px 3px 3px 1px #d3d1d1;
+  box-shadow: 0px 3px 3px 1px #d3d1d1;
+  text-align: center;
+}
+/* line 256, ../scss/app.scss */
+.mentor img {
+  width: 100%;
+  height: 55%;
+  -webkit-box-shadow: 0px 1px 1px 1px #d3d1d1;
+  box-shadow: 0px 1px 1px 1px #d3d1d1;
+}
+/* line 264, ../scss/app.scss */
+.mentor h3:after {
+  content: "";
+  margin: 5px auto 20px;
+  display: block;
+  width: 70px;
+  height: 5px;
+  background: #57267C;
+}
