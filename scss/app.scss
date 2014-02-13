@@ -76,7 +76,7 @@ body {
 }
 
 #highlights {
-
+	padding-top: 3em;
 }
 
 .series {
@@ -167,10 +167,22 @@ body {
 
 #sponsors {
 	box-shadow: 0 2px 13px 3px #333;
+	padding-top: 3em;
+	min-height: 80%;
 }
 
-.sponsor-img {
+.sponsors { margin-bottom: 6em; }
+
+.sponsor {
+	display: inline-block;
+	margin: 0 auto;
+	margin-left: 1em;
+	margin-right: 1em;
 	width: 150px;
+}
+
+#potential {
+	color: #555;
 }
 
 footer{

@@ -7770,6 +7770,11 @@ body {
   min-height: 95%;
 }
 
+/* line 78, ../scss/app.scss */
+#highlights {
+  padding-top: 3em;
+}
+
 /* line 82, ../scss/app.scss */
 .series {
   width: 80%;
@@ -7867,14 +7872,30 @@ body {
 /* line 168, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
+  padding-top: 3em;
+  min-height: 80%;
 }
 
-/* line 172, ../scss/app.scss */
-.sponsor-img {
-  width: 150px;
+/* line 174, ../scss/app.scss */
+.sponsors {
+  margin-bottom: 6em;
 }
 
 /* line 176, ../scss/app.scss */
+.sponsor {
+  display: inline-block;
+  margin: 0 auto;
+  margin-left: 1em;
+  margin-right: 1em;
+  width: 150px;
+}
+
+/* line 184, ../scss/app.scss */
+#potential {
+  color: #555;
+}
+
+/* line 188, ../scss/app.scss */
 footer {
   position: relative;
   background-color: #000;
