@@ -7930,3 +7930,8 @@ footer span {
   text-align: left;
   padding-bottom: 1em;
 }
+
+/* line 226, ../scss/app.scss */
+.founder-bio img {
+  padding-top: 1em;
+}
