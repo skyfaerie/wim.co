@@ -3,44 +3,45 @@ layout: post
 title:  "FOCUS100: The Most Diverse Tech Conference on the Planet!"
 date:   2013-08-16
 image: kathrynfinney2.jpg
+summary: "Kathryn Finney is the founder and Managing Director of digitalundivided (DID), a social enterprise that develops programs that increase the active participation of urban communities, especially women, in the digital space."
 categories: ""
 ---
 
 Are you a  daydreamer, a programmer, an investor, a blogger, a rebel-rouser, a hacker, a techpreneur, an aspiring game changer, or simply someone who is interested in the inevitable digital future? If you are any one of these, and if you happen to be free on October 4th to 6th, be sure to swing by NYC to join the most diverse tech conference on the planet!
 
- 
+
 
 [digitalundivided](http://www.digitalundivided.com/) (DID), a social enterprise that is driven to bridge the digital gap among women of color and other minorities, is bringing back #FOCUS100, its annual flagship program that aims to connect tech companies with founders/co-founders who are black women, angel and venture investors, leading corporations, and those interested in the future of tech.
 
- 
+
 
 Its vision? To get 100 companies founded or co-founded by black women to raise funding or get acquired by 2015. Audacious? Perhaps. Challenging? Absolutely. Impossible? Not at all.
 
- 
+
 
 **What to Expect at FOCUS100**
 
- 
+
 
 Over the weekend, FOCUS100 will be conducting various programs, such as a Startup Bootcamp, a symposium, and even mentorship sessions, led by the industry’s most prominent experts. Worth noting is that in a typically white male-dominated field, the conference offers vibrant diversity: over 80% of the speakers are women and people of color.
 
- 
+
 
 On the agenda are workshops on pitch deck creations and startup basics, an hour of one-on-one mentorship sessions, fireside chats with some of the most passionate and inspiring people of color in the field, and insightful panel talks ranging from ideas on developing your roster of tech talents to casting the limelight on African digital companies that are changing the ways people view the African continent.
 
- 
+
 
 An exciting event highlight is the PITCH-IT Session, where pitch finalists set out to give the best storytelling of their lives for the winning pot, which include cash prizes, meetings with top investment firms, finalist status with top incubators, and access to tools that help grow their companies.
 
- 
+
 
 Also happening this year is DID’s first ever Global Mobile Hack, an overnight hackathon dedicated to creating innovative ways to increase access to data/information on mobile platforms in urban communities around the world, backed by APIs from partners, such as AMEX, Microsoft, Twillo, etc.
 
- 
+
 
 **Who’ll Be at FOCUS100**
 
- 
+
 
 Joining the event are tech titans such as  Facebook, Google, AMEX and Microsoft; top investors from firms like Andreesen Horowitz, Gen Y Capital, and Techstars; and some of the most respected movers and thought leaders in the field, including MC Hammer, three-time Grammy award winner, digital pioneer and founder of several Silicon Valley-based startups; Lisa Lambert, Vice President of Intel Capital; Stacy Brown Philpot, COO of Taskrabbit; and  MacArthur "Genius" Award recipient Majora Carter, who will be speaking at the conference for the second consecutive year.
 
