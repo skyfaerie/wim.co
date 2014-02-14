@@ -3,6 +3,7 @@ layout: post
 title:  "Meet The Innovators: The Red Stamp Story"
 date:   2013-10-18
 image: erin-newkirk.jpg
+summary: Join us at the Apple store in Soho to hear the exit success story of female founded startup Red Stamp
 categories: ""
 ---
 

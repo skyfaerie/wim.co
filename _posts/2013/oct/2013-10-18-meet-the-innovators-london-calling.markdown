@@ -3,6 +3,7 @@ layout: post
 title:  "London Calling! Meet The Innovators"
 date:   2013-10-18
 image: london.jpg
+summary: Women Innovate Mobile crosses the pond to launch its Meet The Innovators speaker series in London
 categories: "meet the innovators"
 ---
 
