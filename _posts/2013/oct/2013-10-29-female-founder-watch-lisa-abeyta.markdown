@@ -3,7 +3,7 @@ layout: post
 title:  "Female Founder Watch: Lisa Abeyta"
 date:   2013-10-29
 image: lisaabeyta.jpg
-summary: WIM catches up with the Founder and CEO of APPCityLife
+summary: "WIM catches up with the Founder and CEO of APPCityLife"
 categories: "female founder watch"
 ---
 

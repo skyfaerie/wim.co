@@ -3,7 +3,7 @@ layout: post
 title:  "The Everything Guide to Mobile Apps"
 date:   2013-10-22
 image: everythingguidetomobileapps.png
-summary: Mobile trailblazers Peggy Anne Salz and Jennifer Shambroom talk about their new guide to sucessfully making, marketing, and monetizing apps
+summary: "Mobile trailblazers Peggy Anne Salz and Jennifer Shambroom talk about their new guide to sucessfully making, marketing, and monetizing apps"
 categories: ""
 ---
 

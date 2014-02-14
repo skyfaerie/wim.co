@@ -3,7 +3,7 @@ layout: post
 title:  "GOOGLE+ #WOMENWHOTECH RECAP: ELISSA SHEVINSKY"
 date:   2013-10-28
 image: elissashevinsky.jpg
-summary: Recap of our hangout with tech's ultimate troublemaker
+summary: "Recap of our hangout with tech's ultimate troublemaker"
 categories: ""
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Mentor in the Room: Claudia Batten"
 date:   2013-10-31
 image: claudiabatten.jpg
-summary: With over 15 years of experience in the technology sector, entrepreneur Claudia Batten dishes on entrepreneurship and the squiggly line.
+summary: "With over 15 years of experience in the technology sector, entrepreneur Claudia Batten dishes on entrepreneurship and the squiggly line."
 categories: "mentor in the room"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Google+ #womenwhotech Recap: Anar Simpson"
 date:   2013-10-17
 image: anar-simpson.jpg
-summary: Highlights of our hangout session with phenomal STEM mentor and founder of Parallel Earth
+summary: "Highlights of our hangout session with phenomal STEM mentor and founder of Parallel Earth"
 categories: ""
 ---
 
