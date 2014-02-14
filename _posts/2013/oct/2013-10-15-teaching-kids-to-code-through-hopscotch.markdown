@@ -3,7 +3,7 @@ layout: post
 title:  "Teaching Kids to Code through Hopscotch!"
 date:   2013-10-15
 image: hopscotch.jpg
-summary: "Hopschotch co-founder Samantha John expounds upon her and Jocelyn Leavitt's intuitive app designed to teach children to code.""
+summary: "Hopschotch co-founder Samantha John expounds upon her and Jocelyn Leavitt's intuitive app designed to teach children to code."
 categories: ""
 ---
 

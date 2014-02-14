@@ -3,6 +3,7 @@ layout: post
 title:  "Building an Army of Angels: Natalia Oberti Noguera"
 date:   2013-09-25
 image: nataliaedited.png
+summary: "The founder and CEO of the Pipeline Fellowship shares her goals and dreams"
 categories: ""
 ---
 
