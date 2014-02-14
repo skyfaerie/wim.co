@@ -271,7 +271,23 @@ footer span {
 	}
 }
 
+//////////////////////////////////////////////////////
+// PARTNER
+//////////////////////////////////////////////////////
 
+#partners {
+	margin: 0 auto;
+}
 
+.partner {
+	width: 200px;
+	height: 200px;
 
-
+	img {
+		width: 150px;
+		height: 150px;
+		margin: 0 auto;
+		display: block;
+		margin-top: 1em;
+	}
+}

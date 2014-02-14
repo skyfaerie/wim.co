@@ -7967,3 +7967,22 @@ footer span {
   height: 5px;
   background: #57267C;
 }
+
+/* line 278, ../scss/app.scss */
+#partners {
+  margin: 0 auto;
+}
+
+/* line 282, ../scss/app.scss */
+.partner {
+  width: 200px;
+  height: 200px;
+}
+/* line 286, ../scss/app.scss */
+.partner img {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 1em;
+}

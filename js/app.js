@@ -10,8 +10,7 @@ $(function(){
   });
 
   $('#partners').masonry({
-    columnWidth: 33,
-    gutter: 40,
+    "isFitWidth": true,
     itemSelector: '.partner'
   });
 });
