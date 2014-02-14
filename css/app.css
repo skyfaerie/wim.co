@@ -7931,24 +7931,33 @@ footer span {
   padding-bottom: 1em;
 }
 
-/* line 226, ../scss/app.scss */
+/* line 220, ../scss/app.scss */
+.mini-footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #502472;
+  color: #ccc;
+  font-size: 10px;
+}
+
+/* line 233, ../scss/app.scss */
 .founder-bio img {
   padding-top: 1em;
 }
 
-/* line 236, ../scss/app.scss */
+/* line 243, ../scss/app.scss */
 #mentors {
   margin: 0 auto;
 }
 
-/* line 240, ../scss/app.scss */
+/* line 247, ../scss/app.scss */
 .mentor {
   width: 320px;
   height: 400px;
   margin-bottom: 30px;
 }
 
-/* line 246, ../scss/app.scss */
+/* line 253, ../scss/app.scss */
 .mentor-content {
   width: 300px;
   height: 400px;
@@ -7958,12 +7967,12 @@ footer span {
   -webkit-box-shadow: 0px 0px 1px 0px #d3d1d1;
   box-shadow: 0px 0px 1px 0px #d3d1d1;
 }
-/* line 256, ../scss/app.scss */
+/* line 263, ../scss/app.scss */
 .mentor-content img {
   width: 100%;
   height: 55%;
 }
-/* line 261, ../scss/app.scss */
+/* line 268, ../scss/app.scss */
 .mentor-content h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -7973,17 +7982,17 @@ footer span {
   background: #57267C;
 }
 
-/* line 275, ../scss/app.scss */
+/* line 282, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 279, ../scss/app.scss */
+/* line 286, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 283, ../scss/app.scss */
+/* line 290, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;
