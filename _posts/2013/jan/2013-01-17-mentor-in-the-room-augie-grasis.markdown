@@ -3,6 +3,7 @@ layout: post
 title:  "Mentor in the Room: Augie Grasis"
 date:   2013-01-17
 image: augiegrasis.jpg
+summary: "Named the 2009 Ernst & Young Entrepreneur Of The Year® Award Winner in the Central Midwest Technology category, Augie Grasis is an established entrepreneur known for his savvy business approach and industry-changing ideas. Since founding Handmark in 2000, Grasis has played an important role in defining the mobile content industry and changing the way people use their mobile phones."
 categories: "mentor in the room"
 ---
 

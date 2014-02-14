@@ -3,11 +3,11 @@ layout: post
 title:  "Why Is WIM A Mobile Focused Accelerator?"
 date:   2013-03-18
 image: mobile.jpg
+summary: "It's a question we're asked a lot at Women Innovate Mobile  - as in \"why\" would we want to limit our funding focus to mobile or mobile-first ventures.  It's not an oversight and it's not like we're missing something by focusing on mobile."
 categories: ""
 ---
 
-Why mobile? 
-
+Why mobile?
 
 
 It's a question we're asked a lot at Women Innovate Mobile  - as in "why" would we want to limit our funding focus to mobile or mobile-first ventures.  It's not an oversight and it's not like we're missing something by focusing on mobile.  Mobile technology is changing everything, rapidly and touching every aspect of our lives.  And if you're sitting in front of your desktop unconvinced, then mull on this: eBay’s global mobile sales reached $13 billion in 2012, more than doubling 2011 global mobile sales, and far exceeding its original $10 billion forecast for 2012.   And for good measure, a few more [eBay-by-the-mobile-numbers](http://internetretailing.net/2013/03/ebay-sets-sights-on-20bn-in-mobile-sales-during-2013/) just for fun:

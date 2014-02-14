@@ -3,6 +3,7 @@ layout: post
 title:  "Greet, Hear, Meet & Network: Women 2.0"
 date:   2013-01-22
 image: women2.jpg
+summary: "The Women 2.0 Conference is a full-day event focused on exploring up-and-coming trends in innovation for current and aspiring entrepreneurs, engineers, designers, and you!"
 categories: ""
 ---
 

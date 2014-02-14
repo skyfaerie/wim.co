@@ -3,6 +3,7 @@ layout: post
 title:  "Mentor in the Room: Pam Fields"
 date:   2013-01-17
 image: pamfields.jpg
+summary: "Pam has an extensive and successful track record delivering results online and offline in consumer goods manufacturing, distribution, marketing and product development for start-ups, turnarounds and ongoing businesses. From her start in the cosmetics business at Avon, L’Oreal and as part of the founding team of Bath &amp; Body Works at The Limited, Inc., Pam moved to the accessories industry where she was President of Tag-Heuer’s US subsidiary. "
 categories: "mentor in the room"
 ---
 

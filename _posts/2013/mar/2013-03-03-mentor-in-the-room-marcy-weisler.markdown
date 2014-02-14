@@ -3,6 +3,7 @@ layout: post
 title:  "The Mentor in the Room: Marcy Weisler"
 date:   2013-03-03
 image: marciweisler.jpg
+summary: "The COO of EachScape. Marci Weisler is an accomplished digital executive with over 15 years of experience growing online businesses. She is active in the NYC startup community as a mentor for Women Innovate Mobile, and advisor for earlier stage startups"
 categories: "mentor in the room"
 ---
 
@@ -30,7 +31,7 @@ If you see something not working, acknowledge and address quickly.   Make change
 
 __If you could fix one thing in the startup eco-system right now, what would it be?__
 
-I think there's a general perception, particularly among those who have watched the startup world but not been part, that success is rampant and comes easily.  Startups can be fun and great, but they are hard work, perseverance, as well as execution and timing.   Many more startups fail than succeed, and that's a reality check people need to have.   Go into it knowing it's your biggest challenge and you need to not only have a great idea, but you need great execution at the right time. 
+I think there's a general perception, particularly among those who have watched the startup world but not been part, that success is rampant and comes easily.  Startups can be fun and great, but they are hard work, perseverance, as well as execution and timing.   Many more startups fail than succeed, and that's a reality check people need to have.   Go into it knowing it's your biggest challenge and you need to not only have a great idea, but you need great execution at the right time.
 
 
 
@@ -55,8 +56,8 @@ Don't be afraid of the unknown.   Change is constant.   If you're looking for ro
 
 __Guess who’s coming for dinner…who would be your dream dinner guest(s) and why?__
 
-Wow, this one is tough, and it's hard to narrow down.   I'd be honored to have dinner with Nick Kristof.   His global perspective on offering women opportunities can change the world is amazing, both in third world countries and first world.   His emphasis on education and it's contribution to women in business, starting businesses is superb, and he also recognizes how established businesses can change policies and behavior to drive women to more leadership positions.   
- 
+Wow, this one is tough, and it's hard to narrow down.   I'd be honored to have dinner with Nick Kristof.   His global perspective on offering women opportunities can change the world is amazing, both in third world countries and first world.   His emphasis on education and it's contribution to women in business, starting businesses is superb, and he also recognizes how established businesses can change policies and behavior to drive women to more leadership positions.
+
 
 __About WIM mentor Marci Weisler:__
 

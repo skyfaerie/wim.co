@@ -3,6 +3,7 @@ layout: post
 title:  "Female Founder Watch: Margot and Millana, Serene City Retreat"
 date:   2013-03-03
 image: serenecity.png
+summary: "Invite only and exclusively for women, Serene City Retreat is a women's wellness and lifestyle group offering highly curated, novel and luxe experiences. Serene strives to promote and empower women by fostering a community of influential and dynamic women across all industries. Founders Millana Snow and Margot Hanley sat down to answer a few questions for WIM."
 categories: "female founder watch"
 ---
 
@@ -15,7 +16,7 @@ Millana: I am very inspired by my friends, there are many men and women who are 
 
 Margot: Margaret Thatcher for her conviction and principle. Coco Chanel because her work was so elegant, simple and revolutionary. And Serge Gainsbourg and Jane Birkin; separately of course, but mostly as a unit.
 
- 
+
 __Why are you an entrepreneur?__
 
 Millana: I cannot see myself being anything but an entrepreneur! All my life it was something that I seemed naturally drawn to. I always believed that I needed to constantly create and explore on my own terms and I believe that being an entrepreneur has allowed me to do that. For me, it is important to be an entrepreneur, because freedom is so important, but also I believe that with freedom comes much responsibility. I wish to constantly grow, expand and share... being an entrepreneur helps me to do so.
@@ -45,12 +46,12 @@ __What's next for your company?__
 
 We are currently building out our monthly calendar of experiences and memberships for some of New York’s most influential and dynamic women. We’ve just partnered with the fashionable and exclusive SoHo members only club, Parlor for a series Life Drawing experiences, replete with some super sexy male models and DJ Stiletto. We are also working with Elaine Kwon to develop and collaborate on some beautiful “Savour your Senses” experiences for the spring, alongside our rooftop yoga!
 
- 
+
 __How did you finance your business when it was at the early stage?__
 
 We are currently self-funded, but in early stages of speaking with angel and seed investors.
 
- 
+
 __Tell me something about yourself that we don’t know already.__
 
 Millana: I love nature, great food, dancing, dogs and baking. And I listen to Pandora and Abraham-Hicks recordings 24/7.
@@ -64,23 +65,23 @@ Millana: Talking on the phone for hours with friends. And Liz Lovely chocolate c
 
 Margot: Sea salt and almond chocolate; bulky, old-man sweaters; West Wing reruns.
 
- 
+
 __Describe a time you failed. What did you learn from that experience?__
 
- 
+
 
 Millana: As a model and actress this happens in many forms all the time, by nature of not booking jobs that I really wanted. I have had some casting that I knew were for me, and because of fear, self doubt and judgement I kept myself from the opportunity when in the casting room or even after with my energy. What I have learned over the years from those experiences (and still work on) is to just be myself, to take real joy in being who I am and using every opportunity to have fun and express myself with joy.
 
 Margot: A failure that I remember as being desperately painful was when I was in middle school and auditioned to be an MC for a student talent show. It was in front of the whole school, and you had to kind of make jokes,be super witty, make a little speech. My adversary, Hannah, was just... too good. It reminded me that “success” is not the endgame for every action, every decision, every attempt; these failed attempts may be highly embarrassing, but if you’re never embarrassed some risks you don’t have really a shot at all of living authentically.
 
- 
+
 __What is your favorite mobile app?__
 
 Millana: As I mentioned I listen to Pandora ALL THE TIME! I also really like the WhatsApp for talking with my friends internationally for free which I use almost every day! Oh I like Everest which I just discovered and playing poker on Zynga!
 
 Margot: NPR app, hands down. Diane Rehm, twice a day, every day.
 
- 
+
 __What do you do to help focus?__
 
 Millana: Yoga in my apt, running, cleaning, journaling and writing of positive thoughts... namely a “focus wheel.”
@@ -94,18 +95,18 @@ Millana: I really want to empower women and believe that young girls who are in 
 
 Margot: Millana and I are (not so secretly…) staging a coup against the male paradigm. Not men, mind you- the paradigm itself. It’s struggling…
 
- 
+
 __Any words of advice for entrepreneurs who are trying to get their ventures launched?__
 
 Millana: Do what you are passionate about and know what is for you! Don’t listen to EVERYTHING people say, even smart and successful people have input that isn’t right for you. So I say listen to your inner guidance/gut and educate yourself to weigh all the information and advice before acting.
 
 Margot: Talk to everyone, anyone. Look at everything and then some. It’s amazing how enlightening a casual conversation with a retail clerk can be; a sculptor; your grandfather; how enlightening an excursion, a second glance, a second inquiry. Talk to the CEO’s, the investors, the powerbrokers. And through this process, bottom line- know and stick to your mission. It’s a fine balance; hearing everything, seeing everything, being open to anything, and holding onto your non-negotiables. My words of advice: Strike that balance.
 
- 
+
 
 __Where can we learn more?__
 
 SereneCityRetreat.com or email us at info@serenecityretreat.com!
 
- 
+
 
