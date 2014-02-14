@@ -3,6 +3,7 @@ layout: post
 title:  "Female Founder Watch: Uprise Art’s Tze Chun"
 date:   2013-06-29
 image:  tzechun.jpeg
+summary: "Uprise Art is an online art gallery for the next generation of collectors. Whether you’re a seasoned art collector or in the dark when it comes to art, Uprise Art’s expertly curated collection makes collecting easy and enjoyable. "
 categories: "female founder watch"
 ---
 
@@ -18,7 +19,7 @@ When I was in fourth grade, we started a segment on problem solving in math clas
 
 Not much has changed! Being an entrepreneur means constantly problem solving and I love the challenges and rewards of running the gallery.
 
-**What was a defining moment in your career?** 
+**What was a defining moment in your career?**
 
 Winning the DailyCandy Start Small Go Big Contest in 2012. I've been a DailyCandy subscriber since they launched and it was such an honor to have them believe in our company. They arranged for us to meet with mentors such as Chris Burch and Jonathan Adler, and companies such as Birchbox, DwellStudio and countless others. It was the beginning of our current momentum.
 
@@ -55,29 +56,29 @@ Dance movies. I actually bought the Step Up 2 soundtrack when it came out.
 In 2011, I applied to DailyCandy’s Start Small Go Big contest and didn’t make the finalist list.
 
 When applications came out for the 2012 contest, I wasn’t sure we had a chance. My intern, who went on to be the company's first employee, convinced me to reapply and we went on win in the ‘Home’ category. My fear of getting rejected twice almost kept us from one of our biggest break-through moments. I learned to keep trying, and to not fear failure when you truly think you have a good idea.
- 
+
 **What is your favorite mobile app?**
 
 Foursquare. It's such an amazing resource for fun ways to explore the city and meet up with my close friends. It's so fun to check out (or "check in") a new restaurant and see tips my friends have left and recommendations of what to try.
 
 **What’s your cause?**
- 
+
 To draw out the art lover in everyone and making it easy for collectors to make personal connections with artists and find art they can afford.
 
 **Any words of advice for entrepreneurs who are trying to get their ventures launched?**
 
 Ask for advice and don’t be afraid of being bothersome. It’s likely that many people will be as excited about your venture as you are. In year one, I constantly asked for introductions and met with countless entrepreneurs and art dealers.
 
-Listen to your clients and the people you depend on. I asked many artists about their needs in and concerns with the art world, and what sort of artist-gallery relationship they wanted. Similarly, I viewed everyone as a potential collector, and listened to their comments and suggestions. Not everything will work from the get-go, and it’s important to look for solutions anywhere you can. 
+Listen to your clients and the people you depend on. I asked many artists about their needs in and concerns with the art world, and what sort of artist-gallery relationship they wanted. Similarly, I viewed everyone as a potential collector, and listened to their comments and suggestions. Not everything will work from the get-go, and it’s important to look for solutions anywhere you can.
 
 **Elevator pitch:**
 
-Uprise Art is an online art gallery for the next generation of collectors. Whether you’re a seasoned art collector or in the dark when it comes to art, Uprise Art’s expertly curated collection makes collecting easy and enjoyable. 
+Uprise Art is an online art gallery for the next generation of collectors. Whether you’re a seasoned art collector or in the dark when it comes to art, Uprise Art’s expertly curated collection makes collecting easy and enjoyable.
 
-Collectors can purchase artwork outright, or they can live with the work while investing over time in simple monthly installments. Select artwork online and Uprise takes care of the rest: custom framing, delivery, and installation. 
+Collectors can purchase artwork outright, or they can live with the work while investing over time in simple monthly installments. Select artwork online and Uprise takes care of the rest: custom framing, delivery, and installation.
 
 What's more, Uprise Art is now mobile. With the free Uprise Art iPad app, you can visualize hundreds of works of art to scale in your apartment. Find artwork that fits your style and your space.
 
- ______________________________________________________   
+ ______________________________________________________
 
-This post was created by Raine Dalton, WIM’s editorial and community innovation intern. Raine is passionate about finding creative ways to empower women globally through tech. In addition to WIM, Raine has written, tweeted, and posted for the Global Banking Alliance for Women, WITNESS, and 90.7 WFUV News. You can find her work at www.rainedalton.com or get in touch with her through Twitter @rainedalton, or by emailing raine@wim.co. 
+This post was created by Raine Dalton, WIM’s editorial and community innovation intern. Raine is passionate about finding creative ways to empower women globally through tech. In addition to WIM, Raine has written, tweeted, and posted for the Global Banking Alliance for Women, WITNESS, and 90.7 WFUV News. You can find her work at www.rainedalton.com or get in touch with her through Twitter @rainedalton, or by emailing raine@wim.co.
