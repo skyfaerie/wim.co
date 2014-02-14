@@ -7726,30 +7726,44 @@ th.hide-for-touch {
   display: table-cell !important;
 }
 
-/* line 42, ../scss/app.scss */
+/* line 47, ../scss/app.scss */
 html {
   width: 100%;
   height: 100%;
 }
 
-/* line 47, ../scss/app.scss */
+/* line 52, ../scss/app.scss */
 body {
   width: 100%;
   height: 100%;
   background-color: #f8f8f8;
 }
 
-/* line 53, ../scss/app.scss */
+/* line 58, ../scss/app.scss */
 #main-wrapper {
   height: 100%;
 }
 
-/* line 57, ../scss/app.scss */
+/* line 62, ../scss/app.scss */
 .top-bar {
   background-color: #502472;
 }
 
-/* line 61, ../scss/app.scss */
+/* line 66, ../scss/app.scss */
+.mini-footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #502472;
+  color: #ccc;
+  font-size: 10px;
+}
+
+/* line 74, ../scss/app.scss */
+.text-justify {
+  text-align: justify;
+}
+
+/* line 82, ../scss/app.scss */
 .splash {
   min-height: 100%;
   background-image: url("../img/backgrounds/femalefounders1.jpg");
@@ -7760,71 +7774,71 @@ body {
   color: #fff;
   box-shadow: 0 2px 9px 0 #333;
 }
-/* line 71, ../scss/app.scss */
+/* line 92, ../scss/app.scss */
 .splash .row {
   padding: 15em 0;
 }
 
-/* line 74, ../scss/app.scss */
+/* line 95, ../scss/app.scss */
 .main-section {
   min-height: 95%;
 }
 
-/* line 78, ../scss/app.scss */
+/* line 99, ../scss/app.scss */
 #highlights {
   padding-top: 3em;
 }
 
-/* line 82, ../scss/app.scss */
+/* line 103, ../scss/app.scss */
 .series {
   width: 80%;
   margin: 0 auto;
   padding-bottom: 2em;
 }
-/* line 87, ../scss/app.scss */
+/* line 108, ../scss/app.scss */
 .series img {
   width: 150px;
   margin: 0 auto;
   display: block;
 }
-/* line 93, ../scss/app.scss */
+/* line 114, ../scss/app.scss */
 .series .content {
   padding-top: 0.5em;
   max-width: 75%;
   margin: 0 auto;
   text-align: center;
 }
-/* line 99, ../scss/app.scss */
+/* line 120, ../scss/app.scss */
 .series .content h4 {
   text-align: center;
 }
 
 @media (min-width: 550px) {
-  /* line 104, ../scss/app.scss */
+  /* line 125, ../scss/app.scss */
   .series {
     width: 90%;
     margin: 0 auto;
     padding-bottom: 1em;
   }
-  /* line 109, ../scss/app.scss */
+  /* line 130, ../scss/app.scss */
   .series img {
     float: left;
     padding-right: 1em;
     display: inline-block;
     width: 175px;
   }
-  /* line 116, ../scss/app.scss */
+  /* line 137, ../scss/app.scss */
   .series .content {
     padding-top: 0;
     max-width: 100%;
     text-align: left;
   }
-  /* line 122, ../scss/app.scss */
+  /* line 143, ../scss/app.scss */
   .series .content h4 {
     text-align: left;
   }
 }
-/* line 127, ../scss/app.scss */
+/* line 148, ../scss/app.scss */
 #ecosystem {
   background-image: url("../img/backgrounds/nyc.jpg");
   background-repeat: no-repeat;
@@ -7832,7 +7846,7 @@ body {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 134, ../scss/app.scss */
+/* line 155, ../scss/app.scss */
 #eco-content {
   margin: 0 auto;
   margin-top: 3em;
@@ -7842,46 +7856,46 @@ body {
   padding: 3px 15px 3px 15px;
   color: #ccc;
 }
-/* line 143, ../scss/app.scss */
+/* line 164, ../scss/app.scss */
 #eco-content button {
   display: block;
   margin: 0 auto;
   margin-bottom: 2em;
 }
 
-/* line 150, ../scss/app.scss */
+/* line 171, ../scss/app.scss */
 #blog {
   padding-top: 3em;
   text-align: center;
 }
-/* line 154, ../scss/app.scss */
+/* line 175, ../scss/app.scss */
 #blog img {
   height: 200px;
 }
-/* line 158, ../scss/app.scss */
+/* line 179, ../scss/app.scss */
 #blog h5 {
   padding-top: 1em;
 }
 
-/* line 163, ../scss/app.scss */
+/* line 184, ../scss/app.scss */
 .blog {
   max-width: 300px;
   margin: 0 auto;
 }
 
-/* line 168, ../scss/app.scss */
+/* line 189, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
   padding-top: 3em;
   min-height: 80%;
 }
 
-/* line 174, ../scss/app.scss */
+/* line 195, ../scss/app.scss */
 .sponsors {
   margin-bottom: 6em;
 }
 
-/* line 176, ../scss/app.scss */
+/* line 197, ../scss/app.scss */
 .sponsor {
   display: inline-block;
   margin: 0 auto;
@@ -7890,12 +7904,12 @@ body {
   width: 150px;
 }
 
-/* line 184, ../scss/app.scss */
+/* line 205, ../scss/app.scss */
 #potential {
   color: #555;
 }
 
-/* line 188, ../scss/app.scss */
+/* line 209, ../scss/app.scss */
 footer {
   position: relative;
   min-height: 50%;
@@ -7904,24 +7918,24 @@ footer {
   text-align: right;
 }
 
-/* line 196, ../scss/app.scss */
+/* line 217, ../scss/app.scss */
 .sm-color {
   padding-left: 4em;
   float: right;
   padding-right: 0.7em;
 }
-/* line 201, ../scss/app.scss */
+/* line 222, ../scss/app.scss */
 .sm-color li {
   margin: 0;
   padding-left: 7px;
 }
 
-/* line 207, ../scss/app.scss */
+/* line 228, ../scss/app.scss */
 #address {
   list-style-type: none;
 }
 
-/* line 211, ../scss/app.scss */
+/* line 232, ../scss/app.scss */
 footer span {
   position: absolute;
   bottom: 0;
@@ -7931,33 +7945,24 @@ footer span {
   padding-bottom: 1em;
 }
 
-/* line 220, ../scss/app.scss */
-.mini-footer {
-  text-align: center;
-  padding: 1em;
-  background-color: #502472;
-  color: #ccc;
-  font-size: 10px;
-}
-
-/* line 233, ../scss/app.scss */
+/* line 246, ../scss/app.scss */
 .founder-bio img {
   padding-top: 1em;
 }
 
-/* line 243, ../scss/app.scss */
+/* line 255, ../scss/app.scss */
 #mentors {
   margin: 0 auto;
 }
 
-/* line 247, ../scss/app.scss */
+/* line 259, ../scss/app.scss */
 .mentor {
   width: 320px;
   height: 400px;
   margin-bottom: 30px;
 }
 
-/* line 253, ../scss/app.scss */
+/* line 265, ../scss/app.scss */
 .mentor-content {
   width: 300px;
   height: 400px;
@@ -7967,12 +7972,12 @@ footer span {
   -webkit-box-shadow: 0px 0px 1px 0px #d3d1d1;
   box-shadow: 0px 0px 1px 0px #d3d1d1;
 }
-/* line 263, ../scss/app.scss */
+/* line 275, ../scss/app.scss */
 .mentor-content img {
   width: 100%;
   height: 55%;
 }
-/* line 268, ../scss/app.scss */
+/* line 280, ../scss/app.scss */
 .mentor-content h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -7982,17 +7987,17 @@ footer span {
   background: #57267C;
 }
 
-/* line 282, ../scss/app.scss */
+/* line 294, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 286, ../scss/app.scss */
+/* line 298, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 290, ../scss/app.scss */
+/* line 302, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;
