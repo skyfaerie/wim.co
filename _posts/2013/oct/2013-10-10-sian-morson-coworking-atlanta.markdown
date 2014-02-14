@@ -3,6 +3,7 @@ layout: post
 title:  "Mobile Mogul Sian Morson brings a new take on coworking and community to Atlanta"
 date:   2013-10-10
 image: Sian-Morson-Headshot.jpg
+summary: Tech entrepreneur, renaissance woman and self-described “mobile evangelist” Sian Morson has just opened a beautiful new coworking space in Atlanta called Kollective South ATL. WIM had a chance to catch up with Sian and get the scoop on her newest venture.
 categories: ""
 ---
 

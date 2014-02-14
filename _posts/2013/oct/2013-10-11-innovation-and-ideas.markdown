@@ -3,6 +3,7 @@ layout: post
 title:  "Innovation & Ideas: Wearables, The Most Visited Website & What’s Next For Publishing"
 date:   2013-10-11
 image: oct-innovation.jpg
+summary: This fall, we're expxloring what's next for the future of wearable technology, talking to female founder who's successfully exited, and more!
 categories: ""
 ---
 

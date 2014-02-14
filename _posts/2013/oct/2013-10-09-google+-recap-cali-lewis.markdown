@@ -3,6 +3,7 @@ layout: post
 title:  "Google+ #womenwhotech recap: Cali Lewis"
 date:   2013-10-09
 image: Cali-Lewis.jpg
+summary: We had a blast with Cali Lewis during our #womenwhotech *Google+ Hangout on Air* series yesterday. Couldn’t make it? Here are five not-to-be-missed highlights from the conversation.
 categories: ""
 ---
 

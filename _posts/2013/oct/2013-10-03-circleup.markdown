@@ -3,6 +3,7 @@ layout: post
 title:  "Meet the e-Trade of Private Companies: CircleUp"
 date:   2013-10-03
 image: CircleUp.jpg
+summary:
 categories: ""
 ---
 
