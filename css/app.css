@@ -7936,30 +7936,35 @@ footer span {
   padding-top: 1em;
 }
 
-/* line 241, ../scss/app.scss */
+/* line 236, ../scss/app.scss */
 #mentors {
   margin: 0 auto;
 }
 
-/* line 245, ../scss/app.scss */
+/* line 240, ../scss/app.scss */
 .mentor {
+  width: 320px;
+  height: 400px;
+  margin-bottom: 30px;
+}
+
+/* line 246, ../scss/app.scss */
+.mentor-content {
   width: 300px;
   height: 400px;
-  background-color: #ebeaea;
-  margin-bottom: 30px;
-  -webkit-box-shadow: 0px 3px 3px 1px #d3d1d1;
-  box-shadow: 0px 3px 3px 1px #d3d1d1;
+  margin: 0 auto;
   text-align: center;
+  background-color: #ebeaea;
+  -webkit-box-shadow: 0px 0px 1px 0px #d3d1d1;
+  box-shadow: 0px 0px 1px 0px #d3d1d1;
 }
 /* line 256, ../scss/app.scss */
-.mentor img {
+.mentor-content img {
   width: 100%;
   height: 55%;
-  -webkit-box-shadow: 0px 1px 1px 1px #d3d1d1;
-  box-shadow: 0px 1px 1px 1px #d3d1d1;
 }
-/* line 264, ../scss/app.scss */
-.mentor h3:after {
+/* line 261, ../scss/app.scss */
+.mentor-content h3:after {
   content: "";
   margin: 5px auto 20px;
   display: block;
@@ -7968,17 +7973,17 @@ footer span {
   background: #57267C;
 }
 
-/* line 278, ../scss/app.scss */
+/* line 275, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 282, ../scss/app.scss */
+/* line 279, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 286, ../scss/app.scss */
+/* line 283, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;

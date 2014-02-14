@@ -4,8 +4,7 @@ $(document).foundation();
 
 $(function(){
   $('#mentors').masonry({
-    columnWidth: 25,
-    gutter: 40,
+    "isFitWidth": true,
     itemSelector: '.mentor'
   });
 
