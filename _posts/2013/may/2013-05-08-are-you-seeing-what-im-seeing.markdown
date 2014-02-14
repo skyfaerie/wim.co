@@ -3,6 +3,7 @@ layout: post
 title:  "Are you seeing what I’m seeing, Mr. Schurenberg?"
 date:   2013-05-08
 image:  gender.png
+summary: "If there is one post you read today, let it be this one..."
 categories: ""
 ---
 
@@ -12,4 +13,4 @@ If there is one post you read today, let it be this one: [Please Don’t Forget 
 * one is a model
 * one is an actual columnist
 
-Diversity? Even worse. Read the [post](http://thirdwavefashion.com/2013/05/please-dont-forget-women-an-open-letter-to-the-editor-in-chief-of-inc-magazine/?utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer&utm_content=bufferfe664) and take note next time you read Inc. 
+Diversity? Even worse. Read the [post](http://thirdwavefashion.com/2013/05/please-dont-forget-women-an-open-letter-to-the-editor-in-chief-of-inc-magazine/?utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer&utm_content=bufferfe664) and take note next time you read Inc.

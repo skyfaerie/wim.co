@@ -3,10 +3,11 @@ layout: post
 title:  "Innovating Women, A Campaign to Support Women’s Participation in Innovation, Science and Technology"
 date:   2013-05-09
 image:  innovatingwomen.png
+summary: "Singularity University (SU) today launched Innovating Women: Past, Present, and Future — an Indiegogo campaign to crowd-create a book featuring research, stories and perspectives about women's global participation in the innovation economy."
 categories: ""
 ---
 
-MOUNTAIN VIEW, CA (May 8, 2013) -- Singularity University (SU) today launched Innovating Women: Past, Present, and Future — an Indiegogo campaign to crowd-create a book featuring research, stories and perspectives about women's global participation in the innovation economy. 
+MOUNTAIN VIEW, CA (May 8, 2013) -- Singularity University (SU) today launched Innovating Women: Past, Present, and Future — an Indiegogo campaign to crowd-create a book featuring research, stories and perspectives about women's global participation in the innovation economy.
 
 Developed in partnership with Singularity University, and powered by a dollar for dollar donation matching sponsorship through Google For Entrepreneurs, Innovating Women: Past, Present & Future will bring together a discussion platform and hundreds of women from around the globe to share their perspectives on a diverse set of topics including entrepreneurship, innovation, technology, career, culture, personal and professional identity, finance, education and more.
 
@@ -24,20 +25,20 @@ Funding for Innovating Women will be raised via Indiegogo, an international crow
 
 [http://www.indiegogo.com/projects/innovating-women](http://www.indiegogo.com/projects/innovating-women)
 
-For more information or to participate in the Innovating Women Indiegogo campaign, please contact Neesha Bapat, Project Director, Innovating Women at [innovatingwomen@singularityu.org](mailto:innovatingwomen@singularityu.org). 
+For more information or to participate in the Innovating Women Indiegogo campaign, please contact Neesha Bapat, Project Director, Innovating Women at [innovatingwomen@singularityu.org](mailto:innovatingwomen@singularityu.org).
 
 About Singularity University
 
-Singularity University’s mission is to educate, inspire and enable a new generation of leaders across the globe to harness the power of exponential technologies to help solve humanity’s grand challenges. Since 2009, SU has hosted students and industry leaders from more than 70 countries at its Graduate Studies Program, Executive Programs, and specialized Executive Programs, including FutureMed. In 2012, Singularity University initiated SU Labs, an accelerator program dedicated to building and launching sustainable businesses and non-profit organizations that will positively change the lives of one billion people around the world. Corporate Partners include Autodesk, Cisco, ePlanet Ventures, Genentech, Google, Kauffman Foundation and Nokia, among others. More information can be found at: [http://www.singularityu.org](http://www.singularityu.org). 
+Singularity University’s mission is to educate, inspire and enable a new generation of leaders across the globe to harness the power of exponential technologies to help solve humanity’s grand challenges. Since 2009, SU has hosted students and industry leaders from more than 70 countries at its Graduate Studies Program, Executive Programs, and specialized Executive Programs, including FutureMed. In 2012, Singularity University initiated SU Labs, an accelerator program dedicated to building and launching sustainable businesses and non-profit organizations that will positively change the lives of one billion people around the world. Corporate Partners include Autodesk, Cisco, ePlanet Ventures, Genentech, Google, Kauffman Foundation and Nokia, among others. More information can be found at: [http://www.singularityu.org](http://www.singularityu.org).
 
 About Google for Entrepreneurs
 
 Google for Entrepreneurs empowers entrepreneurs around the world through programs, partnerships, and Google products. With over 50 programs in 110 countries, Google for Entrepreneurs seeks to grow entrepreneurial communities and to equip entrepreneurs with skills and resources to pursue their big ideas. To learn about the programs, or to grow your own skills through free online courses, visit google.com/entrepreneurs or on Google+ at google.com/+GoogleForEntrepreneurs.
- 
+
 
 For Media Inquiries:
 
 Diane Murphy
 
-diane.murphy@singularityu.org 
+diane.murphy@singularityu.org
 

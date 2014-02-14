@@ -3,6 +3,8 @@ layout: post
 title:  "A Network of Ideas, Energy & Action"
 date:   2013-04-14
 image:  networkideas.jpg
+summary: Tear down the workplace walls! WIM mentor Benjamin Dyett, co-founder of Grind (an organization that aims to shake up the old concept of the office) believes that an open, flexible and green environment will breed community and fresh ideas.
+
 categories: ""
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "The Mentor In The Room: Ian Sanders"
 date:   2013-05-05
 image:  iansanders.jpg
+summary: "Ian Sanders is a Business storyteller, Opportunity Explorer, Financial Times writer, and Author. "
 categories: ""
 ---
 
@@ -12,7 +13,7 @@ Over-complicate an otherwise good, simple, idea. By listening to too many voices
 
 **What’s the most common Startup error?**
 
-Analysis-paralysis: don’t get so obsessed with plotting hypothetical scenarios and long-term business planning that you delay executing your idea. Launch in beta and test; adapt your idea in front of real customers. 
+Analysis-paralysis: don’t get so obsessed with plotting hypothetical scenarios and long-term business planning that you delay executing your idea. Launch in beta and test; adapt your idea in front of real customers.
 
 **What does “fail fast” mean to you?**
 
@@ -20,7 +21,7 @@ Making a mistake is fine; just make sure you recover quickly *and* learn the les
 
 **If you could fix one thing in the startup eco-system right now, what would it be?**
 
-I think we need to make the startup world more accessible, getting rid of the jargon that confuses people and get back to basics. We should make the world of startups more accessible to the ‘I have an idea’ folk sitting scribbling ideas in the corner coffee shop and show them you don’t need an MBA to launch a startup. 
+I think we need to make the startup world more accessible, getting rid of the jargon that confuses people and get back to basics. We should make the world of startups more accessible to the ‘I have an idea’ folk sitting scribbling ideas in the corner coffee shop and show them you don’t need an MBA to launch a startup.
 
 **What should startups be focusing on right now?**
 
@@ -52,12 +53,12 @@ Marketing your startup product or business relies on one thing: your point of di
 
 6. Ben Drew aka Plan B, singer, rapper, filmmaker. We should be investing more time and energy in helping young people achieve their ambitions and dreams – how to turn their ideas into businesses. But the press is full of pessimism about young people today. I saw Ben speak at a TEDx event, about how the young working classes have been demonized and I think he can help us get focused on helping school-leavers fulfil their potential.
 
- 
+
 
 About [Ian Sanders](http://iansanders.com/): Ian’s a Business storyteller, Opportunity Explorer, Financial Times writer, and Author. @IanSanders
 
 
- ______________________________________________________                                                                                       
+ ______________________________________________________
 
-This post was created by Raine Dalton, WIM’s editorial and community innovation intern. Raine is passionate about finding creative ways to empower women globally through tech. In addition to WIM, Raine has written, tweeted, and posted for the Global Banking Alliance for Women, WITNESS, and 90.7 WFUV News. You can find her work at [www.rainedalton.com](www.rainedalton.com) or get in touch with her through Twitter @rainedalton, or by emailing [raine@wim.co](mailto:raine@wim.co).  
+This post was created by Raine Dalton, WIM’s editorial and community innovation intern. Raine is passionate about finding creative ways to empower women globally through tech. In addition to WIM, Raine has written, tweeted, and posted for the Global Banking Alliance for Women, WITNESS, and 90.7 WFUV News. You can find her work at [www.rainedalton.com](www.rainedalton.com) or get in touch with her through Twitter @rainedalton, or by emailing [raine@wim.co](mailto:raine@wim.co).
 

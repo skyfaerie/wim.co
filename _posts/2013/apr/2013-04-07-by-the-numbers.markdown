@@ -3,6 +3,7 @@ layout: post
 title:  "By The Numbers"
 date:   2013-04-07
 image:  codecracked.jpg
+summary: "WIM co-founder Kelly Hoey spoke at the Women’s Council Leadership Breakfast at JPMorgan Chase on April 3. The panel was moderated by Avis Yates-Rivers a member of the board of directors of National Center for Women & Information Technology)"
 categories: ""
 ---
 
@@ -17,7 +18,7 @@ From NCWIT, some shocking numbers:
 * 4% of computing workforce who were Asian women in 2011
 * 1% of computing workforce who were Hispanic women in 2011
 * 79% decline in the number of first-year undergraduate women interested in majoring in Computer Science between 2000 and 2011.
- 
+
 
 Add it up  - the computing crisis is happening now and the opportunity lost gets greater with each passing year. Let’s change these numbers before 2020.
 

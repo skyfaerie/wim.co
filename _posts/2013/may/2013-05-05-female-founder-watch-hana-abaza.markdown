@@ -3,6 +3,8 @@ layout: post
 title:  "Female Founder Watch: Hanna Abaza, Wedding Republic"
 date:   2013-05-05
 image:  hannaabaza.jpg
+summary: "Wedding Republic is a Kickstarter-style gift registry allowing couples to register for anything while guests collaborate on big-ticket gifts. Forget the toaster – register for the important things in life!
+"
 categories: "female founder watch"
 ---
 
@@ -12,7 +14,7 @@ People who have strength but in a nuanced way. It comes from their excitement, p
 
 **Why are you an entrepreneur?**
 
-I love problem solving - finding solutions (sometimes they’re simple and sometimes they’re messy and hacky) to help myself and the people around me. I’ve always been a big believer in not accepting the status quo, so if something sucks - fix it! 
+I love problem solving - finding solutions (sometimes they’re simple and sometimes they’re messy and hacky) to help myself and the people around me. I’ve always been a big believer in not accepting the status quo, so if something sucks - fix it!
 
 **How is your company different from your competitors?**
 
@@ -34,7 +36,7 @@ We bootstrapped up to a point and then raised an Angel round to scale the consum
 
 Three things:
 
-1. Don’t become a solution looking for a problem. If you lose sight of the problem it doesn’t matter how awesome your product might be. 
+1. Don’t become a solution looking for a problem. If you lose sight of the problem it doesn’t matter how awesome your product might be.
 
 2. Forget perfection. Launching a product that is 90% complete will tell you how the last 10% should look.
 
@@ -60,10 +62,10 @@ I can’t live without Tuex Deux (a dead simple to-do list app) and I’m a litt
 
 I move. If I’m having a hard time focusing or getting started on something I go to the gym, take a yoga class or even just a 15 minute walk. But if the cause of my lack of focus is fatigue - then I take a nap.
 
- 
+
 [Wedding Republic](https://www.weddingrepublic.com/) is a Kickstarter-style gift registry allowing couples to register for anything while guests collaborate on big-ticket gifts. Forget the toaster – register for the important things in life!
 
- ______________________________________________________                                                      
+ ______________________________________________________
 
-This post was created by Raine Dalton, WIM’s editorial and community innovation intern. Raine is passionate about finding creative ways to empower women globally through tech. In addition to WIM, Raine has written, tweeted, and posted for the Global Banking Alliance for Women, WITNESS, and 90.7 WFUV News. You can find her work at [www.rainedalton.com](www.rainedalton.com) or get in touch with her through Twitter @rainedalton, or by emailing [raine@wim.co](mailto:raine@wim.co).                                   
+This post was created by Raine Dalton, WIM’s editorial and community innovation intern. Raine is passionate about finding creative ways to empower women globally through tech. In addition to WIM, Raine has written, tweeted, and posted for the Global Banking Alliance for Women, WITNESS, and 90.7 WFUV News. You can find her work at [www.rainedalton.com](www.rainedalton.com) or get in touch with her through Twitter @rainedalton, or by emailing [raine@wim.co](mailto:raine@wim.co).
 
