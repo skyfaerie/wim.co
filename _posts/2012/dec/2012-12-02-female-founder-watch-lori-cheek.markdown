@@ -3,7 +3,8 @@ layout: post
 title:  "Female Founder Watch: Lori Cheek"
 date:   2012-12-02
 image: loricheek.jpg
-categories: "female founders" 
+summary: "Lori Cheek, Architect turned Entrepreneur, is the Founder and CEO of Cheekd.com. What’s Cheekd.com? It’s the reverse engineered dating site coined by the New York Times as \"the next generation of online dating\""
+categories: "female founders"
 ---
 
 Lori Cheek. Architect turned Entrepreneur, Founder and CEO of Cheekd.com. What’s Cheekd.com? It’s the reverse engineered dating site coined by the New York Times as *“the next generation of online dating.”*

@@ -3,6 +3,7 @@ layout: post
 title:  "Trending High Tech"
 date:   2012-08-29
 image: hightech.jpg
+summary: "Protect your laptop while looking good in this sleek eSleeve notebook computer case. It’s the perfect luggage and more for the globetrotting fashionista, traveling businessman, and everyone in between."
 categories: "welcome"
 ---
 

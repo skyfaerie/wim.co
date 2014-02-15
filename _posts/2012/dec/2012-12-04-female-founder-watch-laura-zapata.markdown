@@ -3,6 +3,7 @@ layout: post
 title:  "Female Founder Watch: Laura Zapata"
 date:   2012-12-04
 image: laurizapata.jpg
+summary: "Laura Zapata is a freelance digital strategist, contributor to Open Source Fashion Magazine, the founder and editor of Fashion Digital Daily, and the Co-Founder of The Future of Fashion Series."
 categories: "female founders"
 ---
 

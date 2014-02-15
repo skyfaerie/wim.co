@@ -3,7 +3,8 @@ layout: post
 title:  "5 Questions & Many Inspired Answers"
 date:   2012-12-08
 image: wim.jpg
-categories: 
+summary: "WIM's mentors give inspiring answers to 5 important questions. "
+categories:
 ---
 
 __Q:  What’s your resolution(s) for 2013?__

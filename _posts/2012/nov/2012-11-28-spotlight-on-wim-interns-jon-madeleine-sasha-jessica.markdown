@@ -3,11 +3,12 @@ layout: post
 title:  "Spotlight On: Wim Interns Jon, Madeleine, Sasha and Jessica "
 date:   2012-11-28
 image: logo.png
+summary: "WIM’s November 16 Founder’s Breakfast with guest Michelle Madhok was pulled off with the exceptional help of some F.I.T. interns. "
 categories: "female founders"
 ---
 
 
-WIM’s November 16 Founder’s Breakfast with guest Michelle Madhok was pulled off with the exceptional help of some F.I.T. interns. 
+WIM’s November 16 Founder’s Breakfast with guest Michelle Madhok was pulled off with the exceptional help of some F.I.T. interns.
 
 Our thanks to:
 

@@ -3,6 +3,8 @@ layout: post
 title: "Celebrating Female Founders"
 date: 2012-08-27
 image: plumalley.png
+summary: "Join Women Innovate Mobile (WIM) on Fashion’s Night Out (Thursday, September 6) when we celebrate the launch of Plum Alley and extraordinary female founders.
+"
 categories: "female founders"
 ---
 

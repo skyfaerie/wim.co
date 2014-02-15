@@ -3,7 +3,8 @@ layout: post
 title:  "The FinCapDev Competition"
 date:   2012-12-08
 image: fincapdev.png
-categories: 
+summary: "FinCapDev proposals are due at 6:00 PM ET on Monday, December 10, 2012! That’s just three days! Three days for you not only to build the next great personal finance app with the support of numerous resources, but also to take a shot at the $50,000 Grand Prize!"
+categories:
 ---
 
 FinCapDev proposals are due at 6:00 PM ET on **Monday, December 10, 2012**! That’s just three days! Three days for you not only to build the next great personal finance app with the support of numerous resources, but also to take a shot at the $50,000 Grand Prize!

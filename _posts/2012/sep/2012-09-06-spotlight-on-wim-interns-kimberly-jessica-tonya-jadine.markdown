@@ -3,6 +3,7 @@ layout: post
 title:  "Spotlight On: WIM Interns Kimberly, Jessica, Tonya and Jadine"
 date:   2012-09-10
 image: logo.png
+summary: "A few short weeks ago we started this blog and began interviewing women founders and innovators. The “we” refers to four amazing interns who came into our ecosystem this summer as a result of WEEN (Women in Entertainment Empowerment Network) and our friends at fashion startup, Lion’esque Style."
 categories: "spotlight on"
 ---
 

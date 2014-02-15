@@ -3,7 +3,9 @@ layout: post
 title:  "TechWomen Emerging Leader 2013 Program: Application Now Open"
 date:   2012-12-16
 image: techwomen.jpg
-categories: 
+summary: "Eligible TechWomen participants are women who are engaged or rising in professional careers that require significant expertise and knowledge of STEM fields and/or innovative application of these skills, and who already are –or show promise of being—role models for women and girls.
+"
+categories:
 ---
 
 Eligible TechWomen participants are women who are engaged or rising in professional careers that require significant expertise and knowledge of STEM fields and/or innovative application of these skills, and who already are –or show promise of being—role models for women and girls.

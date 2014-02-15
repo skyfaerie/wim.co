@@ -3,10 +3,11 @@ layout: post
 title: "Female Founder Watch: Alexandra Wilkis Wilson"
 date: 2012-08-27
 image: alexandra-wilkis-wilson.jpg
+summary: "Alexandra Wilkis Wilson, cofounder of Gilt Groupe, sits for an interview with WIM"
 categories: 'female founders'
 ---
 
-__Alexandra Wilkis Wilson__, 
+__Alexandra Wilkis Wilson__,
 _Co-Founder of Gilt Groupe_
 
 __Who inspires you?__

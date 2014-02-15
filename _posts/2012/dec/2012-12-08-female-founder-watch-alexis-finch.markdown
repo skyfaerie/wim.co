@@ -3,6 +3,7 @@ layout: post
 title:  "Female Founder Watch: Alexis Finch"
 date:   2012-12-08
 image: alexisfinch.jpg
+summary: "WIM catches up with mentor Alex Finch"
 categories: "female founders"
 ---
 

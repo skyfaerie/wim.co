@@ -3,6 +3,7 @@ layout: post
 title:  "Female Founder Watch: Kelly Stickel"
 date:   2012-08-30
 image: kellystickel.jpg
+summary: "Kelly Stickel, Founder and President of Remodista, sits for an interview with WIM"
 categories: "female founders"
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Women Innovate Mobile"
 date:   2012-08-26
 image: logo.png
+summary: "Innovate Mobile (WIM) is the first startup accelerator and mentorship-driven program designed for women-founded companies in mobile technology."
 categories: "welcome"
 ---
 

@@ -3,7 +3,9 @@ layout: post
 title:  "Female Founder Watch: Alex Depledge"
 date:   2012-12-06
 image: alexdepledge.jpg
-categories: 
+summary: "Alex Depledge is a co-founder of Teddle, a London-based startup growing services locally and matching trustworthy providers to busy customers.
+"
+categories:
 ---
 
 
