@@ -11,7 +11,7 @@ title: blog
 		{% for post in site.posts %}
 			<section id="blogpost" class="text-justify">
 				<div class="row">
-		    <div class="small-12 medium-5 large-4 columns">
+		    <div id="blog-img" class="small-12 medium-5 large-4 columns">
 			    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
 			  </div>
 
@@ -22,7 +22,36 @@ title: blog
 		  	</div>
 		  </div>
 			</section>
-
 		{% endfor %}
+
+
+		<!-- This loops through the paginated posts -->
+		<!-- {% for post in paginator.posts %}
+		  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		  <p class="author">
+		    <span class="date">{{ post.date }}</span>
+		  </p>
+		  <div class="content">
+		    {{ post.content }}
+		  </div>
+		{% endfor %} -->
+
+		<!-- Pagination links -->
+	<!-- 	<div class="pagination">
+		  {% if site.previous_page %}
+		    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+		  {% else %}
+		    <span class="previous">Previous</span>
+		  {% endif %}
+		  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		  {% if site.next_page %}
+		    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+		  {% else %}
+		    <span class="next ">Next</span>
+		  {% endif %}
+		</div> -->
+
+		<!-- <button id="more-blogs" href="#" class="radius text-center">See More Posts</button> -->
 	</div>
 </div>
+

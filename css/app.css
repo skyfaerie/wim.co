@@ -7989,24 +7989,29 @@ footer span {
 
 /* line 294, ../scss/app.scss */
 #blogpost {
-  margin-bottom: 1em;
+  margin-bottom: 3em;
 }
 /* line 297, ../scss/app.scss */
 #blogpost img {
   width: 100%;
 }
 
-/* line 306, ../scss/app.scss */
+/* line 302, ../scss/app.scss */
+#more-blogs {
+  width: 100%;
+}
+
+/* line 310, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 310, ../scss/app.scss */
+/* line 314, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 314, ../scss/app.scss */
+/* line 318, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;
