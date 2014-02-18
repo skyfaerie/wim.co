@@ -55,6 +55,8 @@ body {
 	background-color: #f8f8f8;
 }
 
+// h1, h2, h3, h4, h5, h6 { font-family: ;}
+
 a { color: #9A04C7; }
 a:hover { color: #670585; }
 
@@ -80,6 +82,10 @@ button:hover { background-color: #9A04C7; }
 .text-justify {
 	text-align: justify;
 }
+
+.gray { color: #ccc; }
+
+.white { color: #fff; }
 
 //////////////////////////////////////////////////////
 // HOMEPAGE

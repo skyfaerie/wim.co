@@ -7739,37 +7739,37 @@ body {
   background-color: #f8f8f8;
 }
 
-/* line 58, ../scss/app.scss */
+/* line 60, ../scss/app.scss */
 a {
   color: #9A04C7;
 }
 
-/* line 59, ../scss/app.scss */
+/* line 61, ../scss/app.scss */
 a:hover {
   color: #670585;
 }
 
-/* line 61, ../scss/app.scss */
+/* line 63, ../scss/app.scss */
 button {
   background-color: #670585;
 }
 
-/* line 62, ../scss/app.scss */
+/* line 64, ../scss/app.scss */
 button:hover {
   background-color: #9A04C7;
 }
 
-/* line 64, ../scss/app.scss */
+/* line 66, ../scss/app.scss */
 #main-wrapper {
   height: 100%;
 }
 
-/* line 68, ../scss/app.scss */
+/* line 70, ../scss/app.scss */
 .top-bar {
   background-color: #670585;
 }
 
-/* line 72, ../scss/app.scss */
+/* line 74, ../scss/app.scss */
 .mini-footer {
   text-align: center;
   padding: 1em;
@@ -7778,12 +7778,22 @@ button:hover {
   font-size: 10px;
 }
 
-/* line 80, ../scss/app.scss */
+/* line 82, ../scss/app.scss */
 .text-justify {
   text-align: justify;
 }
 
+/* line 86, ../scss/app.scss */
+.gray {
+  color: #ccc;
+}
+
 /* line 88, ../scss/app.scss */
+.white {
+  color: #fff;
+}
+
+/* line 94, ../scss/app.scss */
 .splash {
   min-height: 100%;
   background-image: url("../img/backgrounds/femalefounders1.jpg");
@@ -7794,71 +7804,71 @@ button:hover {
   color: #fff;
   box-shadow: 0 2px 9px 0 #333;
 }
-/* line 98, ../scss/app.scss */
+/* line 104, ../scss/app.scss */
 .splash .row {
   padding: 15em 0;
 }
 
-/* line 101, ../scss/app.scss */
+/* line 107, ../scss/app.scss */
 .main-section {
   min-height: 95%;
 }
 
-/* line 105, ../scss/app.scss */
+/* line 111, ../scss/app.scss */
 #highlights {
   padding-top: 3em;
 }
 
-/* line 109, ../scss/app.scss */
+/* line 115, ../scss/app.scss */
 .series {
   width: 80%;
   margin: 0 auto;
   padding-bottom: 2em;
 }
-/* line 114, ../scss/app.scss */
+/* line 120, ../scss/app.scss */
 .series img {
   width: 150px;
   margin: 0 auto;
   display: block;
 }
-/* line 120, ../scss/app.scss */
+/* line 126, ../scss/app.scss */
 .series .content {
   padding-top: 0.5em;
   max-width: 75%;
   margin: 0 auto;
   text-align: center;
 }
-/* line 126, ../scss/app.scss */
+/* line 132, ../scss/app.scss */
 .series .content h4 {
   text-align: center;
 }
 
 @media (min-width: 550px) {
-  /* line 131, ../scss/app.scss */
+  /* line 137, ../scss/app.scss */
   .series {
     width: 90%;
     margin: 0 auto;
     padding-bottom: 1em;
   }
-  /* line 136, ../scss/app.scss */
+  /* line 142, ../scss/app.scss */
   .series img {
     float: left;
     padding-right: 1em;
     display: inline-block;
     width: 175px;
   }
-  /* line 143, ../scss/app.scss */
+  /* line 149, ../scss/app.scss */
   .series .content {
     padding-top: 0;
     max-width: 100%;
     text-align: left;
   }
-  /* line 149, ../scss/app.scss */
+  /* line 155, ../scss/app.scss */
   .series .content h4 {
     text-align: left;
   }
 }
-/* line 154, ../scss/app.scss */
+/* line 160, ../scss/app.scss */
 #ecosystem {
   background-image: url("../img/backgrounds/nyc.jpg");
   background-repeat: no-repeat;
@@ -7866,7 +7876,7 @@ button:hover {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 161, ../scss/app.scss */
+/* line 167, ../scss/app.scss */
 #eco-content {
   margin: 0 auto;
   margin-top: 3em;
@@ -7876,46 +7886,46 @@ button:hover {
   padding: 3px 15px 3px 15px;
   color: #ccc;
 }
-/* line 170, ../scss/app.scss */
+/* line 176, ../scss/app.scss */
 #eco-content button {
   display: block;
   margin: 0 auto;
   margin-bottom: 2em;
 }
 
-/* line 177, ../scss/app.scss */
+/* line 183, ../scss/app.scss */
 #blog {
   padding-top: 3em;
   text-align: center;
 }
-/* line 181, ../scss/app.scss */
+/* line 187, ../scss/app.scss */
 #blog img {
   height: 200px;
 }
-/* line 185, ../scss/app.scss */
+/* line 191, ../scss/app.scss */
 #blog h5 {
   padding-top: 1em;
 }
 
-/* line 190, ../scss/app.scss */
+/* line 196, ../scss/app.scss */
 .blog {
   max-width: 300px;
   margin: 0 auto;
 }
 
-/* line 195, ../scss/app.scss */
+/* line 201, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
   padding-top: 3em;
   min-height: 80%;
 }
 
-/* line 201, ../scss/app.scss */
+/* line 207, ../scss/app.scss */
 .sponsors {
   margin-bottom: 6em;
 }
 
-/* line 203, ../scss/app.scss */
+/* line 209, ../scss/app.scss */
 .sponsor {
   display: inline-block;
   margin: 0 auto;
@@ -7924,12 +7934,12 @@ button:hover {
   width: 150px;
 }
 
-/* line 211, ../scss/app.scss */
+/* line 217, ../scss/app.scss */
 #potential {
   color: #555;
 }
 
-/* line 215, ../scss/app.scss */
+/* line 221, ../scss/app.scss */
 footer {
   position: relative;
   min-height: 50%;
@@ -7938,24 +7948,24 @@ footer {
   text-align: right;
 }
 
-/* line 223, ../scss/app.scss */
+/* line 229, ../scss/app.scss */
 .sm-color {
   padding-left: 4em;
   float: right;
   padding-right: 0.7em;
 }
-/* line 228, ../scss/app.scss */
+/* line 234, ../scss/app.scss */
 .sm-color li {
   margin: 0;
   padding-left: 7px;
 }
 
-/* line 234, ../scss/app.scss */
+/* line 240, ../scss/app.scss */
 #address {
   list-style-type: none;
 }
 
-/* line 238, ../scss/app.scss */
+/* line 244, ../scss/app.scss */
 footer span {
   position: absolute;
   bottom: 0;
@@ -7965,24 +7975,24 @@ footer span {
   padding-bottom: 1em;
 }
 
-/* line 252, ../scss/app.scss */
+/* line 258, ../scss/app.scss */
 .founder-bio img {
   padding-top: 1em;
 }
 
-/* line 261, ../scss/app.scss */
+/* line 267, ../scss/app.scss */
 #mentors {
   margin: 0 auto;
 }
 
-/* line 265, ../scss/app.scss */
+/* line 271, ../scss/app.scss */
 .mentor {
   width: 320px;
   height: 400px;
   margin-bottom: 30px;
 }
 
-/* line 271, ../scss/app.scss */
+/* line 277, ../scss/app.scss */
 .mentor-content {
   width: 300px;
   height: 400px;
@@ -7992,12 +8002,12 @@ footer span {
   -webkit-box-shadow: 0px 0px 1px 0px #d3d1d1;
   box-shadow: 0px 0px 1px 0px #d3d1d1;
 }
-/* line 281, ../scss/app.scss */
+/* line 287, ../scss/app.scss */
 .mentor-content img {
   width: 100%;
   height: 55%;
 }
-/* line 286, ../scss/app.scss */
+/* line 292, ../scss/app.scss */
 .mentor-content h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -8007,63 +8017,63 @@ footer span {
   background: #57267C;
 }
 
-/* line 300, ../scss/app.scss */
+/* line 306, ../scss/app.scss */
 #portfolio {
   min-height: 90%;
 }
 
-/* line 304, ../scss/app.scss */
+/* line 310, ../scss/app.scss */
 #ag-logo {
   padding-top: 2em;
   padding-bottom: 6em;
 }
 
-/* line 309, ../scss/app.scss */
+/* line 315, ../scss/app.scss */
 #ldly-logo {
   padding-bottom: 6em;
 }
 
-/* line 313, ../scss/app.scss */
+/* line 319, ../scss/app.scss */
 #sqlv-logo {
   padding-bottom: 2em;
 }
 
 /* INSIDE THE PORTFOLIO LINKS */
-/* line 319, ../scss/app.scss */
+/* line 325, ../scss/app.scss */
 .companies {
   display: block;
   min-height: 90%;
 }
-/* line 323, ../scss/app.scss */
+/* line 329, ../scss/app.scss */
 .companies img {
   padding: 1em 0;
 }
 
-/* line 332, ../scss/app.scss */
+/* line 338, ../scss/app.scss */
 #blogpost {
   margin-bottom: 3em;
 }
-/* line 335, ../scss/app.scss */
+/* line 341, ../scss/app.scss */
 #blogpost img {
   width: 100%;
 }
 
-/* line 340, ../scss/app.scss */
+/* line 346, ../scss/app.scss */
 #more-blogs {
   width: 100%;
 }
 
-/* line 348, ../scss/app.scss */
+/* line 354, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 352, ../scss/app.scss */
+/* line 358, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 356, ../scss/app.scss */
+/* line 362, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;
