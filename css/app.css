@@ -7997,52 +7997,63 @@ footer span {
   background: #57267C;
 }
 
-/* line 298, ../scss/app.scss */
+/* line 297, ../scss/app.scss */
 #portfolio {
   min-height: 90%;
 }
 
-/* line 302, ../scss/app.scss */
+/* line 301, ../scss/app.scss */
 #ag-logo {
   padding-top: 2em;
   padding-bottom: 6em;
 }
 
-/* line 307, ../scss/app.scss */
+/* line 306, ../scss/app.scss */
 #ldly-logo {
   padding-bottom: 6em;
 }
 
-/* line 311, ../scss/app.scss */
+/* line 310, ../scss/app.scss */
 #sqlv-logo {
   padding-bottom: 2em;
 }
 
-/* line 318, ../scss/app.scss */
+/* INSIDE THE PORTFOLIO LINKS */
+/* line 316, ../scss/app.scss */
+.companies {
+  display: block;
+  min-height: 90%;
+}
+/* line 320, ../scss/app.scss */
+.companies img {
+  padding: 1em 0;
+}
+
+/* line 329, ../scss/app.scss */
 #blogpost {
   margin-bottom: 3em;
 }
-/* line 321, ../scss/app.scss */
+/* line 332, ../scss/app.scss */
 #blogpost img {
   width: 100%;
 }
 
-/* line 326, ../scss/app.scss */
+/* line 337, ../scss/app.scss */
 #more-blogs {
   width: 100%;
 }
 
-/* line 334, ../scss/app.scss */
+/* line 345, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 338, ../scss/app.scss */
+/* line 349, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 342, ../scss/app.scss */
+/* line 353, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;
