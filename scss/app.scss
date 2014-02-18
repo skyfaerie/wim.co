@@ -55,6 +55,9 @@ body {
 	background-color: #f8f8f8;
 }
 
+a { color: #168c04; }
+a:hover { color: #168c04; }
+
 #main-wrapper {
 	height: 100%;
 }
@@ -121,7 +124,7 @@ body {
 	}
 }
 
-@media(min-width:550px){
+@media(min-width:550px) {
 	.series {
 		width: 90%;
 		margin: 0 auto;
@@ -206,7 +209,7 @@ body {
 	color: #555;
 }
 
-footer{
+footer {
 	position: relative;
 	min-height: 50%;
 	background-color: #000;
@@ -256,7 +259,7 @@ footer span {
 	margin: 0 auto;
 }
 
-.mentor{
+.mentor {
 	width: 320px;
 	height: 400px;
 	margin-bottom: 30px;
@@ -285,6 +288,15 @@ footer span {
 		height: 5px;
 		background: #57267C;
 	}
+}
+
+
+//////////////////////////////////////////////////////
+// PORTFOLIO
+//////////////////////////////////////////////////////
+
+#portfolio {
+	min-height:75%;
 }
 
 //////////////////////////////////////////////////////
