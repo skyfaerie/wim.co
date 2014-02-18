@@ -55,21 +55,24 @@ body {
 	background-color: #f8f8f8;
 }
 
-a { color: #168c04; }
-a:hover { color: #168c04; }
+a { color: #9A04C7; }
+a:hover { color: #670585; }
+
+button { background-color: #670585; }
+button:hover { background-color: #9A04C7; }
 
 #main-wrapper {
 	height: 100%;
 }
 
 .top-bar {
-	background-color: #502472;
+	background-color: #670585; //#502472;
 }
 
 .mini-footer {
 	text-align: center;
 	padding: 1em;
-	background-color: #502472;
+	background-color: #670585; //#502472;
 	color: #ccc;
 	font-size: 10px;
 }
