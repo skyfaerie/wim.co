@@ -71,6 +71,14 @@ button:hover { background-color: #9A04C7; }
 	background-color: #670585; //#502472;
 }
 
+// to get the .right li color change
+.top-bar-section li:not(.has-form) a:not(.button) {
+	background-color: #670585;
+	&:hover {
+		background-color: darken(#670585, 10%);
+	}
+}
+
 .mini-footer {
 	text-align: center;
 	padding: 1em;
@@ -86,6 +94,9 @@ button:hover { background-color: #9A04C7; }
 .gray { color: #ccc; }
 
 .white { color: #fff; }
+
+.purple { color: #670585; }
+
 
 //////////////////////////////////////////////////////
 // HOMEPAGE
@@ -338,7 +349,7 @@ footer span {
 #blogpost {
 	margin-bottom: 3em;
 
-	img {
+	img {  //images should be 300x250 ratio
 		width: 100%;
 	}
 }
@@ -346,6 +357,8 @@ footer span {
 #more-blogs {
 	width: 100%;
 }
+
+
 
 //////////////////////////////////////////////////////
 // PARTNERS
