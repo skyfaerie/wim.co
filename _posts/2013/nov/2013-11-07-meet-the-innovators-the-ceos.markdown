@@ -2,7 +2,7 @@
 layout: post
 title:  "Meet The Innovators: The CEOs"
 date:   2013-11-07
-image: soho_hero.jpg
+image: soho_hero.png
 summary: "Have you ever wondered what makes a startup CEO tick? Come join us at the Apple Retail Store in Soho at our final Meet the Innovators for 2013!"
 categories: "meet the innovators"
 ---
