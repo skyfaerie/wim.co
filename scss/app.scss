@@ -60,15 +60,19 @@ body {
 a { color: #9A04C7; }
 a:hover { color: #670585; }
 
-button { background-color: #670585; }
-button:hover { background-color: #9A04C7; }
+.button  {
+	background-color: #670585;
+	&:hover {
+		background-color: darken(#670585, 10%);
+	}
+}
 
 #main-wrapper {
 	height: 100%;
 }
 
 .top-bar {
-	background-color: #670585; //#502472;
+	background-color: #670585;
 }
 
 // to get the .right li color change
@@ -100,6 +104,7 @@ button:hover { background-color: #9A04C7; }
 .white { color: #fff; }
 
 .purple { color: #670585; }
+
 
 
 //////////////////////////////////////////////////////
@@ -193,7 +198,8 @@ button:hover { background-color: #9A04C7; }
 	padding: 3px 15px 3px 15px;
 	color: #ccc;
 
-	button {
+	.button {
+		max-width: 15em;
 		display: block;
 		margin: 0 auto;
 		margin-bottom: 2em;
@@ -363,9 +369,6 @@ footer span {
 	}
 }
 
-#more-blogs {
-	width: 100%;
-}
 
 //////////////////////////////////////////////////////
 // PARTNERS

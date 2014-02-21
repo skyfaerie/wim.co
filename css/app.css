@@ -7750,40 +7750,39 @@ a:hover {
 }
 
 /* line 63, ../scss/app.scss */
-button {
+.button {
   background-color: #670585;
 }
-
-/* line 64, ../scss/app.scss */
-button:hover {
-  background-color: #9A04C7;
+/* line 65, ../scss/app.scss */
+.button:hover {
+  background-color: #410354;
 }
 
-/* line 66, ../scss/app.scss */
+/* line 70, ../scss/app.scss */
 #main-wrapper {
   height: 100%;
 }
 
-/* line 70, ../scss/app.scss */
+/* line 74, ../scss/app.scss */
 .top-bar {
   background-color: #670585;
 }
 
-/* line 75, ../scss/app.scss */
+/* line 79, ../scss/app.scss */
 .top-bar-section li:not(.has-form) a:not(.button) {
   background-color: #670585;
 }
-/* line 77, ../scss/app.scss */
+/* line 81, ../scss/app.scss */
 .top-bar-section li:not(.has-form) a:not(.button):hover {
   background-color: #410354;
 }
 
-/* line 82, ../scss/app.scss */
+/* line 86, ../scss/app.scss */
 #logo {
   padding-top: 0.2em;
 }
 
-/* line 86, ../scss/app.scss */
+/* line 90, ../scss/app.scss */
 .mini-footer {
   text-align: center;
   padding: 1em;
@@ -7792,27 +7791,27 @@ button:hover {
   font-size: 10px;
 }
 
-/* line 94, ../scss/app.scss */
+/* line 98, ../scss/app.scss */
 .text-justify {
   text-align: justify;
 }
 
-/* line 98, ../scss/app.scss */
+/* line 102, ../scss/app.scss */
 .gray {
   color: #ccc;
 }
 
-/* line 100, ../scss/app.scss */
+/* line 104, ../scss/app.scss */
 .white {
   color: #fff;
 }
 
-/* line 102, ../scss/app.scss */
+/* line 106, ../scss/app.scss */
 .purple {
   color: #670585;
 }
 
-/* line 109, ../scss/app.scss */
+/* line 114, ../scss/app.scss */
 .splash {
   min-height: 100%;
   background-image: url("../img/backgrounds/femalefounders1.jpg");
@@ -7823,76 +7822,76 @@ button:hover {
   color: #fff;
   box-shadow: 0 2px 9px 0 #333;
 }
-/* line 119, ../scss/app.scss */
+/* line 124, ../scss/app.scss */
 .splash .row {
   padding: 15em 0;
 }
 
-/* line 122, ../scss/app.scss */
+/* line 127, ../scss/app.scss */
 .main-section {
   min-height: 95%;
 }
 
-/* line 126, ../scss/app.scss */
+/* line 131, ../scss/app.scss */
 .main-section-small {
   min-height: 60%;
 }
 
-/* line 131, ../scss/app.scss */
+/* line 136, ../scss/app.scss */
 #highlights {
   padding-top: 3em;
 }
 
-/* line 135, ../scss/app.scss */
+/* line 140, ../scss/app.scss */
 .series {
   width: 80%;
   margin: 0 auto;
   padding-bottom: 2em;
 }
-/* line 140, ../scss/app.scss */
+/* line 145, ../scss/app.scss */
 .series img {
   width: 150px;
   margin: 0 auto;
   display: block;
 }
-/* line 146, ../scss/app.scss */
+/* line 151, ../scss/app.scss */
 .series .content {
   padding-top: 0.5em;
   max-width: 75%;
   margin: 0 auto;
   text-align: center;
 }
-/* line 152, ../scss/app.scss */
+/* line 157, ../scss/app.scss */
 .series .content h4 {
   text-align: center;
 }
 
 @media (min-width: 550px) {
-  /* line 157, ../scss/app.scss */
+  /* line 162, ../scss/app.scss */
   .series {
     width: 90%;
     margin: 0 auto;
     padding-bottom: 1em;
   }
-  /* line 162, ../scss/app.scss */
+  /* line 167, ../scss/app.scss */
   .series img {
     float: left;
     padding-right: 1em;
     display: inline-block;
     width: 175px;
   }
-  /* line 169, ../scss/app.scss */
+  /* line 174, ../scss/app.scss */
   .series .content {
     padding-top: 0;
     max-width: 100%;
     text-align: left;
   }
-  /* line 175, ../scss/app.scss */
+  /* line 180, ../scss/app.scss */
   .series .content h4 {
     text-align: left;
   }
 }
-/* line 180, ../scss/app.scss */
+/* line 185, ../scss/app.scss */
 #ecosystem {
   background-image: url("../img/backgrounds/nyc.jpg");
   background-repeat: no-repeat;
@@ -7900,7 +7899,7 @@ button:hover {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 187, ../scss/app.scss */
+/* line 192, ../scss/app.scss */
 #eco-content {
   margin: 0 auto;
   margin-top: 3em;
@@ -7910,46 +7909,47 @@ button:hover {
   padding: 3px 15px 3px 15px;
   color: #ccc;
 }
-/* line 196, ../scss/app.scss */
-#eco-content button {
+/* line 201, ../scss/app.scss */
+#eco-content .button {
+  max-width: 15em;
   display: block;
   margin: 0 auto;
   margin-bottom: 2em;
 }
 
-/* line 203, ../scss/app.scss */
+/* line 209, ../scss/app.scss */
 #blog {
   padding-top: 3em;
   text-align: center;
 }
-/* line 207, ../scss/app.scss */
+/* line 213, ../scss/app.scss */
 #blog img {
   height: 200px;
 }
-/* line 211, ../scss/app.scss */
+/* line 217, ../scss/app.scss */
 #blog h5 {
   padding-top: 1em;
 }
 
-/* line 216, ../scss/app.scss */
+/* line 222, ../scss/app.scss */
 .blog {
   max-width: 300px;
   margin: 0 auto;
 }
 
-/* line 221, ../scss/app.scss */
+/* line 227, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
   padding-top: 3em;
   min-height: 80%;
 }
 
-/* line 227, ../scss/app.scss */
+/* line 233, ../scss/app.scss */
 .sponsors {
   margin-bottom: 6em;
 }
 
-/* line 229, ../scss/app.scss */
+/* line 235, ../scss/app.scss */
 .sponsor {
   display: inline-block;
   margin: 0 auto;
@@ -7958,12 +7958,12 @@ button:hover {
   width: 150px;
 }
 
-/* line 237, ../scss/app.scss */
+/* line 243, ../scss/app.scss */
 #potential {
   color: #555;
 }
 
-/* line 241, ../scss/app.scss */
+/* line 247, ../scss/app.scss */
 footer {
   position: relative;
   min-height: 50%;
@@ -7972,24 +7972,24 @@ footer {
   text-align: right;
 }
 
-/* line 249, ../scss/app.scss */
+/* line 255, ../scss/app.scss */
 .sm-color {
   padding-left: 4em;
   float: right;
   padding-right: 0.7em;
 }
-/* line 254, ../scss/app.scss */
+/* line 260, ../scss/app.scss */
 .sm-color li {
   margin: 0;
   padding-left: 7px;
 }
 
-/* line 260, ../scss/app.scss */
+/* line 266, ../scss/app.scss */
 #address {
   list-style-type: none;
 }
 
-/* line 264, ../scss/app.scss */
+/* line 270, ../scss/app.scss */
 footer span {
   position: absolute;
   bottom: 0;
@@ -7999,24 +7999,24 @@ footer span {
   padding-bottom: 1em;
 }
 
-/* line 278, ../scss/app.scss */
+/* line 284, ../scss/app.scss */
 .founder-bio img {
   padding-top: 1em;
 }
 
-/* line 287, ../scss/app.scss */
+/* line 293, ../scss/app.scss */
 #mentors {
   margin: 0 auto;
 }
 
-/* line 291, ../scss/app.scss */
+/* line 297, ../scss/app.scss */
 .mentor {
   width: 320px;
   height: 400px;
   margin-bottom: 30px;
 }
 
-/* line 297, ../scss/app.scss */
+/* line 303, ../scss/app.scss */
 .mentor-content {
   width: 300px;
   height: 400px;
@@ -8026,12 +8026,12 @@ footer span {
   -webkit-box-shadow: 0px 0px 1px 0px #d3d1d1;
   box-shadow: 0px 0px 1px 0px #d3d1d1;
 }
-/* line 307, ../scss/app.scss */
+/* line 313, ../scss/app.scss */
 .mentor-content img {
   width: 100%;
   height: 55%;
 }
-/* line 312, ../scss/app.scss */
+/* line 318, ../scss/app.scss */
 .mentor-content h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -8041,63 +8041,58 @@ footer span {
   background: #57267C;
 }
 
-/* line 326, ../scss/app.scss */
+/* line 332, ../scss/app.scss */
 #portfolio {
   min-height: 90%;
 }
 
-/* line 330, ../scss/app.scss */
+/* line 336, ../scss/app.scss */
 #ag-logo {
   padding-top: 2em;
   padding-bottom: 6em;
 }
 
-/* line 335, ../scss/app.scss */
+/* line 341, ../scss/app.scss */
 #ldly-logo {
   padding-bottom: 6em;
 }
 
-/* line 339, ../scss/app.scss */
+/* line 345, ../scss/app.scss */
 #sqlv-logo {
   padding-bottom: 2em;
 }
 
 /* INSIDE THE PORTFOLIO LINKS */
-/* line 345, ../scss/app.scss */
+/* line 351, ../scss/app.scss */
 .companies {
   display: block;
   min-height: 90%;
 }
-/* line 349, ../scss/app.scss */
+/* line 355, ../scss/app.scss */
 .companies img {
   padding: 1em 0;
 }
 
-/* line 358, ../scss/app.scss */
+/* line 364, ../scss/app.scss */
 #blogpost {
   margin-bottom: 3em;
 }
-/* line 361, ../scss/app.scss */
+/* line 367, ../scss/app.scss */
 #blogpost img {
   width: 100%;
 }
 
-/* line 366, ../scss/app.scss */
-#more-blogs {
-  width: 100%;
-}
-
-/* line 374, ../scss/app.scss */
+/* line 377, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 378, ../scss/app.scss */
+/* line 381, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 382, ../scss/app.scss */
+/* line 385, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;
