@@ -1,5 +1,5 @@
 name: Women Innovate Mobile
 pygments: true
-baseurl: /wim.co
+baseurl: ''
 paginate: 5
 paginate_path: "blog/page:num"
