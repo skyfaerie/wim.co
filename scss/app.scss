@@ -79,6 +79,10 @@ button:hover { background-color: #9A04C7; }
 	}
 }
 
+#logo {
+	padding-top: 0.2em;
+}
+
 .mini-footer {
 	text-align: center;
 	padding: 1em;
@@ -117,6 +121,11 @@ button:hover { background-color: #9A04C7; }
 
 .main-section {
 	min-height: 95%;
+}
+
+.main-section-small {
+	min-height: 60%;
+
 }
 
 #highlights {
