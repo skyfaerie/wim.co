@@ -247,7 +247,8 @@ a:hover { color: #670585; }
 footer {
 	position: relative;
 	min-height: 50%;
-	background-color: #000;
+	// background-color: #000;
+	background-color: darken(#670585, 10%);
 	color: #bbb;
 	text-align: right;
 }

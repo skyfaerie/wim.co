@@ -7967,29 +7967,29 @@ a:hover {
 footer {
   position: relative;
   min-height: 50%;
-  background-color: #000;
+  background-color: #410354;
   color: #bbb;
   text-align: right;
 }
 
-/* line 255, ../scss/app.scss */
+/* line 256, ../scss/app.scss */
 .sm-color {
   padding-left: 4em;
   float: right;
   padding-right: 0.7em;
 }
-/* line 260, ../scss/app.scss */
+/* line 261, ../scss/app.scss */
 .sm-color li {
   margin: 0;
   padding-left: 7px;
 }
 
-/* line 266, ../scss/app.scss */
+/* line 267, ../scss/app.scss */
 #address {
   list-style-type: none;
 }
 
-/* line 270, ../scss/app.scss */
+/* line 271, ../scss/app.scss */
 footer span {
   position: absolute;
   bottom: 0;
@@ -7999,24 +7999,24 @@ footer span {
   padding-bottom: 1em;
 }
 
-/* line 284, ../scss/app.scss */
+/* line 285, ../scss/app.scss */
 .founder-bio img {
   padding-top: 1em;
 }
 
-/* line 293, ../scss/app.scss */
+/* line 294, ../scss/app.scss */
 #mentors {
   margin: 0 auto;
 }
 
-/* line 297, ../scss/app.scss */
+/* line 298, ../scss/app.scss */
 .mentor {
   width: 320px;
   height: 400px;
   margin-bottom: 30px;
 }
 
-/* line 303, ../scss/app.scss */
+/* line 304, ../scss/app.scss */
 .mentor-content {
   width: 300px;
   height: 400px;
@@ -8026,12 +8026,12 @@ footer span {
   -webkit-box-shadow: 0px 0px 1px 0px #d3d1d1;
   box-shadow: 0px 0px 1px 0px #d3d1d1;
 }
-/* line 313, ../scss/app.scss */
+/* line 314, ../scss/app.scss */
 .mentor-content img {
   width: 100%;
   height: 55%;
 }
-/* line 318, ../scss/app.scss */
+/* line 319, ../scss/app.scss */
 .mentor-content h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -8041,63 +8041,63 @@ footer span {
   background: #57267C;
 }
 
-/* line 332, ../scss/app.scss */
+/* line 333, ../scss/app.scss */
 #portfolio {
   min-height: 90%;
 }
 
-/* line 336, ../scss/app.scss */
+/* line 337, ../scss/app.scss */
 #ag-logo {
   padding-top: 2em;
   padding-bottom: 6em;
 }
 
-/* line 341, ../scss/app.scss */
+/* line 342, ../scss/app.scss */
 #ldly-logo {
   padding-bottom: 6em;
 }
 
-/* line 345, ../scss/app.scss */
+/* line 346, ../scss/app.scss */
 #sqlv-logo {
   padding-bottom: 2em;
 }
 
 /* INSIDE THE PORTFOLIO LINKS */
-/* line 351, ../scss/app.scss */
+/* line 352, ../scss/app.scss */
 .companies {
   display: block;
   min-height: 90%;
 }
-/* line 355, ../scss/app.scss */
+/* line 356, ../scss/app.scss */
 .companies img {
   padding: 1em 0;
 }
 
-/* line 364, ../scss/app.scss */
+/* line 365, ../scss/app.scss */
 #blogpost {
   margin-bottom: 3em;
 }
-/* line 367, ../scss/app.scss */
+/* line 368, ../scss/app.scss */
 #blogpost img {
   width: 100%;
 }
 
-/* line 372, ../scss/app.scss */
+/* line 373, ../scss/app.scss */
 .next {
   float: right;
 }
 
-/* line 380, ../scss/app.scss */
+/* line 381, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 384, ../scss/app.scss */
+/* line 385, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 388, ../scss/app.scss */
+/* line 389, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;
