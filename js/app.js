@@ -14,3 +14,6 @@ $(function(){
   });
 });
 
+/*$( "#more-blogs" ).click(function() {
+  // display 10 more older posts
+});*/

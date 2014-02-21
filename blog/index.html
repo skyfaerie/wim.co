@@ -8,50 +8,38 @@ title: blog
 		<h1>BLOG</h1>
 		<p>Read our blog to keep up with stuff</p>
 
-		{% for post in site.posts %}
-			<section id="blogpost" class="text-justify">
+		<!-- This loops through the paginated posts -->
+		{% for post in paginator.posts %}
+		  <section id="blogpost" class="text-justify">
 				<div class="row">
-		    <div class="small-12 medium-5 large-4 columns">
-			   	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-			  </div>
+				  <div class="small-12 medium-5 large-4 columns">
+				   	<img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+				  </div>
 
-		    <div class="small-12 medium-7 large-8 columns">
-		    	<a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
-		    	<p>{{ site.baseurl }}{{ post.summary }}</p>
-		    	<p>{{ post.date |  date: "%B %d, %Y "}}</p>
-		  	</div>
-		  </div>
+				  <div class="small-12 medium-7 large-8 columns">
+				  	<a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
+				  	<p>{{ site.baseurl }}{{ post.summary }}</p>
+				  	<p>{{ post.date |  date: "%B %d, %Y "}}</p>
+					</div>
+				</div>
 			</section>
 		{% endfor %}
 
 
-		<!-- This loops through the paginated posts -->
-		<!-- {% for post in paginator.posts %}
-		  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		  <p class="author">
-		    <span class="date">{{ post.date }}</span>
-		  </p>
-		  <div class="content">
-		    {{ post.content }}
-		  </div>
-		{% endfor %} -->
-
 		<!-- Pagination links -->
-	<!-- 	<div class="pagination">
-		  {% if site.previous_page %}
-		    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+		<div class="pagination">
+		  {% if paginator.previous_page %}
+		    <a href="{{ site.baseurl }}/blog/page{{ paginator.previous_page }}" class="previous">Previous</a>
 		  {% else %}
 		    <span class="previous">Previous</span>
 		  {% endif %}
 		  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-		  {% if site.next_page %}
-		    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+		  {% if paginator.next_page %}
+		    <a href="{{ site.baseurl }}/blog/page{{ paginator.next_page }}" class="next">Next</a>
 		  {% else %}
 		    <span class="next ">Next</span>
 		  {% endif %}
-		</div> -->
-
-		<!-- <button id="more-blogs" href="#" class="radius text-center">See More Posts</button> -->
+		</div>
 	</div>
 </div>
 
