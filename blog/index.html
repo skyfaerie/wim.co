@@ -25,19 +25,14 @@ title: blog
 			</section>
 		{% endfor %}
 
-
 		<!-- Pagination links -->
 		<div class="pagination">
 		  {% if paginator.previous_page %}
-		    <a href="{{ site.baseurl }}/blog/page{{ paginator.previous_page }}" class="previous button tiny radius">Previous</a>
-		  {% else %}
-		    <span class="previous">Previous</span>
+		    <a href="{{ site.baseurl }}/blog/page{{ paginator.previous_page }}" class="previous button tiny radius">&lt;&lt;</a>
 		  {% endif %}
-		  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
 		  {% if paginator.next_page %}
-		    <a href="{{ site.baseurl }}/blog/page{{ paginator.next_page }}" class="next button tiny radius">Next</a>
-		  {% else %}
-		    <span class="next ">Next</span>
+		    <a href="{{ site.baseurl }}/blog/page{{ paginator.next_page }}" class="next button tiny radius">&gt;&gt;</a>
 		  {% endif %}
 		</div>
 	</div>
