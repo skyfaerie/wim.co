@@ -1,5 +1,23 @@
-@import url("http://fonts.googleapis.com/css?family=Spinnaker");
-/* line 11, ../scss/typography.scss */
-font-family {
-  font-family: 'Spinnaker', sans-serif;
+@import url("http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic");
+@import url("http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic");
+/* line 4, ../scss/typography.scss */
+html {
+  font-family: 'Cabin', sans-serif;
+  font-size: 12pt;
+}
+
+/* line 9, ../scss/typography.scss */
+body {
+  font-family: 'Cabin', sans-serif;
+  font-size: 12pt;
+}
+
+/* line 14, ../scss/typography.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+/* line 18, ../scss/typography.scss */
+p {
+  font-family: 'Cabin', sans-serif;
 }

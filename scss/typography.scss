@@ -1,14 +1,20 @@
-@import url("http://fonts.googleapis.com/css?family=Spinnaker");
+@import url("http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic");
+@import url("http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic");
 
-
-
-
-
-
-
-
-
-font-family {
-	font-family: 'Spinnaker', sans-serif;
+html {
+	font-family: 'Cabin', sans-serif;
+	font-size: 12pt;
 }
 
+body {
+	font-family: 'Cabin', sans-serif;
+	font-size: 12pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'PT Sans', sans-serif;
+}
+
+p {
+	font-family: 'Cabin', sans-serif;
+}
