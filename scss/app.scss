@@ -129,10 +129,13 @@ a:hover { color: #670585; }
 	background-repeat: no-repeat;
 	background-position-x: center;
 	text-align: center;
-	color: #fff;
 	box-shadow: 0 2px 9px 0 #333;
 
 	.row { padding: 15em 0; }
+}
+
+#tag {
+	h2 { color: #fefefe; }
 }
 
 .main-section {
