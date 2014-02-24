@@ -61,11 +61,12 @@ p {
   line-height: 1.214em;
 }
 
-/* line 56, ../scss/typography.scss */
-#tag h1 {
+/* line 55, ../scss/typography.scss */
+.big-font {
   font-size: 4em;
   line-height: 1.618em;
 }
+
 /* line 61, ../scss/typography.scss */
 #tag h2 {
   font-size: 1.618em;

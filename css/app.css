@@ -6498,93 +6498,12 @@ blockquote p {
     font-size: 1.4375rem;
   }
 }
->>>>>>> fonts
 /*
-Syntax error: File to import not found or unreadable: typography.
-              Load paths:
-                /Users/AGreen/freelance/wim.co/scss
-                /Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/frameworks/blueprint/stylesheets
-                /Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/frameworks/compass/stylesheets
-                /Users/AGreen/freelance/wim.co/bower_components/foundation/scss
-                Compass::SpriteImporter
-        on line 3 of /Users/AGreen/freelance/wim.co/scss/app.scss
-
-1: /Users/AGreen/freelance/wim.co/scss/app.scss
-
-Backtrace:
-/Users/AGreen/freelance/wim.co/scss/app.scss:3
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/import_node.rb:67:in `rescue in import'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/import_node.rb:45:in `import'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/import_node.rb:28:in `imported_file'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/import_node.rb:37:in `css_import?'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:217:in `visit_import'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `map'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `visit_children'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `block in visit'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:128:in `visit_root'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:7:in `visit'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/tree/root_node.rb:20:in `render'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/engine.rb:315:in `_render'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.12/lib/sass/engine.rb:262:in `render'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/logger.rb:45:in `red'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:138:in `compile'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:103:in `block (2 levels) in run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `each'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `block in run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:147:in `recompile'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:95:in `block (4 levels) in perform'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/path.rb:73:in `call'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/path.rb:73:in `run_callback'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/path.rb:55:in `callback_action'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/path.rb:39:in `delete'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/state/directory.rb:32:in `block in deleted'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/state/directory.rb:31:in `each'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/state/directory.rb:31:in `deleted'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/state/directory.rb:16:in `refresh'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:30:in `block in temporary_multipath_handler'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:27:in `each'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:27:in `temporary_multipath_handler'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:17:in `block (2 levels) in run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:16:in `each'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:16:in `block in run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/rb-fsevent-0.9.4/lib/rb-fsevent/fsevent.rb:45:in `call'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/rb-fsevent-0.9.4/lib/rb-fsevent/fsevent.rb:45:in `run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:20:in `run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm/monitor.rb:26:in `run'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/fssm-0.2.10/lib/fssm.rb:70:in `monitor'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:87:in `perform'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:15:in `run!'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/bin/compass:44:in `call'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/bin/compass:23:in `load'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/bin/compass:23:in `<main>'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `eval'
-/Users/AGreen/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `<main>'
+ * Print styles.
+ *
+ * Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+ * Credit to Paul Irish and HTML5 Boilerplate (html5boilerplate.com)
 */
-<<<<<<< HEAD
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Syntax error: File to import not found or unreadable: typography.\A               Load paths:\A                 /Users/AGreen/freelance/wim.co/scss\A                 /Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/frameworks/blueprint/stylesheets\A                 /Users/AGreen/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/frameworks/compass/stylesheets\A                 /Users/AGreen/freelance/wim.co/bower_components/foundation/scss\A                 Compass::SpriteImporter\A         on line 3 of /Users/AGreen/freelance/wim.co/scss/app.scss\A \A 1: /Users/AGreen/freelance/wim.co/scss/app.scss"; }
-=======
 /* line 471, ../bower_components/foundation/scss/foundation/components/_type.scss */
 .print-only {
   display: none !important;
@@ -7870,11 +7789,12 @@ p {
   line-height: 1.214em;
 }
 
-/* line 56, ../scss/typography.scss */
-#tag h1 {
+/* line 55, ../scss/typography.scss */
+.big-font {
   font-size: 4em;
   line-height: 1.618em;
 }
+
 /* line 61, ../scss/typography.scss */
 #tag h2 {
   font-size: 1.618em;
@@ -8040,32 +7960,7 @@ a:hover {
   text-align: center;
 }
 
-@media (min-width: 550px) {
-  /* line 176, ../scss/app.scss */
-  .series {
-    width: 90%;
-    margin: 0 auto;
-    padding-bottom: 1em;
-  }
-  /* line 181, ../scss/app.scss */
-  .series img {
-    float: left;
-    padding-right: 1em;
-    display: inline-block;
-    width: 175px;
-  }
-  /* line 188, ../scss/app.scss */
-  .series .content {
-    padding-top: 0;
-    max-width: 100%;
-    text-align: left;
-  }
-  /* line 194, ../scss/app.scss */
-  .series .content h4 {
-    text-align: left;
-  }
-}
-/* line 199, ../scss/app.scss */
+/* line 175, ../scss/app.scss */
 #ecosystem {
   background-image: url("../img/backgrounds/nyc.jpg");
   background-repeat: no-repeat;
@@ -8073,7 +7968,7 @@ a:hover {
   box-shadow: 0 2px 13px 3px #333;
 }
 
-/* line 206, ../scss/app.scss */
+/* line 182, ../scss/app.scss */
 #eco-content {
   margin: 0 auto;
   margin-top: 3em;
@@ -8083,7 +7978,7 @@ a:hover {
   padding: 3px 15px 3px 15px;
   color: #ccc;
 }
-/* line 215, ../scss/app.scss */
+/* line 191, ../scss/app.scss */
 #eco-content .button {
   max-width: 15em;
   display: block;
@@ -8091,39 +7986,39 @@ a:hover {
   margin-bottom: 2em;
 }
 
-/* line 223, ../scss/app.scss */
+/* line 199, ../scss/app.scss */
 #blog {
   padding-top: 3em;
   text-align: center;
 }
-/* line 227, ../scss/app.scss */
+/* line 203, ../scss/app.scss */
 #blog img {
   height: 200px;
 }
-/* line 231, ../scss/app.scss */
+/* line 207, ../scss/app.scss */
 #blog h5 {
   padding-top: 1em;
 }
 
-/* line 236, ../scss/app.scss */
+/* line 212, ../scss/app.scss */
 .blog {
   max-width: 300px;
   margin: 0 auto;
 }
 
-/* line 241, ../scss/app.scss */
+/* line 217, ../scss/app.scss */
 #sponsors {
   box-shadow: 0 2px 13px 3px #333;
   padding-top: 3em;
   min-height: 80%;
 }
 
-/* line 247, ../scss/app.scss */
+/* line 223, ../scss/app.scss */
 .sponsors {
   margin-bottom: 6em;
 }
 
-/* line 249, ../scss/app.scss */
+/* line 225, ../scss/app.scss */
 .sponsor {
   display: inline-block;
   margin: 0 auto;
@@ -8132,38 +8027,35 @@ a:hover {
   width: 150px;
 }
 
-/* line 257, ../scss/app.scss */
+/* line 233, ../scss/app.scss */
 #potential {
   color: #555;
 }
 
-/* line 261, ../scss/app.scss */
+/* line 237, ../scss/app.scss */
 footer {
   position: relative;
   min-height: 50%;
   background-color: #410354;
   color: #bbb;
-  text-align: right;
 }
 
-/* line 270, ../scss/app.scss */
+/* line 245, ../scss/app.scss */
 .sm-color {
-  padding-left: 4em;
-  float: right;
-  padding-right: 0.7em;
+  padding-left: 3em;
 }
-/* line 275, ../scss/app.scss */
+/* line 248, ../scss/app.scss */
 .sm-color li {
   margin: 0;
   padding-left: 7px;
 }
 
-/* line 281, ../scss/app.scss */
+/* line 254, ../scss/app.scss */
 #address {
   list-style-type: none;
 }
 
-/* line 285, ../scss/app.scss */
+/* line 258, ../scss/app.scss */
 footer span {
   position: absolute;
   bottom: 0;
@@ -8173,24 +8065,70 @@ footer span {
   padding-bottom: 1em;
 }
 
-/* line 299, ../scss/app.scss */
+/* line 267, ../scss/app.scss */
+.contact-footer {
+  padding-left: 0.3em;
+}
+
+@media (min-width: 550px) {
+  /* line 272, ../scss/app.scss */
+  .series {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 1em;
+  }
+  /* line 277, ../scss/app.scss */
+  .series img {
+    float: left;
+    padding-right: 1em;
+    display: inline-block;
+    width: 175px;
+  }
+  /* line 284, ../scss/app.scss */
+  .series .content {
+    padding-top: 0;
+    max-width: 100%;
+    text-align: left;
+  }
+  /* line 290, ../scss/app.scss */
+  .series .content h4 {
+    text-align: left;
+  }
+
+  /* line 294, ../scss/app.scss */
+  footer {
+    text-align: right;
+  }
+
+  /* line 298, ../scss/app.scss */
+  .sm-color {
+    padding-right: 0.7em;
+    float: right;
+  }
+
+  /* line 303, ../scss/app.scss */
+  .contact-footer {
+    padding-left: 0;
+  }
+}
+/* line 313, ../scss/app.scss */
 .founder-bio img {
   padding-top: 1em;
 }
 
-/* line 308, ../scss/app.scss */
+/* line 322, ../scss/app.scss */
 #mentors {
   margin: 0 auto;
 }
 
-/* line 312, ../scss/app.scss */
+/* line 326, ../scss/app.scss */
 .mentor {
   width: 320px;
   height: 400px;
   margin-bottom: 30px;
 }
 
-/* line 318, ../scss/app.scss */
+/* line 332, ../scss/app.scss */
 .mentor-content {
   width: 300px;
   height: 400px;
@@ -8200,12 +8138,12 @@ footer span {
   -webkit-box-shadow: 0px 0px 1px 0px #d3d1d1;
   box-shadow: 0px 0px 1px 0px #d3d1d1;
 }
-/* line 328, ../scss/app.scss */
+/* line 342, ../scss/app.scss */
 .mentor-content img {
   width: 100%;
   height: 55%;
 }
-/* line 333, ../scss/app.scss */
+/* line 347, ../scss/app.scss */
 .mentor-content h3:after {
   content: "";
   margin: 5px auto 20px;
@@ -8215,63 +8153,63 @@ footer span {
   background: #57267C;
 }
 
-/* line 347, ../scss/app.scss */
+/* line 361, ../scss/app.scss */
 #portfolio {
   min-height: 90%;
 }
 
-/* line 351, ../scss/app.scss */
+/* line 365, ../scss/app.scss */
 #ag-logo {
   padding-top: 2em;
   padding-bottom: 6em;
 }
 
-/* line 356, ../scss/app.scss */
+/* line 370, ../scss/app.scss */
 #ldly-logo {
   padding-bottom: 6em;
 }
 
-/* line 360, ../scss/app.scss */
+/* line 374, ../scss/app.scss */
 #sqlv-logo {
   padding-bottom: 2em;
 }
 
 /* INSIDE THE PORTFOLIO LINKS */
-/* line 366, ../scss/app.scss */
+/* line 380, ../scss/app.scss */
 .companies {
   display: block;
   min-height: 90%;
 }
-/* line 370, ../scss/app.scss */
+/* line 384, ../scss/app.scss */
 .companies img {
   padding: 1em 0;
 }
 
-/* line 379, ../scss/app.scss */
+/* line 393, ../scss/app.scss */
 #blogpost {
   margin-bottom: 3em;
 }
-/* line 382, ../scss/app.scss */
+/* line 396, ../scss/app.scss */
 #blogpost img {
   width: 100%;
 }
 
-/* line 387, ../scss/app.scss */
+/* line 401, ../scss/app.scss */
 .next {
   float: right;
 }
 
-/* line 395, ../scss/app.scss */
+/* line 409, ../scss/app.scss */
 #partners {
   margin: 0 auto;
 }
 
-/* line 399, ../scss/app.scss */
+/* line 413, ../scss/app.scss */
 .partner {
   width: 200px;
   height: 200px;
 }
-/* line 403, ../scss/app.scss */
+/* line 417, ../scss/app.scss */
 .partner img {
   width: 150px;
   height: 150px;

@@ -172,30 +172,6 @@ a:hover { color: #670585; }
 	}
 }
 
-@media(min-width:550px) {
-	.series {
-		width: 90%;
-		margin: 0 auto;
-		padding-bottom: 1em;
-
-		img {
-			float: left;
-			padding-right: 1em;
-			display: inline-block;
-			width: 175px;
-		}
-
-		.content {
-			padding-top: 0;
-			max-width: 100%;
-			// margin: 0 auto;
-			text-align: left;
-
-			h4 { text-align: left; }
-		}
-	}
-}
-
 #ecosystem {
 	background-image: url('../img/backgrounds/nyc.jpg');
 	background-repeat: no-repeat;
@@ -264,13 +240,10 @@ footer {
 	// background-color: #000;
 	background-color: darken(#670585, 10%);
 	color: #bbb;
-	text-align: right;
 }
 
 .sm-color {
-	padding-left: 4em;
-	float: right;
-	padding-right: 0.7em;
+		padding-left: 3em;
 
 	li {
 		margin: 0;
@@ -289,6 +262,47 @@ footer span {
 	font-size: 0.666em;
 	text-align: left;
 	padding-bottom: 1em;
+}
+
+.contact-footer{
+	padding-left: 0.3em;
+}
+
+@media(min-width:550px) {
+	.series {
+		width: 90%;
+		margin: 0 auto;
+		padding-bottom: 1em;
+
+		img {
+			float: left;
+			padding-right: 1em;
+			display: inline-block;
+			width: 175px;
+		}
+
+		.content {
+			padding-top: 0;
+			max-width: 100%;
+			// margin: 0 auto;
+			text-align: left;
+
+			h4 { text-align: left; }
+		}
+	}
+
+	footer {
+		text-align: right;
+	}
+
+	.sm-color {
+		padding-right: 0.7em;
+		float: right;
+	}
+
+		.contact-footer{
+		padding-left: 0;
+	}
 }
 
 //////////////////////////////////////////////////////
