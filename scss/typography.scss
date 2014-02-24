@@ -13,8 +13,41 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 1.963em;
+	line-height: 2.618em;
+}
+
+h2 {
+	font-size: 1.618em;
+	line-height: 1.963em;
+}
+
+h3 {
+	font-size: 1.214em;
+	line-height: 1.618em;
+}
+
+h4 {
+	font-size: 1em;
+	line-height: 1.214em;
+}
+
+h5 {
+	font-size: 0.75em;
+	line-height: 1em;
+}
+
+h6 {
+	font-size: 0.618em;
+	line-height: 0.75em;
 }
 
 p {
 	font-family: 'Cabin', sans-serif;
+	font-size: 1em;
+	line-height: 1.214em;
 }
