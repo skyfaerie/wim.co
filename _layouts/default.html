@@ -1,29 +1,28 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>{{ page.title }}</title>
+		<meta name="viewport" content="width=device-width">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
-    </head>
-    <body>
-      <div id="main-wrapper">
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
+	</head>
+	<body>
+	  <div id="main-wrapper">
 
-        {% include header.html %}
+		{% include header.html %}
 
-        {{ content }}
+		{{ content }}
 
-        {% include minifooter.html %}
+		{% include minifooter.html %}
 
-      </div><!---/main-wrapper-->
-    </body>
+	  </div><!---/main-wrapper-->
+	</body>
 
-    <script src="{{ site.baseurl }}/bower_components/jquery/jquery.js"></script>
-    <script src="{{ site.baseurl }}/bower_components/foundation/js/foundation.min.js"></script>
-    <script src="{{ site.baseurl }}/bower_components/modernizr/modernizr.js"></script>
-    <script src="{{ site.baseurl }}/js/app.js"></script>
-    <script src="{{ site.baseurl }}/js/masonry.pkgd.min.js"></script>
+	<script src="{{ site.baseurl }}/bower_components/jquery/jquery.js"></script>
+	<script src="{{ site.baseurl }}/bower_components/foundation/js/foundation.min.js"></script>
+	<script src="{{ site.baseurl }}/bower_components/modernizr/modernizr.js"></script>
+	<script src="{{ site.baseurl }}/js/masonry.pkgd.min.js"></script>
+	<script src="{{ site.baseurl }}/js/app.js"></script>
 </html>

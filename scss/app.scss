@@ -235,11 +235,17 @@ a:hover { color: #670585; }
 }
 
 footer {
+	z-index: 1000;
 	position: relative;
-	min-height: 50%;
-	// background-color: #000;
-	background-color: darken(#670585, 10%);
-	color: #bbb;
+	min-height: 20em;
+	margin-bottom: -20em;
+	// background-color: darken(#670585, 10%);
+	background-color: rgba(0,0,0, 0.6);
+	color: #ccc;
+}
+
+#map-canvas {
+	min-height: 20em;
 }
 
 .sm-color {
@@ -258,7 +264,7 @@ footer {
 footer span {
   position: absolute;
 	bottom: 0;
-	left: 5%;
+	left: 10%;
 	font-size: 0.666em;
 	text-align: left;
 	padding-bottom: 1em;
