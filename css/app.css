@@ -7901,41 +7901,6 @@ a:hover {
   color: #670585;
 }
 
-/* line 125, ../scss/app.scss */
-.splash {
-  min-height: 100%;
-  background-image: url("../img/backgrounds/femalefounders1.jpg");
-  background-color: #ccc;
-  background-repeat: no-repeat;
-  background-position-x: center;
-  text-align: center;
-  box-shadow: 0 2px 9px 0 #333;
-}
-/* line 134, ../scss/app.scss */
-.splash .row {
-  padding: 15em 0;
-}
-
-/* line 138, ../scss/app.scss */
-#tag h2 {
-  color: #fefefe;
-}
-
-/* line 141, ../scss/app.scss */
-.main-section {
-  min-height: 95%;
-}
-
-/* line 145, ../scss/app.scss */
-.main-section-small {
-  min-height: 60%;
-}
-
-/* line 150, ../scss/app.scss */
-#highlights {
-  padding-top: 3em;
-}
-
 /* line 154, ../scss/app.scss */
 .series {
   width: 80%;
@@ -7960,23 +7925,9 @@ a:hover {
   text-align: center;
 }
 
-/* line 175, ../scss/app.scss */
-#ecosystem {
-  background-image: url("../img/backgrounds/nyc.jpg");
-  background-repeat: no-repeat;
-  background-position-x: center;
-  box-shadow: 0 2px 13px 3px #333;
-}
-
 /* line 182, ../scss/app.scss */
 #eco-content {
-  margin: 0 auto;
-  margin-top: 3em;
   background-color: rgba(0, 0, 0, 0.5);
-  max-width: 75%;
-  border-radius: 1em;
-  padding: 3px 15px 3px 15px;
-  color: #ccc;
 }
 /* line 191, ../scss/app.scss */
 #eco-content .button {
@@ -7986,36 +7937,15 @@ a:hover {
   margin-bottom: 2em;
 }
 
-/* line 199, ../scss/app.scss */
-#blog {
-  padding-top: 3em;
-  text-align: center;
-}
 /* line 203, ../scss/app.scss */
 #blog img {
   height: 200px;
-}
-/* line 207, ../scss/app.scss */
-#blog h5 {
-  padding-top: 1em;
 }
 
 /* line 212, ../scss/app.scss */
 .blog {
   max-width: 300px;
   margin: 0 auto;
-}
-
-/* line 217, ../scss/app.scss */
-#sponsors {
-  box-shadow: 0 2px 13px 3px #333;
-  padding-top: 3em;
-  min-height: 80%;
-}
-
-/* line 223, ../scss/app.scss */
-.sponsors {
-  margin-bottom: 6em;
 }
 
 /* line 225, ../scss/app.scss */
@@ -8078,30 +8008,6 @@ footer span {
 }
 
 @media (min-width: 550px) {
-  /* line 278, ../scss/app.scss */
-  .series {
-    width: 90%;
-    margin: 0 auto;
-    padding-bottom: 1em;
-  }
-  /* line 283, ../scss/app.scss */
-  .series img {
-    float: left;
-    padding-right: 1em;
-    display: inline-block;
-    width: 175px;
-  }
-  /* line 290, ../scss/app.scss */
-  .series .content {
-    padding-top: 0;
-    max-width: 100%;
-    text-align: left;
-  }
-  /* line 296, ../scss/app.scss */
-  .series .content h4 {
-    text-align: left;
-  }
-
   /* line 300, ../scss/app.scss */
   footer {
     text-align: right;
