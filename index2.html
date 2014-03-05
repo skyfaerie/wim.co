@@ -1,0 +1,151 @@
+---
+layout: main
+title: Women Innovate Mobile
+---
+
+<section class="splash">
+	<img id="wimlogo" src = "{{ site.baseurl }}/img/logo/logo2.png" alt="wim logo">
+
+	<div class="row">
+		<div id="tag" class="small-12 columns">
+			<h1 class="white big-font">Acceleration. Reinvented.</h1>
+			<h2>Women Innovate Mobile is the first tech accelerator and alternative funding ecosystem dedicated to diverse founding teams of mobile and mobile-first technologies.</h2>
+		</div>
+	</div>
+</section>
+
+<section id="highlights" class="main-section">
+	<div class="row">
+		<div class="small-12 columns">
+			<h1 class="text-center">Our Series</h1>
+			<p>WIM has a few series they do</p>
+
+			<div class="row">
+				<div class = "small-12 columns">
+					<div class="series">
+						<img src="{{ site.baseurl }}/img/highlights/g+icon.png">
+						<div class="content">
+							<h2>G+ Women Who Tech</h2>
+							<p>Duis nec bibendum felis, egestas fringilla ante. Donec id sodales magna. Cras cursus ornare placerat.</p>
+							<p><a href="#">Learn More>></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class = "small-12 columns">
+					<div class="series">
+						<img src="{{ site.baseurl }}/img/highlights/posner-abigail.jpg">
+						<div class="content">
+							<h2>Founder's Breakfast</h2>
+							<p>Duis nec bibendum felis, egestas fringilla ante. Donec id sodales magna. Cras cursus ornare placerat.</p>
+							<p><a href="#">Learn More>></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class = "small-12 columns">
+					<div class="series">
+						<img src="{{ site.baseurl }}/img/highlights/apple.png">
+						<div class="content">
+							<h2>Meet the Innovators</h2>
+							<p>Duis nec bibendum felis, egestas fringilla ante. Donec id sodales magna. Cras cursus ornare placerat. </p>
+							<p><a href="#">Learn More>></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section id="ecosystem" class="main-section-small">
+	<div class="row">
+		<div class="small-12 columns">
+			<div id="eco-content">
+				<h1 class="text-center gray">Our Ecosystem</h1>
+				<p>Aenean eget facilisis turpis. Aenean non tortor sit amet ligula dictum sollicitudin quis ac ligula. Curabitur eget convallis massa. Morbi viverra tincidunt magna in mattis. Vivamus at lacinia dolor, id interdum neque. Ut pellentesque diam et pellentesque aliquet.</p>
+
+				<p>Become part of our ecosystem.</p>
+				<a href="#" class="button radius">JOIN OUR ECOSYSTEM</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="blog" class="main-section">
+	<div class="row">
+		<div class="small-12 columns">
+			<h1 class="text-center">Our Blog</h1>
+			<p>WIM has a blog. Check  out our recent posts.</p>
+
+			{% for post in site.posts  limit: 3 %}
+				<div class="small-12 medium-4 columns">
+				  <div class="blog">
+				  	<a href="{{ post.url }}">
+				    <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+				    <h3 class="title">{{ post.title }}</h3>
+				    <p class="">{{ post.summary }}</p>
+				  </a>
+				  </div>
+				</div>
+	  	{% endfor %}
+		</div>
+	</div>
+</section>
+
+<section id="sponsors">
+	<div class="row">
+		<div class="small-12 medium-12 large-12 columns text-center">
+			<h1>Our Sponsors</h1>
+
+				<div class="sponsors">
+					<div class="sponsor">
+						<a href="http://www.aa.com/homePage.do"><img src="{{ site.baseurl }}/img/sponsors/american-airlines-logo.png" ></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="http://www.apple.com/"><img src="{{ site.baseurl }}/img/sponsors/apple-logo.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="https://www.google.com/"><img src="{{ site.baseurl }}/img/sponsors/google-logo.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="http://grindspaces.com/"><img src="{{ site.baseurl }}/img/sponsors/grind-logo.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="http://www.lowenstein.com/"><img src="{{ site.baseurl }}/img/sponsors/lowenstein-sandler-logo.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="http://pitchbook.com/"><img src="{{ site.baseurl }}/img/sponsors/pitchbook-logo.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="https://redstamp.com/"><img src="{{ site.baseurl }}/img/sponsors/red-stamp-logo-2.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="http://www.svb.com/"><img src="{{ site.baseurl }}/img/sponsors/silicon-valley-bank-logo.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="http://www.trinet.com/"><img src="{{ site.baseurl }}/img/sponsors/trinet-logo.png"></a>
+					</div>
+
+					<div class="sponsor">
+						<a href="http://myturnstone.com/"><img src="{{ site.baseurl }}/img/sponsors/turnstone-logo.png"></a>
+					</div>
+				</div>
+
+	     <h6 id="potential">Want to become a sponsor? Email info AT wim DOT co for more info.</h6>
+		</div>
+	</div>
+</section>
