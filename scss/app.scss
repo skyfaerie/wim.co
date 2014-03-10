@@ -153,9 +153,10 @@ a:hover { color: #670585; }
 
 /* Slide 3 */
 
-// #solid {
-// 	background-color:#ffffff;
-// }
+#solid{
+	padding: 2em 0;
+	min-height: 95%;
+}
 
 /* Slide 4 */
 
@@ -166,10 +167,18 @@ a:hover { color: #670585; }
 	min-height: 75%;
 }
 
+/* Slide 5 */
+
+#blog{
+	padding-top: 2em;
+	min-height: 95%;
+}
+
+
 /////////    POST PARALLAX     ////////
 
 .series {
-	width: 80%;
+	width: 100%;
 	margin: 0 auto;
 	padding-bottom: 2em;
 
@@ -205,18 +214,16 @@ a:hover { color: #670585; }
 	}
 }
 
-#blog {
-	img {
-		height: 200px;
-	}
-}
+// #blog {
+// 	img {
+// 		height: 200px;
+// 	}
+// }
 
 .blog {
 	max-width: 300px;
 	margin: 0 auto;
 }
-
-.sponsors { margin: 0 auto; }
 
 .sponsor {
 	display: inline-block;
