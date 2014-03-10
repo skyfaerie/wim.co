@@ -7931,52 +7931,52 @@ a:hover {
 #bgpic {
   min-height: 60%;
   background-image: url("../img/backgrounds/nyc.jpg");
-  background-color: #f68f67;
 }
 
 /* Slide 3 */
 /* Slide 4 */
-/* line 163, ../scss/app.scss */
+/* line 162, ../scss/app.scss */
 #pattern {
   background-image: url("../img/backgrounds/greyzz.png");
   background-color: #8a8683;
   color: #ffffff;
 }
 
-/* line 180, ../scss/app.scss */
+/* line 179, ../scss/app.scss */
 .series {
   width: 80%;
   margin: 0 auto;
   padding-bottom: 2em;
 }
-/* line 185, ../scss/app.scss */
+/* line 184, ../scss/app.scss */
 .series img {
   width: 150px;
   margin: 0 auto;
   display: block;
 }
-/* line 191, ../scss/app.scss */
+/* line 190, ../scss/app.scss */
 .series .content {
   padding-top: 0.5em;
   max-width: 75%;
   margin: 0 auto;
   text-align: center;
 }
-/* line 197, ../scss/app.scss */
+/* line 196, ../scss/app.scss */
 .series .content h4 {
   text-align: center;
 }
 
-/* line 201, ../scss/app.scss */
+/* line 200, ../scss/app.scss */
 #tagline {
   padding: 140px 0 150px 0;
 }
 
-/* line 203, ../scss/app.scss */
+/* line 202, ../scss/app.scss */
 #ecosystem {
   max-width: 90%;
   min-height: 100%;
   margin: 0 auto;
+  margin-top: 2em;
 }
 /* line 208, ../scss/app.scss */
 #ecosystem .button {

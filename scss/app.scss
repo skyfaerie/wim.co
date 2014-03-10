@@ -149,7 +149,6 @@ a:hover { color: #670585; }
 #bgpic {
 	min-height: 60%;
 	background-image: url('../img/backgrounds/nyc.jpg');
-	background-color:#f68f67;
 }
 
 /* Slide 3 */
@@ -204,6 +203,7 @@ a:hover { color: #670585; }
 	max-width: 90%;
 	min-height: 100%;
 	margin: 0 auto;
+	margin-top: 2em;
 
 	.button {
 		max-width: 15em;
