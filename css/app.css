@@ -7923,14 +7923,14 @@ a:hover {
   min-height: 100%;
   background-image: url("../img/backgrounds/femalefounders1.jpg");
   background-repeat: no-repeat;
-  background-color: #ffffff;
 }
 
 /* Slide 2 */
-/* line 149, ../scss/app.scss */
+/* line 148, ../scss/app.scss */
 #bgpic {
   min-height: 60%;
   background-image: url("../img/backgrounds/nyc.jpg");
+  background-repeat: no-repeat;
 }
 
 /* Slide 3 */
@@ -7981,7 +7981,7 @@ a:hover {
 
 /* line 201, ../scss/app.scss */
 #tagline {
-  padding: 140px 0 150px 0;
+  padding-top: 140px;
 }
 
 /* line 203, ../scss/app.scss */

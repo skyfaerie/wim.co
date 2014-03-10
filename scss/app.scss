@@ -141,7 +141,6 @@ a:hover { color: #670585; }
 	min-height: 100%;
 	background-image: url('../img/backgrounds/femalefounders1.jpg');
 	background-repeat: no-repeat;
-	background-color:#ffffff;
 }
 
 /* Slide 2 */
@@ -149,6 +148,7 @@ a:hover { color: #670585; }
 #bgpic {
 	min-height: 60%;
 	background-image: url('../img/backgrounds/nyc.jpg');
+	background-repeat: no-repeat;
 }
 
 /* Slide 3 */
@@ -198,7 +198,7 @@ a:hover { color: #670585; }
 	}
 }
 
-#tagline {padding: 140px 0 150px 0; }  //horrible fix for home section
+#tagline {padding-top: 140px; }  //horrible fix for home section
 
 #ecosystem {
 	max-width: 90%;
