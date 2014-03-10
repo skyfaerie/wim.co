@@ -149,6 +149,7 @@ a:hover { color: #670585; }
 	min-height: 60%;
 	background-image: url('../img/backgrounds/nyc.jpg');
 	background-repeat: no-repeat;
+
 }
 
 /* Slide 3 */
@@ -175,7 +176,6 @@ a:hover { color: #670585; }
 }
 
 
-/////////    POST PARALLAX     ////////
 
 .series {
 	width: 100%;
@@ -198,13 +198,16 @@ a:hover { color: #670585; }
 	}
 }
 
-#tagline {padding-top: 140px; }  //horrible fix for home section
+#tagline {
+	padding-top: 140px;
+ }  //horrible fix for home section
 
 #ecosystem {
 	max-width: 90%;
 	min-height: 100%;
 	margin: 0 auto;
 	padding-top: 2em;
+	padding-bottom: 6em;
 
 	.button {
 		max-width: 15em;
@@ -213,12 +216,6 @@ a:hover { color: #670585; }
 		margin-bottom: 2em;
 	}
 }
-
-// #blog {
-// 	img {
-// 		height: 200px;
-// 	}
-// }
 
 .blog {
 	max-width: 300px;
@@ -240,15 +237,15 @@ a:hover { color: #670585; }
 footer {
 	z-index: 1000;
 	position: relative;
-	min-height: 20em;
-	margin-bottom: -20em;
+	min-height: 25em;
+	margin-bottom: -25em;
 	// background-color: darken(#670585, 10%);
 	background-color: rgba(0,0,0, 0.6);
 	color: #ccc;
 }
 
 #map-canvas {
-	min-height: 20em;
+	min-height: 25em;
 }
 
 .sm-color {
