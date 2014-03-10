@@ -126,7 +126,7 @@ a:hover { color: #670585; }
 // HOMEPAGE
 //////////////////////////////////////////////////////
 
-/* General Slides */
+/* parallax */
 
 .slide {
 	background-attachment: fixed;
@@ -135,15 +135,11 @@ a:hover { color: #670585; }
 	position: relative;
 }
 
-/* Slide 1 */
-
 #intro {
 	min-height: 100%;
 	background-image: url('../img/backgrounds/femalefounders1.jpg');
 	background-repeat: no-repeat;
 }
-
-/* Slide 2 */
 
 #bgpic {
 	min-height: 60%;
@@ -152,14 +148,10 @@ a:hover { color: #670585; }
 
 }
 
-/* Slide 3 */
-
 #solid{
 	padding: 2em 0;
 	min-height: 95%;
 }
-
-/* Slide 4 */
 
 #pattern {
 	// background-image:url('../img/backgrounds/crossword.png');
@@ -168,14 +160,14 @@ a:hover { color: #670585; }
 	min-height: 75%;
 }
 
-/* Slide 5 */
-
-#blog{
+#blog {
 	padding-top: 2em;
 	min-height: 95%;
 }
 
 
+// make mobile first
+// use @media screen for parallax
 
 .series {
 	width: 100%;
@@ -274,7 +266,7 @@ footer span {
 	padding-left: 0.3em;
 }
 
-@media(min-width:550px) {
+@media screen and (min-width:550px) {
 	.series {
 		width: 85%;
 		margin: 0 auto;
