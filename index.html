@@ -3,23 +3,20 @@ layout: main
 title: Women Innovate Mobile
 ---
 
-<div class="slide splash" id="intro" data-slide="1" data-stellar-background-ratio="0.5">
-  <div class="container clearfix">
-    <div class="row">
-      <div id="content" class="small-12 columns">
-        <div id="tagline">
-          <h1 class="white big-font">Acceleration. Reinvented.</h1>
-          <h2>Women Innovate Mobile is the first tech accelerator and alternative funding ecosystem dedicated to diverse founding teams of mobile and mobile-first technologies.</h2>
-        </div>
+<div class="slide" id="intro" data-slide="1" data-stellar-background-ratio="0.5">
+  <div class="row">
+    <div class="small-12 columns">
+      <div id="tagline">
+        <h1 class="white big-font">Acceleration. Reinvented.</h1>
+        <h2>Women Innovate Mobile is the first tech accelerator and alternative funding ecosystem dedicated to diverse founding teams of mobile and mobile-first technologies.</h2>
       </div>
-    </div>
-  </div>
-</div>
+    </div> <!--/columns-->
+  </div> <!--/row-->
+</div> <!--/slide-->
 
 <div class="slide" id="solid" data-slide="3" data-stellar-background-ratio="0.5">
-  <div class="container clearfix">
-    <div class="row">
-      <div id="content">
+  <div class="row">
+      <div class="small-12 columns">
         <h1 class="text-center">Our Series</h1>
         <p>WIM has a few series they do</p>
 
@@ -64,123 +61,115 @@ title: Women Innovate Mobile
             </div>
           </div>
         </div>
-
-      </div>
-    </div><!--/row-->
-  </div>
+      </div><!--/columns-->
+  </div><!--/row-->
 </div><!--/slide-->
 
 
 <div class="slide" id="bgpic" data-slide="2" data-stellar-background-ratio="0.5">
-  <div class="container clearfix">
-    <div class="darken row">
-      <div id="content" class="small-12 columns">
-        <div id="ecosystem">
-          <h1 class="text-center gray">Our Ecosystem</h1>
-          <p>Aenean eget facilisis turpis. Aenean non tortor sit amet ligula dictum sollicitudin quis ac ligula. Curabitur eget convallis massa. Morbi viverra tincidunt magna in mattis. Vivamus at lacinia dolor, id interdum neque. Ut pellentesque diam et pellentesque aliquet.</p>
+  <div class="darken"><div class="row">
+    <div class="small-12 medium-12 columns">
+      <div id="ecosystem" class="gray">
+        <h1 class="text-center gray">Our Ecosystem</h1>
+        <p>Aenean eget facilisis turpis. Aenean non tortor sit amet ligula dictum sollicitudin quis ac ligula. Curabitur eget convallis massa. Morbi viverra tincidunt magna in mattis. Vivamus at lacinia dolor, id interdum neque. Ut pellentesque diam et pellentesque aliquet.</p>
 
-          <p>Become part of our ecosystem.</p>
-          <a href="#" class="button radius">JOIN OUR ECOSYSTEM</a>
-        </div>
-      </div><!--/content-->
-    </div><!--/div-->
-  </div> <!--/container-->
+        <p>Become part of our ecosystem.</p>
+        <a href="#" class="button radius">JOIN OUR ECOSYSTEM</a>
+      </div>
+    </div><!--/columns-->
+  </div></div><!--/row-->
 </div> <!--/slide-->
 
 <div class="slide" id="solid" data-slide="3" data-stellar-background-ratio="0.5">
-  <div class="container clearfix">
-    <div class="row">
-      <div id="content" class="small-12 columns">
-        <h1 class="text-center">Our Blog</h1>
-        <p>WIM has a blog. Check out our recent posts.</p>
+  <div class="row">
+    <div class="small-12 columns">
+      <h1 class="text-center">Our Blog</h1>
+      <p>WIM has a blog. Check out our recent posts.</p>
 
-        <div class="row">
-          {% for post in site.posts limit: 3 %}
-          <div class="small-4 columns">
-            <div class="blog">
-              <a href="{{ post.url }}">
-                <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-                <h3 class="title">{{ post.title }}</h3>
-                <p class="">{{ post.summary }}</p>
-              </a>
-            </div>
+      <div class="row">
+        {% for post in site.posts limit: 3 %}
+        <div class="small-4 columns">
+          <div class="blog">
+            <a href="{{ post.url }}">
+              <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+              <h3 class="title">{{ post.title }}</h3>
+              <p class="">{{ post.summary }}</p>
+            </a>
           </div>
-          {% endfor %}
-        </div> <!--/row-->
-      </div> <!--/content-->
-    </div> <!--/row-->
-  </div> <!--/container-->
+        </div>
+        {% endfor %}
+      </div>
+    </div> <!--/columns-->
+  </div> <!--/row-->
 </div> <!--/slide-->
 
 <div class="slide" id="pattern" data-slide="4" data-stellar-background-ratio="0.5">
-  <div class="container clearfix">
-    <div class="row">
-      <div id="content" class="small-12 columns">
-        <h1>Our Sponsors</h1>
+  <div class="row">
+    <div class="small-12 columns">
+      <h1>Our Sponsors</h1>
 
-        <div class="sponsors">
-          <div class="sponsor">
-            <a href="http://www.aa.com/homePage.do">
-              <img src="{{ site.baseurl }}/img/sponsors/american-airlines-logo.png">
-            </a>
-          </div>
+      <div class="sponsors">
+        <div class="sponsor">
+          <a href="http://www.aa.com/homePage.do">
+            <img src="{{ site.baseurl }}/img/sponsors/american-airlines-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="http://www.apple.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/apple-logo.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="http://www.apple.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/apple-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="https://www.google.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/google-logo.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="https://www.google.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/google-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="http://grindspaces.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/grind-logo.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="http://grindspaces.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/grind-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="http://www.lowenstein.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/lowenstein-sandler-logo.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="http://www.lowenstein.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/lowenstein-sandler-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="http://pitchbook.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/pitchbook-logo.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="http://pitchbook.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/pitchbook-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="https://redstamp.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/red-stamp-logo-2.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="https://redstamp.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/red-stamp-logo-2.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="http://www.svb.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/silicon-valley-bank-logo.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="http://www.svb.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/silicon-valley-bank-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="http://www.trinet.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/trinet-logo.png">
-            </a>
-          </div>
+        <div class="sponsor">
+          <a href="http://www.trinet.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/trinet-logo.png">
+          </a>
+        </div>
 
-          <div class="sponsor">
-            <a href="http://myturnstone.com/">
-              <img src="{{ site.baseurl }}/img/sponsors/turnstone-logo.png">
-            </a>
-          </div>
-        </div> <!--/sponsors-->
-        <h6 id="potential">Want to become a sponsor? Email info AT wim DOT co for more info.</h6>
-      </div> <!--/content-->
-    </div> <!--/row-->
-  </div> <!--/container-->
+        <div class="sponsor">
+          <a href="http://myturnstone.com/">
+            <img src="{{ site.baseurl }}/img/sponsors/turnstone-logo.png">
+          </a>
+        </div>
+      </div> <!--/sponsors-->
+      <h6 id="potential">Want to become a sponsor? Email info AT wim DOT co for more info.</h6>
+    </div> <!--/columns-->
+  </div> <!--/row-->
 </div> <!--/slide-->

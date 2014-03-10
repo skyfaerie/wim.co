@@ -118,18 +118,13 @@ a:hover { color: #670585; }
 
 .darken {
 	background-color: rgba(0,0,0,0.5);
-	max-width: 100%;
+	min-width: 100%;
+	height: inherit;
 }
 
 //////////////////////////////////////////////////////
 // HOMEPAGE
 //////////////////////////////////////////////////////
-
-
-.splash {
-	background-image: url('../img/backgrounds/femalefounders1.jpg');
-	background-repeat: no-repeat;
-}
 
 /* General Slides */
 
@@ -138,21 +133,23 @@ a:hover { color: #670585; }
 	width:100%;
 	height:auto;
 	position: relative;
-	// padding:140px 0;
 }
 
 /* Slide 1 */
 
-// #intro {
-// 	background-color:#ffffff;
-// }
+#intro {
+	min-height: 100%;
+	background-image: url('../img/backgrounds/femalefounders1.jpg');
+	background-repeat: no-repeat;
+	background-color:#ffffff;
+}
 
 /* Slide 2 */
 
 #bgpic {
+	min-height: 60%;
 	background-image: url('../img/backgrounds/nyc.jpg');
 	background-color:#f68f67;
-	color:#ffffff;
 }
 
 /* Slide 3 */
@@ -160,7 +157,6 @@ a:hover { color: #670585; }
 // #solid {
 // 	background-color:#ffffff;
 // }
-
 
 /* Slide 4 */
 
@@ -171,38 +167,13 @@ a:hover { color: #670585; }
 	color:#ffffff;
 }
 
-/* Tablet */
-@media screen and (max-width: 1024px) {
+// /* Tablet */
+// @media screen and (max-width: 1024px) {
 
-	.slide {
-		background-attachment: fixed;
-		width:100%;
-		position: relative;
-		// padding:150px 0;
-	}
-
-	#decorative {
-		display:none;
-	}
-
-	#content {
-		text-align:center;
-		width:100%;
-	}
-}
-
-
-/* Mobile */
-@media screen and (max-width: 480px) {
-
-	.slide {
-		background-attachment: fixed;
-		width:100%;
-		position: relative;
-		// padding:150px 0;
-	}
-}
-
+// 	#decorative {
+// 		display:none;
+// 	}
+// }
 
 /////////    POST PARALLAX     ////////
 
@@ -227,13 +198,12 @@ a:hover { color: #670585; }
 	}
 }
 
-#tagline {padding: 24% 0; }  //horrible fix for home section
+#tagline {padding: 140px 0 150px 0; }  //horrible fix for home section
 
 #ecosystem {
-	max-width: 75%;
-	padding: 5% 0;
+	max-width: 90%;
+	min-height: 100%;
 	margin: 0 auto;
-	height: 100%;
 
 	.button {
 		max-width: 15em;
