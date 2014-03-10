@@ -162,17 +162,9 @@ a:hover { color: #670585; }
 #pattern {
 	// background-image:url('../img/backgrounds/crossword.png');
 	background-image:url('../img/backgrounds/greyzz.png');
-	background-color:#8a8683;
-	color:#ffffff;
+	padding: 2em 0;
+	min-height: 75%;
 }
-
-// /* Tablet */
-// @media screen and (max-width: 1024px) {
-
-// 	#decorative {
-// 		display:none;
-// 	}
-// }
 
 /////////    POST PARALLAX     ////////
 
@@ -203,7 +195,7 @@ a:hover { color: #670585; }
 	max-width: 90%;
 	min-height: 100%;
 	margin: 0 auto;
-	margin-top: 2em;
+	padding-top: 2em;
 
 	.button {
 		max-width: 15em;
@@ -223,6 +215,8 @@ a:hover { color: #670585; }
 	max-width: 300px;
 	margin: 0 auto;
 }
+
+.sponsors { margin: 0 auto; }
 
 .sponsor {
 	display: inline-block;
