@@ -122,34 +122,86 @@ a:hover { color: #670585; }
 // HOMEPAGE
 //////////////////////////////////////////////////////
 
-// .splash {
-// 	min-height: 100%;
-// 	background-image: url('../img/backgrounds/femalefounders1.jpg');
-// 	background-color: #ccc;
-// 	background-repeat: no-repeat;
-// 	background-position-x: center;
-// 	text-align: center;
-// 	box-shadow: 0 2px 9px 0 #333;
 
-// 	.row { padding: 15em 0; }
+.splash {
+	background-image: url('../img/backgrounds/femalefounders1.jpg');
+	background-repeat: no-repeat;
+}
+
+/* General Slides */
+
+.slide {
+	background-attachment: fixed;
+	width:100%;
+	height:auto;
+	position: relative;
+	// padding:140px 0;
+}
+
+/* Slide 1 */
+
+// #intro {
+// 	background-color:#ffffff;
 // }
 
-// #tag {
-// 	h2 { color: #fefefe; }
-// }
+/* Slide 2 */
 
-// .main-section {
-// 	min-height: 95%;
-// }
+#bgpic {
+	background-image: url('../img/backgrounds/nyc.jpg');
+	background-color:#f68f67;
+	color:#ffffff;
+}
 
-// .main-section-small {
-// 	min-height: 60%;
+/* Slide 3 */
 
-// }
+#solid {
+	background-color:#ffffff;
+}
 
-// #highlights {
-// 	padding-top: 3em;
-// }
+
+/* Slide 4 */
+
+#pattern {
+	// background-image:url('../img/backgrounds/crossword.png');
+	background-image:url('../img/backgrounds/greyzz.png');
+	background-color:#8a8683;
+	color:#ffffff;
+}
+
+/* Tablet */
+@media screen and (max-width: 1024px) {
+
+	.slide {
+		background-attachment: fixed;
+		width:100%;
+		position: relative;
+		// padding:150px 0;
+	}
+
+	#decorative {
+		display:none;
+	}
+
+	#content {
+		text-align:center;
+		width:100%;
+	}
+}
+
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+
+	.slide {
+		background-attachment: fixed;
+		width:100%;
+		position: relative;
+		// padding:150px 0;
+	}
+}
+
+
+/////////    POST PARALLAX     ////////
 
 .series {
 	width: 80%;
@@ -172,21 +224,16 @@ a:hover { color: #670585; }
 	}
 }
 
-#ecosystem {
-	// background-image: url('../img/backgrounds/nyc.jpg');
-	// background-repeat: no-repeat;
-	// background-position-x: center;
-	// box-shadow: 0 2px 13px 3px #333;
-}
+#tagline {padding: 24% 0; }  //horrible fix for home section
 
 #eco-content {
-	// margin: 0 auto;
-	// margin-top: 3em;
 	background-color: rgba(0,0,0,0.5);
-	// max-width: 75%;
-	// border-radius: 1em;
-	// padding: 3px 15px 3px 15px;
-	// color: #ccc;
+	max-width: 75%;
+	border-radius: 1em;
+
+	padding: 5% 0;
+	margin: 0 auto;
+	height: 100%;
 
 	.button {
 		max-width: 15em;
@@ -197,30 +244,15 @@ a:hover { color: #670585; }
 }
 
 #blog {
-	// padding-top: 3em;
-	// text-align: center;
-
 	img {
 		height: 200px;
 	}
-
-	// h5 {
-	// 	padding-top: 1em;
-	// }
 }
 
 .blog {
 	max-width: 300px;
 	margin: 0 auto;
 }
-
-#sponsors {
-	// box-shadow: 0 2px 13px 3px #333;
-	// padding-top: 3em;
-	// min-height: 80%;
-}
-
-// .sponsors { margin-bottom: 6em; }
 
 .sponsor {
 	display: inline-block;
@@ -275,27 +307,27 @@ footer span {
 }
 
 @media(min-width:550px) {
-	// .series {
-	// 	width: 90%;
-	// 	margin: 0 auto;
-	// 	padding-bottom: 1em;
+	.series {
+		width: 85%;
+		margin: 0 auto;
+		padding-bottom: 1em;
 
-	// 	img {
-	// 		float: left;
-	// 		padding-right: 1em;
-	// 		display: inline-block;
-	// 		width: 175px;
-	// 	}
+		img {
+			float: left;
+			padding-right: 1em;
+			display: inline-block;
+			width: 175px;
+		}
 
-	// 	.content {
-	// 		padding-top: 0;
-	// 		max-width: 100%;
-	// 		// margin: 0 auto;
-	// 		text-align: left;
+		.content {
+			padding-top: 0;
+			max-width: 100%;
+			margin: 0 auto;
+			text-align: left;
 
-	// 		h4 { text-align: left; }
-	// 	}
-	// }
+			h4 { text-align: left; }
+		}
+	}
 
 	footer {
 		text-align: right;
@@ -428,6 +460,3 @@ footer span {
 		margin-top: 1em;
 	}
 }
-
-
-
