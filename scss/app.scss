@@ -116,7 +116,10 @@ a:hover { color: #670585; }
 
 .purple { color: #670585; }
 
-
+.darken {
+	background-color: rgba(0,0,0,0.5);
+	max-width: 100%;
+}
 
 //////////////////////////////////////////////////////
 // HOMEPAGE
@@ -154,9 +157,9 @@ a:hover { color: #670585; }
 
 /* Slide 3 */
 
-#solid {
-	background-color:#ffffff;
-}
+// #solid {
+// 	background-color:#ffffff;
+// }
 
 
 /* Slide 4 */
@@ -226,11 +229,8 @@ a:hover { color: #670585; }
 
 #tagline {padding: 24% 0; }  //horrible fix for home section
 
-#eco-content {
-	background-color: rgba(0,0,0,0.5);
+#ecosystem {
 	max-width: 75%;
-	border-radius: 1em;
-
 	padding: 5% 0;
 	margin: 0 auto;
 	height: 100%;

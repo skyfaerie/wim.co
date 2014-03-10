@@ -73,49 +73,44 @@ title: Women Innovate Mobile
 
 <div class="slide" id="bgpic" data-slide="2" data-stellar-background-ratio="0.5">
   <div class="container clearfix">
+    <div class="darken row">
+      <div id="content" class="small-12 columns">
+        <div id="ecosystem">
+          <h1 class="text-center gray">Our Ecosystem</h1>
+          <p>Aenean eget facilisis turpis. Aenean non tortor sit amet ligula dictum sollicitudin quis ac ligula. Curabitur eget convallis massa. Morbi viverra tincidunt magna in mattis. Vivamus at lacinia dolor, id interdum neque. Ut pellentesque diam et pellentesque aliquet.</p>
 
-    <div id="content" class="small-12 columns">
-      <div id="eco-content">
-        <h1 class="text-center gray">Our Ecosystem</h1>
-        <p>Aenean eget facilisis turpis. Aenean non tortor sit amet ligula dictum sollicitudin quis ac ligula. Curabitur eget convallis massa. Morbi viverra tincidunt magna in mattis. Vivamus at lacinia dolor, id interdum neque. Ut pellentesque diam et pellentesque aliquet.</p>
-
-        <p>Become part of our ecosystem.</p>
-        <a href="#" class="button radius">JOIN OUR ECOSYSTEM</a>
-      </div>
-
-    </div>
-
-  <!-- </div> -->
-</div>
-
-
+          <p>Become part of our ecosystem.</p>
+          <a href="#" class="button radius">JOIN OUR ECOSYSTEM</a>
+        </div>
+      </div><!--/content-->
+    </div><!--/div-->
+  </div> <!--/container-->
+</div> <!--/slide-->
 
 <div class="slide" id="solid" data-slide="3" data-stellar-background-ratio="0.5">
-  <!-- <div class="container clearfix"> -->
+  <div class="container clearfix">
     <div class="row">
-    <div id="content" class="small-12 columns">
-      <h1 class="text-center">Our Blog</h1>
-      <p>WIM has a blog. Check out our recent posts.</p>
+      <div id="content" class="small-12 columns">
+        <h1 class="text-center">Our Blog</h1>
+        <p>WIM has a blog. Check out our recent posts.</p>
 
-      <div class="row">
-      {% for post in site.posts limit: 3 %}
-      <div class="small-4 columns">
-        <div class="blog">
-          <a href="{{ post.url }}">
-            <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
-            <h3 class="title">{{ post.title }}</h3>
-            <p class="">{{ post.summary }}</p>
-          </a>
-        </div>
-      </div>
-      {% endfor %}
-    </div><!--/row-->
-    </div>
-  </div><!--/outer row-->
-  </div>
-</div>
-
-
+        <div class="row">
+          {% for post in site.posts limit: 3 %}
+          <div class="small-4 columns">
+            <div class="blog">
+              <a href="{{ post.url }}">
+                <img src="{{ site.baseurl }}/img/blog/{{ post.image }}">
+                <h3 class="title">{{ post.title }}</h3>
+                <p class="">{{ post.summary }}</p>
+              </a>
+            </div>
+          </div>
+          {% endfor %}
+        </div> <!--/row-->
+      </div> <!--/content-->
+    </div> <!--/row-->
+  </div> <!--/container-->
+</div> <!--/slide-->
 
 <div class="slide" id="pattern" data-slide="4" data-stellar-background-ratio="0.5">
   <div class="container clearfix">
@@ -183,8 +178,7 @@ title: Women Innovate Mobile
               <img src="{{ site.baseurl }}/img/sponsors/turnstone-logo.png">
             </a>
           </div>
-        </div>
-
+        </div> <!--/sponsors-->
         <h6 id="potential">Want to become a sponsor? Email info AT wim DOT co for more info.</h6>
       </div> <!--/content-->
     </div> <!--/row-->

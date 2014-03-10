@@ -7901,14 +7901,20 @@ a:hover {
   color: #670585;
 }
 
-/* line 126, ../scss/app.scss */
+/* line 119, ../scss/app.scss */
+.darken {
+  background-color: rgba(0, 0, 0, 0.5);
+  max-width: 100%;
+}
+
+/* line 129, ../scss/app.scss */
 .splash {
   background-image: url("../img/backgrounds/femalefounders1.jpg");
   background-repeat: no-repeat;
 }
 
 /* General Slides */
-/* line 133, ../scss/app.scss */
+/* line 136, ../scss/app.scss */
 .slide {
   background-attachment: fixed;
   width: 100%;
@@ -7918,7 +7924,7 @@ a:hover {
 
 /* Slide 1 */
 /* Slide 2 */
-/* line 149, ../scss/app.scss */
+/* line 152, ../scss/app.scss */
 #bgpic {
   background-image: url("../img/backgrounds/nyc.jpg");
   background-color: #f68f67;
@@ -7926,13 +7932,8 @@ a:hover {
 }
 
 /* Slide 3 */
-/* line 157, ../scss/app.scss */
-#solid {
-  background-color: #ffffff;
-}
-
 /* Slide 4 */
-/* line 164, ../scss/app.scss */
+/* line 167, ../scss/app.scss */
 #pattern {
   background-image: url("../img/backgrounds/greyzz.png");
   background-color: #8a8683;
@@ -7941,19 +7942,19 @@ a:hover {
 
 /* Tablet */
 @media screen and (max-width: 1024px) {
-  /* line 174, ../scss/app.scss */
+  /* line 177, ../scss/app.scss */
   .slide {
     background-attachment: fixed;
     width: 100%;
     position: relative;
   }
 
-  /* line 181, ../scss/app.scss */
+  /* line 184, ../scss/app.scss */
   #decorative {
     display: none;
   }
 
-  /* line 185, ../scss/app.scss */
+  /* line 188, ../scss/app.scss */
   #content {
     text-align: center;
     width: 100%;
@@ -7961,53 +7962,51 @@ a:hover {
 }
 /* Mobile */
 @media screen and (max-width: 480px) {
-  /* line 195, ../scss/app.scss */
+  /* line 198, ../scss/app.scss */
   .slide {
     background-attachment: fixed;
     width: 100%;
     position: relative;
   }
 }
-/* line 206, ../scss/app.scss */
+/* line 209, ../scss/app.scss */
 .series {
   width: 80%;
   margin: 0 auto;
   padding-bottom: 2em;
 }
-/* line 211, ../scss/app.scss */
+/* line 214, ../scss/app.scss */
 .series img {
   width: 150px;
   margin: 0 auto;
   display: block;
 }
-/* line 217, ../scss/app.scss */
+/* line 220, ../scss/app.scss */
 .series .content {
   padding-top: 0.5em;
   max-width: 75%;
   margin: 0 auto;
   text-align: center;
 }
-/* line 223, ../scss/app.scss */
+/* line 226, ../scss/app.scss */
 .series .content h4 {
   text-align: center;
 }
 
-/* line 227, ../scss/app.scss */
+/* line 230, ../scss/app.scss */
 #tagline {
   padding: 24% 0;
 }
 
-/* line 229, ../scss/app.scss */
-#eco-content {
-  background-color: rgba(0, 0, 0, 0.5);
+/* line 232, ../scss/app.scss */
+#ecosystem {
   max-width: 75%;
-  border-radius: 1em;
   padding: 5% 0;
   margin: 0 auto;
   height: 100%;
 }
 /* line 238, ../scss/app.scss */
-#eco-content .button {
+#ecosystem .button {
   max-width: 15em;
   display: block;
   margin: 0 auto;
