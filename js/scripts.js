@@ -22,7 +22,7 @@ jQuery(document).ready(function ($) {
         }
 
     });
- 
+
     mywindow.scroll(function () {
         if (mywindow.scrollTop() == 0) {
             $('.navigation li[data-slide="1"]').addClass('active');
